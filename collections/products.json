@@ -1,0 +1,1454 @@
+[
+    {
+        "_id": "173c12ff-75e0-44be-8c9a-d6136a67bd08",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "6181bbf6-8c1d-4fcc-b436-7149126e31cd",
+            "bb53b86d-1c36-404b-a21d-362673ab51c3"
+        ],
+        "productType": "Fresh",
+        "name": "Farmers Bread",
+        "shortDescription": "Freshly baked, from the field to your home.",
+        "dimensions": "10x5x13 cm",
+        "avgRatingScore": 3.01,
+        "stdPrice": 420,
+        "supplierPrice": 250,
+        "attributes": {
+            "weightOrQuantity": 550,
+            "freshAttributes": {
+                "category": "Bakery",
+                "expiryDate": "2023-12-23",
+                "countryOfOrigin": "Scotland"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "be211439-a184-4e60-a0d5-f34e8dbba849",
+            "20c3c67b-cc01-49f2-a44e-4363d48829d5"
+        ],
+        "productType": "Fresh",
+        "name": "Chocolate Bread",
+        "shortDescription": "Soft bread with chocolate pieces inside.",
+        "dimensions": "10x12x8 cm",
+        "avgRatingScore": 2.76,
+        "stdPrice": 484,
+        "supplierPrice": 154,
+        "attributes": {
+            "weightOrQuantity": 440,
+            "freshAttributes": {
+                "category": "Bakery",
+                "expiryDate": "2023-12-28",
+                "countryOfOrigin": "Burundi"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "e3d8bb1c-7215-40c1-8766-2ca6238e9173",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "411b45f2-3d37-45d1-bc2d-7461d70df3bf"
+        ],
+        "productType": "Fresh",
+        "name": "African Bread",
+        "shortDescription": "Hand-made and baked bread, perfect for sandwiches.",
+        "dimensions": "45x20x17 cm",
+        "avgRatingScore": 4.41,
+        "stdPrice": 630,
+        "supplierPrice": 370,
+        "attributes": {
+            "weightOrQuantity": 760,
+            "freshAttributes": {
+                "category": "Bakery",
+                "expiryDate": "2023-12-30",
+                "countryOfOrigin": "Namibia"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "59e4c877-a5b6-4113-a038-444b00f67372",
+            "1b596eec-7318-4259-b54c-d91dd4b27704",
+            "2a3330ef-a4df-41f5-9718-f5f71291d86a"
+        ],
+        "productType": "Fresh",
+        "name": "Serbian Rolls",
+        "shortDescription": "Family owned recipe, baked fresh every day.",
+        "dimensions": "73x89x18 cm",
+        "avgRatingScore": 3.71,
+        "stdPrice": 440,
+        "supplierPrice": 270,
+        "attributes": {
+            "weightOrQuantity": 360,
+            "freshAttributes": {
+                "category": "Bakery",
+                "expiryDate": "2023-12-17",
+                "countryOfOrigin": "Serbia"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "e1331193-0a94-4c93-bdb2-f6eb22b86589",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "6981202e-0b23-4c78-98f7-310522a9b3ca",
+            "cd89cb68-2e5e-45a5-b070-9b9a6662202b"
+        ],
+        "productType": "Fresh",
+        "name": "Handschnitzel Crumbs",
+        "shortDescription": "Austrian bread crumbs. Good for frying and baking.",
+        "dimensions": "50x20x40 cm",
+        "avgRatingScore": 4.62,
+        "stdPrice": 270,
+        "supplierPrice": 125,
+        "attributes": {
+            "weightOrQuantity": 750,
+            "freshAttributes": {
+                "category": "Bakery",
+                "expiryDate": "2023-12-21",
+                "countryOfOrigin": "Austria"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "024975ef-fda9-4206-b252-e7eae9a09c4b",
+            "cb49e560-e486-439c-9aef-0acfc91ab0de",
+            "eaf5bf2c-804c-4e58-bc2d-1af12a674005"
+        ],
+        "productType": "Fresh",
+        "name": "Orangingo Juice",
+        "shortDescription": "Squeezed everyday, sustainably produced.",
+        "dimensions": "40x25x17 cm",
+        "avgRatingScore": 4.27,
+        "stdPrice": 450,
+        "supplierPrice": 220,
+        "attributes": {
+            "weightOrQuantity": 23,
+            "freshAttributes": {
+                "category": "Drinks",
+                "expiryDate": "2024-01-08",
+                "countryOfOrigin": "Zambia"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "0226f723-edf9-4387-bb5f-1dcab941bd49"
+        ],
+        "productType": "Fresh",
+        "name": "Chocolate Milk",
+        "shortDescription": "Only best quality cocoa, ethically sourced milk.",
+        "dimensions": "71x30x54 cm",
+        "avgRatingScore": 1.27,
+        "stdPrice": 488,
+        "supplierPrice": 168,
+        "attributes": {
+            "weightOrQuantity": 750,
+            "freshAttributes": {
+                "category": "Drinks",
+                "expiryDate": "2023-12-19",
+                "countryOfOrigin": "Macao"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "bbd9f607-fd5b-4780-bba3-9a263ee776f0",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "fac3aa7a-206f-4358-abc0-11fbc41561c9",
+            "297fd9c3-5f38-46c6-bb25-63b9e0089c7e"
+        ],
+        "productType": "Fresh",
+        "name": "Limone Soda",
+        "shortDescription": "Sour, bubbly, and crispy. Best served cold.",
+        "dimensions": "20x10x15 cm",
+        "avgRatingScore": 3.11,
+        "stdPrice": 135,
+        "supplierPrice": 75,
+        "attributes": {
+            "weightOrQuantity": 330,
+            "freshAttributes": {
+                "category": "Drinks",
+                "expiryDate": "2023-12-29",
+                "countryOfOrigin": "Argentina"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "63ab5f43-1d30-4f71-9570-7474a4dfacf0",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "ed1be8f8-201d-40a2-a91f-abb4f7ffa01f",
+            "9188dde1-72d2-421c-a1cc-450798839fbd"
+        ],
+        "productType": "Fresh",
+        "name": "Coconut Water",
+        "shortDescription": "Harvested fresh everyday, with only the juicest coconuts.",
+        "dimensions": "65x40x55 cm",
+        "avgRatingScore": 4.73,
+        "stdPrice": 480,
+        "supplierPrice": 250,
+        "attributes": {
+            "weightOrQuantity": 1500,
+            "freshAttributes": {
+                "category": "Drinks",
+                "expiryDate": "2023-12-22",
+                "countryOfOrigin": "Solomon Islands"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "8a32759c-d9e4-4a37-9775-fbbdfa04c409"
+        ],
+        "productType": "Fresh",
+        "name": "Monsune Soda",
+        "shortDescription": "Best soda from Japan, with a twist!",
+        "dimensions": "17x95x65 cm",
+        "avgRatingScore": 3.53,
+        "stdPrice": 260,
+        "supplierPrice": 140,
+        "attributes": {
+            "weightOrQuantity": 7,
+            "freshAttributes": {
+                "category": "Drinks",
+                "expiryDate": "2024-01-04",
+                "countryOfOrigin": "Japan"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "06df6730-5197-4815-8016-015f7abd7208",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "f69ab2fc-75c2-4300-9fc2-438fb14cc9a9",
+            "c2f6de84-0c76-43e4-af73-98bab76a90e1",
+            "85d22a15-96e8-45da-a548-32f17b0126d3"
+        ],
+        "productType": "Fresh",
+        "name": "Bananas",
+        "shortDescription": "Fresh, ripe, and semi-sweet bananas!",
+        "dimensions": "85x20x42 cm",
+        "avgRatingScore": 2.95,
+        "stdPrice": 210,
+        "supplierPrice": 120,
+        "attributes": {
+            "weightOrQuantity": 830,
+            "freshAttributes": {
+                "category": "Fruits and Vegetables",
+                "expiryDate": "2024-01-04",
+                "countryOfOrigin": "Brazil"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "345d1a0e-a274-44fe-875c-901a5d01bedc",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "1eff36a2-dc33-4c30-ab70-5a0e86526321",
+            "bc657d6c-1afb-4ca1-bbde-7114a62e77f1"
+        ],
+        "productType": "Fresh",
+        "name": "Megumi Mushrooms",
+        "shortDescription": "Indigenous Korean funghi.",
+        "dimensions": "50x20x35 cm",
+        "avgRatingScore": 2.71,
+        "stdPrice": 650,
+        "supplierPrice": 320,
+        "attributes": {
+            "weightOrQuantity": 550,
+            "freshAttributes": {
+                "category": "Fruits and Vegetables",
+                "expiryDate": "2024-01-02",
+                "countryOfOrigin": "Korea"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "29525264-6e37-4443-9c49-d6cdf34f7161",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "c552bc62-7ddd-4e67-b84d-07abc74bf67d",
+            "dd1e304d-c223-4fbe-80e0-4448646829de"
+        ],
+        "productType": "Fresh",
+        "name": "Sweet Tomatoes",
+        "shortDescription": "Juicy, sweet, perfect for sauces and soups.",
+        "dimensions": "75x90x60 cm",
+        "avgRatingScore": 2.95,
+        "stdPrice": 430,
+        "supplierPrice": 210,
+        "attributes": {
+            "weightOrQuantity": 700,
+            "freshAttributes": {
+                "category": "Fruits and Vegetables",
+                "expiryDate": "2024-01-08",
+                "countryOfOrigin": "Saint Barthelemy"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "72000139-bd3b-4824-92ce-145a1ab6b7ea",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "e3649d41-7200-4fe9-b2f6-c31a0bcbd618",
+            "ec119bcd-2358-413e-a3a6-da8b4e60e7b9",
+            "20a78b28-e120-4c28-b69d-b40e99432b60"
+        ],
+        "productType": "Fresh",
+        "name": "Carrots",
+        "shortDescription": "Hand farmed and picked, sustaianbly grown.",
+        "dimensions": "70x74x29 cm",
+        "avgRatingScore": 1.58,
+        "stdPrice": 450,
+        "supplierPrice": 260,
+        "attributes": {
+            "weightOrQuantity": 1200,
+            "freshAttributes": {
+                "category": "Fruits and Vegetables",
+                "expiryDate": "2023-12-14",
+                "countryOfOrigin": "Czech Republic"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e",
+        "productSegment": "Fresh",
+        "storesAvailable": [
+            "f4951467-efae-4ecb-a043-26f98bd4505e"
+        ],
+        "productType": "Fresh",
+        "name": "Oranges",
+        "shortDescription": "Sweet, ripe, full of juice. Perfect for breakfast.",
+        "dimensions": "98x88x91 cm",
+        "avgRatingScore": 3.99,
+        "stdPrice": 750,
+        "supplierPrice": 480,
+        "attributes": {
+            "weightOrQuantity": 1400,
+            "freshAttributes": {
+                "category": "Fruits and Vegetables",
+                "expiryDate": "2024-01-08",
+                "countryOfOrigin": "Uruguay"
+            },
+            "otherAttributes": null
+        }
+    },
+    {
+        "_id": "0b9923f0-6f51-4cfa-ac52-3367409a57a4",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "c6b761d2-c33f-41e2-9f74-632a1b333ff7"
+        ],
+        "productType": "Book",
+        "name": "Mea Culpa",
+        "shortDescription": "Plot: Small heart, big dreams, nothing to lose.",
+        "dimensions": "50x30x80 cm",
+        "avgRatingScore": 2.07,
+        "stdPrice": 3750,
+        "supplierPrice": 2250,
+        "attributes": {
+            "weightOrQuantity": 2350,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "bookAttributes": {
+                    "authorName": "Bethan Simmons",
+                    "publisher": "Williams Ltd",
+                    "yearOfPublication": 1964,
+                    "ISBN": "978-0-928863-42-0"
+                }
+            }
+        }
+    },
+    {
+        "_id": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "22276196-dffe-472d-9c24-19e93230698d",
+            "948a4df7-baf7-4ba9-a643-b22aa7847ea6",
+            "861acee0-69d0-4034-a521-a1a710e26da6"
+        ],
+        "productType": "Book",
+        "name": "All Liquid",
+        "shortDescription": "Plot: In world surrouned by water, there is only one way to survive: adapt.",
+        "dimensions": "60x94x17 cm",
+        "avgRatingScore": 4.15,
+        "stdPrice": 2510,
+        "supplierPrice": 1060,
+        "attributes": {
+            "weightOrQuantity": 1760,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "bookAttributes": {
+                    "authorName": "Miss Sally Edwards",
+                    "publisher": "Rose LLC",
+                    "yearOfPublication": 2019,
+                    "ISBN": "978-0-06-539863-2"
+                }
+            }
+        }
+    },
+    {
+        "_id": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "64711160-3c6c-4b46-9277-b42b84ccb2cc"
+        ],
+        "productType": "Book",
+        "name": "Ad Laborum",
+        "shortDescription": "Plot: Scientific discovery leads humanity, but where?.",
+        "dimensions": "75x15x79 cm",
+        "avgRatingScore": 4.23,
+        "stdPrice": 6750,
+        "supplierPrice": 4570,
+        "attributes": {
+            "weightOrQuantity": 1700,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "bookAttributes": {
+                    "authorName": "Natasha Hamilton",
+                    "publisher": "Cross, Collier and Black",
+                    "yearOfPublication": 1907,
+                    "ISBN": "978-1-67156-201-1"
+                }
+            }
+        }
+    },
+    {
+        "_id": "58348a75-7f5d-48ef-aa72-f8d29d804885",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "09bc57c3-5eb5-4a9c-92ef-f38f2998a650",
+            "f76c6c25-8bb7-49dd-8788-d149227c242a"
+        ],
+        "productType": "Book",
+        "name": "Volatarium",
+        "shortDescription": "Plot: When nothing is stable, what can you lead on?",
+        "dimensions": "69x88x26 cm",
+        "avgRatingScore": 2.22,
+        "stdPrice": 6400,
+        "supplierPrice": 3700,
+        "attributes": {
+            "weightOrQuantity": 1900,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "bookAttributes": {
+                    "authorName": "Mr Brian Jackson",
+                    "publisher": "Weston, Stevenson and Green",
+                    "yearOfPublication": 1920,
+                    "ISBN": "978-1-7326442-5-0"
+                }
+            }
+        }
+    },
+    {
+        "_id": "b20fbf47-770e-49d2-bcdf-99af84bdfc30",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "f138ec07-6638-4288-b11e-782d1ef9bf7a",
+            "f3bb5356-6cbb-4c49-bc1f-401fa28eba71",
+            "11001441-a2c5-466a-abd8-e101757244b0"
+        ],
+        "productType": "Book",
+        "name": "Occams Razor",
+        "shortDescription": "Plot: The world can be split in two on very simple basis.",
+        "dimensions": "15x70x81 cm",
+        "avgRatingScore": 3.01,
+        "stdPrice": 7970,
+        "supplierPrice": 4990,
+        "attributes": {
+            "weightOrQuantity": 2500,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "bookAttributes": {
+                    "authorName": "Elliott Cooper",
+                    "publisher": "Ross, Wilson and Burrows",
+                    "yearOfPublication": 1907,
+                    "ISBN": "978-0-09-573376-2"
+                }
+            }
+        }
+    },
+    {
+        "_id": "3e4010ff-ce60-4642-9832-ade640f2bbb6",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "62221357-ebf3-449e-b966-898577992c8d",
+            "9d4f598e-2343-409e-8177-ed4729b65629",
+            "6ca719ba-fe2d-426f-9317-e74f0185a3ce"
+        ],
+        "productType": "Book",
+        "name": "Abbaria",
+        "shortDescription": "Plot: Garden of Eden was first, this is the second.",
+        "dimensions": "87x85x41 cm",
+        "avgRatingScore": 1.21,
+        "stdPrice": 2760,
+        "supplierPrice": 1530,
+        "attributes": {
+            "weightOrQuantity": 1250,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "bookAttributes": {
+                    "authorName": "Miss Jemma O'Donnell",
+                    "publisher": "Allan-Price",
+                    "yearOfPublication": 1944,
+                    "ISBN": "978-1-09-564882-7"
+                }
+            }
+        }
+    },
+    {
+        "_id": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "bf004962-a044-4262-8e42-7d91edcef879"
+        ],
+        "productType": "Book",
+        "name": "World of Planes",
+        "shortDescription": "Plot: Cars, but with wings!",
+        "dimensions": "13x77x72 cm",
+        "avgRatingScore": 1.08,
+        "stdPrice": 1520,
+        "supplierPrice": 750,
+        "attributes": {
+            "weightOrQuantity": 890,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "bookAttributes": {
+                    "authorName": "Maureen Norris",
+                    "publisher": "Holland, Turner and Harvey",
+                    "yearOfPublication": 1971,
+                    "ISBN": "978-0-256-36681-5"
+                }
+            }
+        }
+    },
+    {
+        "_id": "3db7c5b5-6005-43ec-83e4-8c27b5781842",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "a9ae98bc-243f-43de-812d-027bd566c69e",
+            "a3145d78-5f32-43ab-8aae-19fb67bccdc1"
+        ],
+        "productType": "Book",
+        "name": "Heart of Iron",
+        "shortDescription": "Plot: WWII, alternate take and history.",
+        "dimensions": "30x71x57 cm",
+        "avgRatingScore": 1.91,
+        "stdPrice": 4520,
+        "supplierPrice": 1140,
+        "attributes": {
+            "weightOrQuantity": 1350,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "bookAttributes": {
+                    "authorName": "Kieran Clark",
+                    "publisher": "John, Schofield and Smith",
+                    "yearOfPublication": 1967,
+                    "ISBN": "978-1-80851-885-0"
+                }
+            }
+        }
+    },
+    {
+        "_id": "90bae369-3a93-4c2f-85fc-58f46fda5899",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "661d13ac-d93c-4c95-8cca-cac472655ed6"
+        ],
+        "productType": "Book",
+        "name": "Necessitatibus",
+        "shortDescription": "Plot: Maxim wakes up alone in a lab, with no memories at all.",
+        "dimensions": "71x38x52 cm",
+        "avgRatingScore": 2.19,
+        "stdPrice": 7605,
+        "supplierPrice": 5120,
+        "attributes": {
+            "weightOrQuantity": 1670,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "bookAttributes": {
+                    "authorName": "Mr Ian Bennett",
+                    "publisher": "Stevens, Robinson and Robinson",
+                    "yearOfPublication": 1916,
+                    "ISBN": "978-1-74893-816-9"
+                }
+            }
+        }
+    },
+    {
+        "_id": "a7bd0c8c-849e-4033-904a-9090b7590345",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "9474b9a4-2c51-451f-8187-dd2cafa6836a",
+            "2ccda93c-1aac-4ed6-90cf-3d46bc80b426"
+        ],
+        "productType": "Book",
+        "name": "Passion of Dice",
+        "shortDescription": "Plot: Money, power, chances: story of gambling.",
+        "dimensions": "40x75x30 cm",
+        "avgRatingScore": 3.61,
+        "stdPrice": 3300,
+        "supplierPrice": 1540,
+        "attributes": {
+            "weightOrQuantity": 970,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "bookAttributes": {
+                    "authorName": "Mr Shaun Hall",
+                    "publisher": "Smith Group",
+                    "yearOfPublication": 1952,
+                    "ISBN": "978-0-02-001480-5"
+                }
+            }
+        }
+    },
+    {
+        "_id": "bbd1b566-d68c-40ae-b156-3824622cad4a",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "78b6b56f-76f2-4556-a74c-77fa23da15fc"
+        ],
+        "productType": "CD",
+        "name": "Smells Like Old Spirit",
+        "shortDescription": "Inverse Nirvana.",
+        "dimensions": "33x51x42 cm",
+        "avgRatingScore": 3.61,
+        "stdPrice": 2340,
+        "supplierPrice": 1550,
+        "attributes": {
+            "weightOrQuantity": 860,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "cdAttributes": {
+                    "artistName": "Dr Carly Barry",
+                    "noOfTracks": 2,
+                    "totalPlayingTime": "124 minutes",
+                    "publisher": "Fitzgerald-Watts"
+                }
+            }
+        }
+    },
+    {
+        "_id": "9b407c95-5760-4c15-a787-bbbf919ffacc",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "a01b0bfd-ba23-4fd3-acac-2b40d5e70310"
+        ],
+        "productType": "CD",
+        "name": "Dorime",
+        "shortDescription": "Best christian tracks of all time.",
+        "dimensions": "62x75x23 cm",
+        "avgRatingScore": 4.7,
+        "stdPrice": 3200,
+        "supplierPrice": 2540,
+        "attributes": {
+            "weightOrQuantity": 740,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "cdAttributes": {
+                    "artistName": "Callum Johnston",
+                    "noOfTracks": 14,
+                    "totalPlayingTime": "160 minutes",
+                    "publisher": "Lane PLC"
+                }
+            }
+        }
+    },
+    {
+        "_id": "274adfd0-71e5-4b53-9228-db0f12385fba",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "b37c114f-ace4-4565-a695-06e873afa714",
+            "985fa5d0-3fe5-40ef-a8ce-cd008866d8e4",
+            "e197b0aa-4a89-498f-b799-867b9309a3e0"
+        ],
+        "productType": "CD",
+        "name": "Identity",
+        "shortDescription": "Punk, rock, alternative take on poetry.",
+        "dimensions": "77x22x88 cm",
+        "avgRatingScore": 4.37,
+        "stdPrice": 2680,
+        "supplierPrice": 1250,
+        "attributes": {
+            "weightOrQuantity": 680,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "cdAttributes": {
+                    "artistName": "Catherine Pearson",
+                    "noOfTracks": 8,
+                    "totalPlayingTime": "80 minutes",
+                    "publisher": "Tomlinson, Saunders and Smith"
+                }
+            }
+        }
+    },
+    {
+        "_id": "2362dae9-b485-4423-b314-d43ef399b3df",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "ec6ff166-ef3d-4608-8c5e-05c9d880fb1a",
+            "30eb89ca-d7e3-417b-96e7-3aec5edcdb5b",
+            "e426e033-9b5d-4a63-b88c-6657890cbda2"
+        ],
+        "productType": "CD",
+        "name": "Back in Blue",
+        "shortDescription": "Jazz tribute to rock'and'roll.",
+        "dimensions": "40x98x17 cm",
+        "avgRatingScore": 4.03,
+        "stdPrice": 1380,
+        "supplierPrice": 725,
+        "attributes": {
+            "weightOrQuantity": 860,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "cdAttributes": {
+                    "artistName": "Mrs Caroline Kaur",
+                    "noOfTracks": 4,
+                    "totalPlayingTime": "174 minutes",
+                    "publisher": "Thompson and Sons"
+                }
+            }
+        }
+    },
+    {
+        "_id": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "f30718b9-7e18-4df6-8a3e-b30107fa8e43",
+            "1fc5e69d-a6db-45e4-987f-8c3f3cf11178",
+            "1ad19466-47e4-435c-bf65-bf3692b1fbca"
+        ],
+        "productType": "CD",
+        "name": "E.T.",
+        "shortDescription": "Answer to: what would aliens listen to",
+        "dimensions": "21x60x76 cm",
+        "avgRatingScore": 4.38,
+        "stdPrice": 3270,
+        "supplierPrice": 2830,
+        "attributes": {
+            "weightOrQuantity": 925,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "cdAttributes": {
+                    "artistName": "Kate Tucker",
+                    "noOfTracks": 15,
+                    "totalPlayingTime": "90 minutes",
+                    "publisher": "Robinson-Barker"
+                }
+            }
+        }
+    },
+    {
+        "_id": "4c14be17-f142-4d67-aa1f-46f780d46db4",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "32ed567f-9633-48a7-824c-4ec59889951a",
+            "512e44c2-80a6-4b7d-9c20-a1bc5148fb5b"
+        ],
+        "productType": "CD",
+        "name": "Sweat Weather",
+        "shortDescription": "Best gym tracks boiled down!",
+        "dimensions": "56x91x79 cm",
+        "avgRatingScore": 1.28,
+        "stdPrice": 2740,
+        "supplierPrice": 1780,
+        "attributes": {
+            "weightOrQuantity": 765,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "cdAttributes": {
+                    "artistName": "Mandy Parkes",
+                    "noOfTracks": 3,
+                    "totalPlayingTime": "153 minutes",
+                    "publisher": "Smith and Sons"
+                }
+            }
+        }
+    },
+    {
+        "_id": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "dcb98df0-ef6c-4382-8eb6-6a18ca9f25b9",
+            "64694ae2-9216-48e1-8b2c-3166453257aa",
+            "1c11a57e-5000-4e25-96d1-ad441e444e69"
+        ],
+        "productType": "CD",
+        "name": "O, dio!",
+        "shortDescription": "Modern take on Opera classics.",
+        "dimensions": "94x95x56 cm",
+        "avgRatingScore": 1.88,
+        "stdPrice": 1170,
+        "supplierPrice": 840,
+        "attributes": {
+            "weightOrQuantity": 530,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "cdAttributes": {
+                    "artistName": "Richard Howard",
+                    "noOfTracks": 19,
+                    "totalPlayingTime": "114 minutes",
+                    "publisher": "Robson LLC"
+                }
+            }
+        }
+    },
+    {
+        "_id": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "e7c84f76-75d9-40fc-a838-7af04efe3ecc",
+            "ad7f0082-c055-48b7-b566-8bf959862c3e"
+        ],
+        "productType": "CD",
+        "name": "Impeditium",
+        "shortDescription": "Best of Italian Folk Music.",
+        "dimensions": "66x41x30 cm",
+        "avgRatingScore": 4.07,
+        "stdPrice": 6700,
+        "supplierPrice": 3450,
+        "attributes": {
+            "weightOrQuantity": 1340,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "cdAttributes": {
+                    "artistName": "Dr Jade Thompson",
+                    "noOfTracks": 18,
+                    "totalPlayingTime": "101 minutes",
+                    "publisher": "Wilson-Austin"
+                }
+            }
+        }
+    },
+    {
+        "_id": "c6107800-060f-4283-b5ce-38b9d2d01fbc",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "269e5525-feb2-48d3-96bf-234e869a1fae"
+        ],
+        "productType": "CD",
+        "name": "BaaB",
+        "shortDescription": "Best of your favourite disco music, BaaB!",
+        "dimensions": "19x92x99 cm",
+        "avgRatingScore": 2.9,
+        "stdPrice": 3460,
+        "supplierPrice": 2380,
+        "attributes": {
+            "weightOrQuantity": 860,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "cdAttributes": {
+                    "artistName": "Mr Samuel Marshall",
+                    "noOfTracks": 9,
+                    "totalPlayingTime": "58 minutes",
+                    "publisher": "Hawkins, Williams and Jones"
+                }
+            }
+        }
+    },
+    {
+        "_id": "32565dd1-c31a-4385-93f6-4ff523858e87",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "4cc912b7-e4c9-4769-87ea-a23a6394584d"
+        ],
+        "productType": "CD",
+        "name": "Copperlica",
+        "shortDescription": "Legendary Metal album, from world-renown band.",
+        "dimensions": "48x18x45 cm",
+        "avgRatingScore": 3.27,
+        "stdPrice": 4670,
+        "supplierPrice": 2590,
+        "attributes": {
+            "weightOrQuantity": 730,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "cdAttributes": {
+                    "artistName": "Christian Dennis",
+                    "noOfTracks": 9,
+                    "totalPlayingTime": "92 minutes",
+                    "publisher": "Goodwin-Collier"
+                }
+            }
+        }
+    },
+    {
+        "_id": "a81efa0d-4e8f-48cd-ab65-d3b42a3c4c32",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "171fd7e7-a8e4-422d-96de-29fece7fc579",
+            "8193297a-3eb5-4f84-abc4-1bfc4c241175",
+            "4a043708-6e92-4373-8be3-fd7a84d8c858"
+        ],
+        "productType": "Phone",
+        "name": "Axiomi SLP",
+        "shortDescription": "Slick, lightweight, and modern take on smartphone.",
+        "dimensions": "85x96x30 cm",
+        "avgRatingScore": 1.56,
+        "stdPrice": 67500,
+        "supplierPrice": 43000,
+        "attributes": {
+            "weightOrQuantity": 230,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "phoneAttributes": {
+                    "brand": "Hill-Bond",
+                    "model": "soluta",
+                    "colour": "LightCyan",
+                    "features": [
+                        "Wi-Fi",
+                        "13MP Camera"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "_id": "7411fac5-ad51-4d89-8308-ad7e3af5d62b",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "4885108d-63ac-4ab3-9c5d-9ab1f3804b1c"
+        ],
+        "productType": "Phone",
+        "name": "I-Sint",
+        "shortDescription": "Business oriented, time-saving phone.",
+        "dimensions": "26x71x95 cm",
+        "avgRatingScore": 2.41,
+        "stdPrice": 270000,
+        "supplierPrice": 170000,
+        "attributes": {
+            "weightOrQuantity": 45,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "phoneAttributes": {
+                    "brand": "Gray, Steele and Mason",
+                    "model": "Odditis",
+                    "colour": "CornflowerBlue",
+                    "features": [
+                        "Wi-Fi",
+                        "15MP Camera",
+                        "45hr battery life"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "_id": "03f6fd23-79ab-47f7-adeb-10d593fbd1b7",
+        "productSegment": "Other",
+        "storesAvailable": [
+            "828dce03-14a3-433a-bdde-024af969e99a"
+        ],
+        "productType": "Phone",
+        "name": "Gnusmas XP12",
+        "shortDescription": "Newest flagship, a game-changer!",
+        "dimensions": "58x40x45 cm",
+        "avgRatingScore": 3.23,
+        "stdPrice": 96000,
+        "supplierPrice": 34000,
+        "attributes": {
+            "weightOrQuantity": 9,
+            "freshAttributes": null,
+            "otherAttributes": {
+                "phoneAttributes": {
+                    "brand": "Watson-Blake",
+                    "model": "Midimius",
+                    "colour": "MintCream",
+                    "features": [
+                        "Wi-Fi",
+                        "16MP Camera",
+                        "35hr battery",
+                        "titanium frame",
+                        "512GB ram"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "_id": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed",
+        "productSegment": "Electronics",
+        "storesAvailable": [
+            "18ee3155-07a3-4c20-8d05-8b3545bf9673",
+            "e9181427-8c10-4127-a8bb-5a0b7405f801",
+            "db1f82c5-a9b0-4b2f-a7c3-fa4749f2bd0c"
+        ],
+        "productType": "Phone",
+        "name": "Galaxy Explorer",
+        "shortDescription": "High-performance smartphone with exceptional camera quality.",
+        "dimensions": "15x7x0.8 cm",
+        "avgRatingScore": 4.5,
+        "stdPrice": 99900,
+        "supplierPrice": 60000,
+        "attributes": {
+            "weightOrQuantity": 200,
+            "otherAttributes": {
+                "phoneAttributes": {
+                    "brand": "Samsung",
+                    "model": "Galaxy S20",
+                    "colour": "Midnight Black",
+                    "features": [
+                        "High-resolution camera",
+                        "Fast charging",
+                        "Water-resistant",
+                        "5G enabled"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "_id": "568809a9-da00-425a-811f-8248623f0909",
+        "productSegment": "Electronics",
+        "storesAvailable": [
+            "9f53645a-8bd4-4d5b-affd-1ed1b808fae3",
+            "9d50eb51-329d-4394-b40f-a3ab553e58ed"
+        ],
+        "productType": "Phone",
+        "name": "VisionPlus X2",
+        "shortDescription": "Innovative phone with an edge-to-edge display and AI capabilities.",
+        "dimensions": "16x7x1cm",
+        "avgRatingScore": 4.7,
+        "stdPrice": 120000,
+        "supplierPrice": 70000,
+        "attributes": {
+            "weightOrQuantity": 180,
+            "otherAttributes": {
+                "phoneAttributes": {
+                    "brand": "Apple",
+                    "model": "iPhone 12",
+                    "colour": "Space Gray",
+                    "features": [
+                        "Retina display",
+                        "Face ID",
+                        "Dual camera",
+                        "Wireless charging"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "_id": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9",
+        "productSegment": "Electronics",
+        "storesAvailable": [
+            "00605d9c-3175-4441-832b-0bb860858345",
+            "6e35eb99-407c-40ae-b1f0-744d63a74af9"
+        ],
+        "productType": "Phone",
+        "name": "Pixel Pro Max",
+        "shortDescription": "A phone with superior AI integration and a powerful processor.",
+        "dimensions": "16x8x1 cm",
+        "avgRatingScore": 4.3,
+        "stdPrice": 76000,
+        "supplierPrice": 63000,
+        "attributes": {
+            "weightOrQuantity": 190,
+            "otherAttributes": {
+                "phoneAttributes": {
+                    "brand": "Google",
+                    "model": "Pixel 5",
+                    "colour": "Just Black",
+                    "features": [
+                        "Night Sight camera",
+                        "5G capabilities",
+                        "Water-resistant",
+                        "Fast wireless charging"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "_id": "d574f881-8a8c-4017-af36-0680efe3c55b",
+        "productSegment": "Electronics",
+        "storesAvailable": [
+            "2f669baf-f3d0-41ec-acdc-2faba3881696"
+        ],
+        "productType": "Phone",
+        "name": "Aurora Lite",
+        "shortDescription": "Elegant design with an emphasis on simplicity and usability.",
+        "dimensions": "14.5x7.2x0.7 cm",
+        "avgRatingScore": 4.2,
+        "stdPrice": 75000,
+        "supplierPrice": 45000,
+        "attributes": {
+            "weightOrQuantity": 170,
+            "otherAttributes": {
+                "phoneAttributes": {
+                    "brand": "OnePlus",
+                    "model": "8T",
+                    "colour": "Aquamarine Green",
+                    "features": [
+                        "Fluid AMOLED display",
+                        "Rapid charging",
+                        "48 MP camera",
+                        "5G Ready"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "_id": "8af80953-cf99-4011-ae3c-75392390a04e",
+        "productSegment": "Electronics",
+        "storesAvailable": [
+            "9060873c-3033-424d-881a-6655fff14335"
+        ],
+        "productType": "Phone",
+        "name": "EcoTalk R5",
+        "shortDescription": "Environmentally friendly phone with a focus on sustainability.",
+        "dimensions": "15.5x7.6x0.8 cm",
+        "avgRatingScore": 4.1,
+        "stdPrice": 82000,
+        "supplierPrice": 49000,
+        "attributes": {
+            "weightOrQuantity": 180,
+            "otherAttributes": {
+                "phoneAttributes": {
+                    "brand": "Sony",
+                    "model": "Xperia 10",
+                    "colour": "Black",
+                    "features": [
+                        "21:9 Wide display",
+                        "High-Resolution Audio",
+                        "Multi-window option",
+                        "Eco-friendly materials"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "_id": "aec0ad56-c5d0-4b86-ab49-e8507570b3d8",
+        "productSegment": "Electronics",
+        "storesAvailable": [
+            "a7d25edb-7a3d-4fc5-b8d5-4abead30a163"
+        ],
+        "productType": "Phone",
+        "name": "MaxPower P7",
+        "shortDescription": "A powerhouse of performance packed in a sleek design.",
+        "dimensions": "16x7.5x0.9 cm",
+        "avgRatingScore": 4.6,
+        "stdPrice": 110000,
+        "supplierPrice": 66000,
+        "attributes": {
+            "weightOrQuantity": 200,
+            "otherAttributes": {
+                "phoneAttributes": {
+                    "brand": "Xiaomi",
+                    "model": "Mi 11",
+                    "colour": "Horizon Blue",
+                    "features": [
+                        "108 MP camera",
+                        "Super AMOLED display",
+                        "Fast charging",
+                        "High-capacity battery"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "_id": "8bd5743f-9c3e-47eb-aa50-dd37860e1100",
+        "productSegment": "Electronics",
+        "storesAvailable": [
+            "1451a08b-377f-4e45-a840-06673df7bf65",
+            "d42aa4ed-eb7f-4e4a-91f3-6ba971aaa754"
+        ],
+        "productType": "Phone",
+        "name": "UltraFlex Z9",
+        "shortDescription": "Futuristic phone with a foldable screen and cutting-edge technology.",
+        "dimensions": "16.8x7.9x0.6 cm (unfolded: 16.8x15.8x0.3 cm)",
+        "avgRatingScore": 4.8,
+        "stdPrice": 140000,
+        "supplierPrice": 84000,
+        "attributes": {
+            "weightOrQuantity": 220,
+            "otherAttributes": {
+                "phoneAttributes": {
+                    "brand": "Huawei",
+                    "model": "Mate X",
+                    "colour": "Interstellar Blue",
+                    "features": [
+                        "Foldable FullView Display",
+                        "Leica Quad Camera",
+                        "5G support",
+                        "SuperCharge"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "_id": "0fce1bf3-7cd7-423c-89b9-96e44caee05a",
+        "productSegment": "Home Appliances",
+        "storesAvailable": [
+            "9da954f9-cdff-497f-999e-f4294f98e158",
+            "923c8a26-1b7b-46d2-8a8e-c64e35f66d57"
+        ],
+        "productType": "Appliance",
+        "name": "EcoWash Deluxe",
+        "shortDescription": "Energy-efficient washing machine with advanced fabric care technology.",
+        "dimensions": "85x60x60 cm",
+        "avgRatingScore": 4.5,
+        "stdPrice": 150000,
+        "supplierPrice": 90000,
+        "attributes": {
+            "weightOrQuantity": 9500,
+            "otherAttributes": {
+                "applianceAttributes": {
+                    "colour": "Slate Grey",
+                    "voltage": 240,
+                    "style": "Front Loading"
+                }
+            }
+        }
+    },
+    {
+        "_id": "fc22f993-7fa2-4c00-b043-f9621715b0fb",
+        "productSegment": "Home Appliances",
+        "storesAvailable": [
+            "2ba37aa3-12cf-4245-9ff7-120510a5200c",
+            "7d82a6ab-6d2d-42d5-ae02-ba7c68af5229"
+        ],
+        "productType": "Appliance",
+        "name": "QuickHeat Oven",
+        "shortDescription": "Compact and efficient convection oven with fast heating technology.",
+        "dimensions": "60x60x85 cm",
+        "avgRatingScore": 4.2,
+        "stdPrice": 80000,
+        "supplierPrice": 48000,
+        "attributes": {
+            "weightOrQuantity": 4500,
+            "otherAttributes": {
+                "applianceAttributes": {
+                    "colour": "Stainless Steel",
+                    "voltage": 220,
+                    "style": "Convection"
+                }
+            }
+        }
+    },
+    {
+        "_id": "40654271-59d1-41e8-acfe-b5e7c4dd671b",
+        "productSegment": "Home Appliances",
+        "storesAvailable": [
+            "46468abc-183f-476e-adc1-23e0f6ed2a96",
+            "e96c2f8a-ead1-433a-9eab-1e11b6cd6b1d"
+        ],
+        "productType": "Appliance",
+        "name": "FrostFree Fridge",
+        "shortDescription": "Large capacity refrigerator with frost-free technology and energy saving.",
+        "dimensions": "90x70x175 cm",
+        "avgRatingScore": 4.6,
+        "stdPrice": 120000,
+        "supplierPrice": 72000,
+        "attributes": {
+            "weightOrQuantity": 80000,
+            "otherAttributes": {
+                "applianceAttributes": {
+                    "colour": "Silver",
+                    "voltage": 240,
+                    "style": "French Door"
+                }
+            }
+        }
+    },
+    {
+        "_id": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f",
+        "productSegment": "Home Appliances",
+        "storesAvailable": [
+            "96c29ce4-1b76-4cad-8d92-be01a36f20de"
+        ],
+        "productType": "Appliance",
+        "name": "EfficientHeat Heater",
+        "shortDescription": "Energy-efficient room heater with eco-friendly design.",
+        "dimensions": "69x62x64 cm",
+        "avgRatingScore": 4.5,
+        "stdPrice": 25000,
+        "supplierPrice": 15000,
+        "attributes": {
+            "weightOrQuantity": 4700,
+            "otherAttributes": {
+                "applianceAttributes": {
+                    "colour": "DarkSeaGreen",
+                    "voltage": 110,
+                    "style": "Portable"
+                }
+            }
+        }
+    },
+    {
+        "_id": "6c498ff8-eae1-40de-b519-c4679d80259a",
+        "productSegment": "Home Appliances",
+        "storesAvailable": [
+            "ec638146-4411-4ad2-ba64-11b9c2acaf59"
+        ],
+        "productType": "Appliance",
+        "name": "BlueSky Air Purifier",
+        "shortDescription": "Advanced air purifier with HEPA filters and smart controls.",
+        "dimensions": "61x51x72 cm",
+        "avgRatingScore": 4.8,
+        "stdPrice": 50000,
+        "supplierPrice": 30000,
+        "attributes": {
+            "weightOrQuantity": 4000,
+            "otherAttributes": {
+                "applianceAttributes": {
+                    "colour": "CornflowerBlue",
+                    "voltage": 110,
+                    "style": "Modern"
+                }
+            }
+        }
+    },
+    {
+        "_id": "29859217-aac2-4bf6-9fb1-33e7484e40fe",
+        "productSegment": "Home Appliances",
+        "storesAvailable": [
+            "f7aee612-5cb3-4ff0-9807-12f35ccb5f53"
+        ],
+        "productType": "Appliance",
+        "name": "QuickBrew Coffee Maker",
+        "shortDescription": "Fast brewing coffee maker with multiple settings and sleek design.",
+        "dimensions": "37x83x17 cm",
+        "avgRatingScore": 4.7,
+        "stdPrice": 12000,
+        "supplierPrice": 8000,
+        "attributes": {
+            "weightOrQuantity": 1200,
+            "otherAttributes": {
+                "applianceAttributes": {
+                    "colour": "OrangeRed",
+                    "voltage": 240,
+                    "style": "Automatic"
+                }
+            }
+        }
+    },
+    {
+        "_id": "6661ede7-d350-4434-99d5-1573fabfcea0",
+        "productSegment": "Home Appliances",
+        "storesAvailable": [
+            "37d81115-34be-46a8-9da5-9c8b07b0b402",
+            "f22e25e0-64d8-447a-891f-51bece291bf4"
+        ],
+        "productType": "Appliance",
+        "name": "MagnaClean Vacuum",
+        "shortDescription": "Powerful vacuum cleaner with advanced filtration and ergonomic design.",
+        "dimensions": "61x54x96 cm",
+        "avgRatingScore": 4.3,
+        "stdPrice": 30000,
+        "supplierPrice": 18000,
+        "attributes": {
+            "weightOrQuantity": 4700,
+            "otherAttributes": {
+                "applianceAttributes": {
+                    "colour": "DarkMagenta",
+                    "voltage": 240,
+                    "style": "Upright"
+                }
+            }
+        }
+    },
+    {
+        "_id": "530dbf77-1720-45a0-b31b-f06b736115f5",
+        "productSegment": "Home Appliances",
+        "storesAvailable": [
+            "03e18dd3-e674-49fd-9888-8e5f9990f5cd",
+            "1192fcd2-79e7-4954-a88f-5fef0c343821"
+        ],
+        "productType": "Appliance",
+        "name": "BreezeMax Air Cooler",
+        "shortDescription": "Portable air cooler with efficient cooling and low energy consumption.",
+        "dimensions": "30x64x82 cm",
+        "avgRatingScore": 4.5,
+        "stdPrice": 0,
+        "supplierPrice": 39000,
+        "attributes": {
+            "weightOrQuantity": 1200,
+            "otherAttributes": {
+                "applianceAttributes": {
+                    "colour": "DeepSkyBlue",
+                    "voltage": 220,
+                    "style": "Portable"
+                }
+            }
+        }
+    },
+    {
+        "_id": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90",
+        "productSegment": "Home Appliances",
+        "storesAvailable": [
+            "18efdfa3-4adb-49b3-b899-2230fadda9de"
+        ],
+        "productType": "Appliance",
+        "name": "EcoSteam Iron",
+        "shortDescription": "Ergonomic steam iron with eco-friendly technology and precision control.",
+        "dimensions": "85x26x57 cm",
+        "avgRatingScore": 4.2,
+        "stdPrice": 12000,
+        "supplierPrice": 7200,
+        "attributes": {
+            "weightOrQuantity": 960,
+            "otherAttributes": {
+                "applianceAttributes": {
+                    "colour": "Indigo",
+                    "voltage": 240,
+                    "style": "Handheld"
+                }
+            }
+        }
+    },
+    {
+        "_id": "6f3468c4-6b9d-48ba-9f25-63ea82079014",
+        "productSegment": "Home Appliances",
+        "storesAvailable": [
+            "7645db47-2506-43ee-afc1-51d7cc081c7e"
+        ],
+        "productType": "Appliance",
+        "name": "RapidToast Toaster",
+        "shortDescription": "High-efficiency toaster with rapid toasting technology and sleek design.",
+        "dimensions": "74x33x88 cm",
+        "avgRatingScore": 4.3,
+        "stdPrice": 8500,
+        "supplierPrice": 5100,
+        "attributes": {
+            "weightOrQuantity": 2400,
+            "otherAttributes": {
+                "applianceAttributes": {
+                    "colour": "Tomato",
+                    "voltage": 240,
+                    "style": "Countertop"
+                }
+            }
+        }
+    }
+]

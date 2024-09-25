@@ -1,0 +1,2242 @@
+[
+    {
+        "_id": "82ff2936-7244-42f7-bc5a-1fd977ff341d",
+        "customerID": "0d4a13c3-c9ef-40f2-8516-58de00809364",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Ad Laborum",
+                "productID": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90"
+            },
+            {
+                "quantity": 2,
+                "productName": "I-Sint",
+                "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f"
+            },
+            {
+                "quantity": 4,
+                "productName": "Abbaria",
+                "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea"
+            }
+        ],
+        "totalOrderCost": 87800
+    },
+    {
+        "_id": "3c0034c8-2c4d-42f7-9074-b963d256048a",
+        "customerID": "0d4a13c3-c9ef-40f2-8516-58de00809364",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "BlueSky Air Purifier",
+                "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5"
+            },
+            {
+                "quantity": 3,
+                "productName": "Identity",
+                "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899"
+            }
+        ],
+        "totalOrderCost": 27835
+    },
+    {
+        "_id": "295e067a-70ad-4185-931a-7d850b0c95c5",
+        "customerID": "0d4a13c3-c9ef-40f2-8516-58de00809364",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Impeditium",
+                "productID": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53"
+            },
+            {
+                "quantity": 4,
+                "productName": "FrostFree Fridge",
+                "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4"
+            },
+            {
+                "quantity": 2,
+                "productName": "World of Planes",
+                "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f"
+            },
+            {
+                "quantity": 5,
+                "productName": "Aurora Lite",
+                "productID": "2362dae9-b485-4423-b314-d43ef399b3df"
+            }
+        ],
+        "totalOrderCost": 25528
+    },
+    {
+        "_id": "a9b7279c-398b-4df8-828f-1497c59f8b62",
+        "customerID": "0d4a13c3-c9ef-40f2-8516-58de00809364",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "FrostFree Fridge",
+                "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc"
+            },
+            {
+                "quantity": 5,
+                "productName": "Handschnitzel Crumbs",
+                "productID": "a81efa0d-4e8f-48cd-ab65-d3b42a3c4c32"
+            },
+            {
+                "quantity": 3,
+                "productName": "Farmers Bread",
+                "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f"
+            }
+        ],
+        "totalOrderCost": 358400
+    },
+    {
+        "_id": "5aa439d5-687e-4327-a659-1a8111851411",
+        "customerID": "0d4a13c3-c9ef-40f2-8516-58de00809364",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Aurora Lite",
+                "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6"
+            },
+            {
+                "quantity": 2,
+                "productName": "Galaxy Explorer",
+                "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899"
+            },
+            {
+                "quantity": 2,
+                "productName": "Mea Culpa",
+                "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc"
+            },
+            {
+                "quantity": 1,
+                "productName": "Sweet Tomatoes",
+                "productID": "6661ede7-d350-4434-99d5-1573fabfcea0"
+            },
+            {
+                "quantity": 3,
+                "productName": "QuickHeat Oven",
+                "productID": "568809a9-da00-425a-811f-8248623f0909"
+            }
+        ],
+        "totalOrderCost": 414370
+    },
+    {
+        "_id": "c4be3b52-8041-453d-9530-abc3dc8f3cc8",
+        "customerID": "7c36c0d0-8092-4579-a063-6828e7d2f743",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Occams Razor",
+                "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e"
+            },
+            {
+                "quantity": 5,
+                "productName": "EcoTalk R5",
+                "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6"
+            },
+            {
+                "quantity": 2,
+                "productName": "Necessitatibus",
+                "productID": "06df6730-5197-4815-8016-015f7abd7208"
+            },
+            {
+                "quantity": 5,
+                "productName": "EfficientHeat Heater",
+                "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f"
+            }
+        ],
+        "totalOrderCost": 18890
+    },
+    {
+        "_id": "6b4adc5d-8056-4fb4-99c8-dadf2c8ebf99",
+        "customerID": "7c36c0d0-8092-4579-a063-6828e7d2f743",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Serbian Rolls",
+                "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8"
+            },
+            {
+                "quantity": 3,
+                "productName": "Passion of Dice",
+                "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e"
+            },
+            {
+                "quantity": 1,
+                "productName": "RapidToast Toaster",
+                "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8"
+            }
+        ],
+        "totalOrderCost": 8330
+    },
+    {
+        "_id": "b547535b-0ba8-4e29-ae42-3292ce77af79",
+        "customerID": "7c36c0d0-8092-4579-a063-6828e7d2f743",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "All Liquid",
+                "productID": "6661ede7-d350-4434-99d5-1573fabfcea0"
+            },
+            {
+                "quantity": 5,
+                "productName": "Back in Blue",
+                "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f"
+            },
+            {
+                "quantity": 2,
+                "productName": "Axiomi SLP",
+                "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d"
+            }
+        ],
+        "totalOrderCost": 184270
+    },
+    {
+        "_id": "e75e3921-be2c-4abd-8810-e47de859b22a",
+        "customerID": "7c36c0d0-8092-4579-a063-6828e7d2f743",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "FrostFree Fridge",
+                "productID": "29525264-6e37-4443-9c49-d6cdf34f7161"
+            },
+            {
+                "quantity": 3,
+                "productName": "UltraFlex Z9",
+                "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173"
+            },
+            {
+                "quantity": 5,
+                "productName": "African Bread",
+                "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea"
+            },
+            {
+                "quantity": 2,
+                "productName": "MagnaClean Vacuum",
+                "productID": "29525264-6e37-4443-9c49-d6cdf34f7161"
+            },
+            {
+                "quantity": 3,
+                "productName": "African Bread",
+                "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30"
+            }
+        ],
+        "totalOrderCost": 29630
+    },
+    {
+        "_id": "f1534fe7-7bde-43bd-921d-2bfc88df8026",
+        "customerID": "7c36c0d0-8092-4579-a063-6828e7d2f743",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "BreezeMax Air Cooler",
+                "productID": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53"
+            },
+            {
+                "quantity": 5,
+                "productName": "Ad Laborum",
+                "productID": "6661ede7-d350-4434-99d5-1573fabfcea0"
+            }
+        ],
+        "totalOrderCost": 176800
+    },
+    {
+        "_id": "e769dffb-004a-4572-a30a-421df0624e50",
+        "customerID": "cbb2b56d-af38-466a-be7c-7c6743092fde",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Abbaria",
+                "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d"
+            },
+            {
+                "quantity": 1,
+                "productName": "BaaB",
+                "productID": "e3d8bb1c-7215-40c1-8766-2ca6238e9173"
+            },
+            {
+                "quantity": 5,
+                "productName": "RapidToast Toaster",
+                "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100"
+            },
+            {
+                "quantity": 4,
+                "productName": "Impeditium",
+                "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842"
+            },
+            {
+                "quantity": 1,
+                "productName": "World of Planes",
+                "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f"
+            }
+        ],
+        "totalOrderCost": 719454
+    },
+    {
+        "_id": "5a2e6818-4104-4331-8fbc-d361d10868df",
+        "customerID": "cbb2b56d-af38-466a-be7c-7c6743092fde",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Identity",
+                "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f"
+            },
+            {
+                "quantity": 3,
+                "productName": "E.T.",
+                "productID": "274adfd0-71e5-4b53-9228-db0f12385fba"
+            },
+            {
+                "quantity": 3,
+                "productName": "Farmers Bread",
+                "productID": "530dbf77-1720-45a0-b31b-f06b736115f5"
+            },
+            {
+                "quantity": 2,
+                "productName": "BaaB",
+                "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9"
+            }
+        ],
+        "totalOrderCost": 160490
+    },
+    {
+        "_id": "ce3559e4-0006-4ba5-b5c2-ebd1e66137ed",
+        "customerID": "cbb2b56d-af38-466a-be7c-7c6743092fde",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Pixel Pro Max",
+                "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea"
+            },
+            {
+                "quantity": 5,
+                "productName": "Coconut Water",
+                "productID": "d574f881-8a8c-4017-af36-0680efe3c55b"
+            }
+        ],
+        "totalOrderCost": 376350
+    },
+    {
+        "_id": "5b6959c2-6f3d-413e-b096-7d3f3f49fe8c",
+        "customerID": "cbb2b56d-af38-466a-be7c-7c6743092fde",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Occams Razor",
+                "productID": "6f3468c4-6b9d-48ba-9f25-63ea82079014"
+            },
+            {
+                "quantity": 1,
+                "productName": "African Bread",
+                "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f"
+            },
+            {
+                "quantity": 5,
+                "productName": "FrostFree Fridge",
+                "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f"
+            }
+        ],
+        "totalOrderCost": 31834
+    },
+    {
+        "_id": "c9d50ab7-04e0-4e04-aad6-d7dec97cc96f",
+        "customerID": "cbb2b56d-af38-466a-be7c-7c6743092fde",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "MaxPower P7",
+                "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842"
+            },
+            {
+                "quantity": 3,
+                "productName": "EcoTalk R5",
+                "productID": "530dbf77-1720-45a0-b31b-f06b736115f5"
+            },
+            {
+                "quantity": 1,
+                "productName": "Smells Like Old Spirit",
+                "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b"
+            }
+        ],
+        "totalOrderCost": 292600
+    },
+    {
+        "_id": "617efb08-0113-4bb1-8a19-56d57e43c956",
+        "customerID": "b400e118-2f85-4357-911c-40efdb28f9b1",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "Aurora Lite",
+                "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6"
+            },
+            {
+                "quantity": 2,
+                "productName": "Oranges",
+                "productID": "6c498ff8-eae1-40de-b519-c4679d80259a"
+            }
+        ],
+        "totalOrderCost": 113800
+    },
+    {
+        "_id": "1c7fd6d6-3bac-4221-9718-249de7b3a6b0",
+        "customerID": "b400e118-2f85-4357-911c-40efdb28f9b1",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Aurora Lite",
+                "productID": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53"
+            },
+            {
+                "quantity": 5,
+                "productName": "Megumi Mushrooms",
+                "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f"
+            },
+            {
+                "quantity": 4,
+                "productName": "Abbaria",
+                "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b"
+            },
+            {
+                "quantity": 5,
+                "productName": "Galaxy Explorer",
+                "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0"
+            }
+        ],
+        "totalOrderCost": 508350
+    },
+    {
+        "_id": "9fa5e187-17c8-489b-8430-dc6faf59dd3f",
+        "customerID": "b400e118-2f85-4357-911c-40efdb28f9b1",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "Axiomi SLP",
+                "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4"
+            },
+            {
+                "quantity": 5,
+                "productName": "MaxPower P7",
+                "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f"
+            },
+            {
+                "quantity": 1,
+                "productName": "BreezeMax Air Cooler",
+                "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f"
+            }
+        ],
+        "totalOrderCost": 39714
+    },
+    {
+        "_id": "3e80a699-d585-43dd-bdb8-ba05bc9f23fc",
+        "customerID": "b400e118-2f85-4357-911c-40efdb28f9b1",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "Chocolate Milk",
+                "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc"
+            },
+            {
+                "quantity": 4,
+                "productName": "Oranges",
+                "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f"
+            }
+        ],
+        "totalOrderCost": 11600
+    },
+    {
+        "_id": "ba0636e3-e465-4501-88f4-0ede1e08ac99",
+        "customerID": "b400e118-2f85-4357-911c-40efdb28f9b1",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "RapidToast Toaster",
+                "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06"
+            },
+            {
+                "quantity": 2,
+                "productName": "Galaxy Explorer",
+                "productID": "274adfd0-71e5-4b53-9228-db0f12385fba"
+            },
+            {
+                "quantity": 5,
+                "productName": "All Liquid",
+                "productID": "d574f881-8a8c-4017-af36-0680efe3c55b"
+            }
+        ],
+        "totalOrderCost": 396710
+    },
+    {
+        "_id": "fdfee3cb-4338-46d4-8cb0-777e2df64a6c",
+        "customerID": "985185cb-0785-4eb8-83a6-0f54d7010423",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "Limone Soda",
+                "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b"
+            },
+            {
+                "quantity": 4,
+                "productName": "Serbian Rolls",
+                "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5"
+            },
+            {
+                "quantity": 2,
+                "productName": "I-Sint",
+                "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4"
+            },
+            {
+                "quantity": 3,
+                "productName": "I-Sint",
+                "productID": "e3d8bb1c-7215-40c1-8766-2ca6238e9173"
+            }
+        ],
+        "totalOrderCost": 1097410
+    },
+    {
+        "_id": "0d2dce1f-b1d3-4370-a6ce-18689bd2fba1",
+        "customerID": "985185cb-0785-4eb8-83a6-0f54d7010423",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "Monsune Soda",
+                "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9"
+            },
+            {
+                "quantity": 5,
+                "productName": "QuickHeat Oven",
+                "productID": "32565dd1-c31a-4385-93f6-4ff523858e87"
+            }
+        ],
+        "totalOrderCost": 327350
+    },
+    {
+        "_id": "156b13dc-4139-465a-92fd-de98a851ec2b",
+        "customerID": "985185cb-0785-4eb8-83a6-0f54d7010423",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "World of Planes",
+                "productID": "2362dae9-b485-4423-b314-d43ef399b3df"
+            },
+            {
+                "quantity": 1,
+                "productName": "MaxPower P7",
+                "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f"
+            },
+            {
+                "quantity": 3,
+                "productName": "BaaB",
+                "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc"
+            },
+            {
+                "quantity": 2,
+                "productName": "Galaxy Explorer",
+                "productID": "aec0ad56-c5d0-4b86-ab49-e8507570b3d8"
+            }
+        ],
+        "totalOrderCost": 225194
+    },
+    {
+        "_id": "29b0361e-ca71-43fa-a6cb-51ceaf2f3b05",
+        "customerID": "985185cb-0785-4eb8-83a6-0f54d7010423",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "I-Sint",
+                "productID": "530dbf77-1720-45a0-b31b-f06b736115f5"
+            },
+            {
+                "quantity": 1,
+                "productName": "MaxPower P7",
+                "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f"
+            }
+        ],
+        "totalOrderCost": 484
+    },
+    {
+        "_id": "1e95b587-2adc-4143-97e3-5cd8dd236e5e",
+        "customerID": "985185cb-0785-4eb8-83a6-0f54d7010423",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "Ad Laborum",
+                "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100"
+            },
+            {
+                "quantity": 5,
+                "productName": "Mea Culpa",
+                "productID": "29525264-6e37-4443-9c49-d6cdf34f7161"
+            },
+            {
+                "quantity": 1,
+                "productName": "VisionPlus X2",
+                "productID": "aec0ad56-c5d0-4b86-ab49-e8507570b3d8"
+            }
+        ],
+        "totalOrderCost": 672150
+    },
+    {
+        "_id": "d9cfd46a-fdef-419d-af2b-2b44214c060d",
+        "customerID": "0b2b1d5e-514b-42b9-839e-2d9534aaef34",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "Sweet Tomatoes",
+                "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc"
+            },
+            {
+                "quantity": 5,
+                "productName": "FrostFree Fridge",
+                "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173"
+            }
+        ],
+        "totalOrderCost": 9120
+    },
+    {
+        "_id": "d1e1c477-d232-4599-a014-ab7c6c3ca879",
+        "customerID": "0b2b1d5e-514b-42b9-839e-2d9534aaef34",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "RapidToast Toaster",
+                "productID": "568809a9-da00-425a-811f-8248623f0909"
+            },
+            {
+                "quantity": 1,
+                "productName": "Abbaria",
+                "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f"
+            },
+            {
+                "quantity": 1,
+                "productName": "Copperlica",
+                "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0"
+            },
+            {
+                "quantity": 1,
+                "productName": "Dorime",
+                "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f"
+            },
+            {
+                "quantity": 1,
+                "productName": "Impeditium",
+                "productID": "6f3468c4-6b9d-48ba-9f25-63ea82079014"
+            }
+        ],
+        "totalOrderCost": 155150
+    },
+    {
+        "_id": "ad15c344-580f-4fb0-8ed4-8d8d75e7f302",
+        "customerID": "0b2b1d5e-514b-42b9-839e-2d9534aaef34",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "EfficientHeat Heater",
+                "productID": "d574f881-8a8c-4017-af36-0680efe3c55b"
+            }
+        ],
+        "totalOrderCost": 75000
+    },
+    {
+        "_id": "775a09eb-3b43-4bcf-aa4f-af33759f28bf",
+        "customerID": "0b2b1d5e-514b-42b9-839e-2d9534aaef34",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "Necessitatibus",
+                "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885"
+            },
+            {
+                "quantity": 1,
+                "productName": "Sweet Tomatoes",
+                "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb"
+            },
+            {
+                "quantity": 1,
+                "productName": "Passion of Dice",
+                "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f"
+            }
+        ],
+        "totalOrderCost": 112450
+    },
+    {
+        "_id": "27649943-c844-4a63-8104-3ad438218fef",
+        "customerID": "0b2b1d5e-514b-42b9-839e-2d9534aaef34",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "Serbian Rolls",
+                "productID": "2362dae9-b485-4423-b314-d43ef399b3df"
+            }
+        ],
+        "totalOrderCost": 6900
+    },
+    {
+        "_id": "2079499a-744f-4175-b928-7073db80f668",
+        "customerID": "12c70310-7c01-40a4-a080-004a582f808e",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "RapidToast Toaster",
+                "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885"
+            },
+            {
+                "quantity": 1,
+                "productName": "EcoWash Deluxe",
+                "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9"
+            }
+        ],
+        "totalOrderCost": 82400
+    },
+    {
+        "_id": "0f784ac6-1923-4bc7-a502-ecbd4a74c87b",
+        "customerID": "12c70310-7c01-40a4-a080-004a582f808e",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "Impeditium",
+                "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100"
+            },
+            {
+                "quantity": 4,
+                "productName": "Abbaria",
+                "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08"
+            },
+            {
+                "quantity": 3,
+                "productName": "Serbian Rolls",
+                "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0"
+            }
+        ],
+        "totalOrderCost": 703120
+    },
+    {
+        "_id": "0c73ea41-2caf-43d4-8fe4-4d3ac781aa40",
+        "customerID": "12c70310-7c01-40a4-a080-004a582f808e",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "Necessitatibus",
+                "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4"
+            }
+        ],
+        "totalOrderCost": 7500
+    },
+    {
+        "_id": "7a37f727-08c6-4fc0-b932-d821e8643339",
+        "customerID": "12c70310-7c01-40a4-a080-004a582f808e",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Megumi Mushrooms",
+                "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f"
+            },
+            {
+                "quantity": 1,
+                "productName": "QuickHeat Oven",
+                "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842"
+            },
+            {
+                "quantity": 3,
+                "productName": "Identity",
+                "productID": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed"
+            },
+            {
+                "quantity": 2,
+                "productName": "All Liquid",
+                "productID": "a7bd0c8c-849e-4033-904a-9090b7590345"
+            }
+        ],
+        "totalOrderCost": 314330
+    },
+    {
+        "_id": "dee6c1b7-00b4-4646-af50-d01a6ab142a9",
+        "customerID": "12c70310-7c01-40a4-a080-004a582f808e",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "BreezeMax Air Cooler",
+                "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30"
+            },
+            {
+                "quantity": 1,
+                "productName": "BlueSky Air Purifier",
+                "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30"
+            },
+            {
+                "quantity": 5,
+                "productName": "EfficientHeat Heater",
+                "productID": "a7bd0c8c-849e-4033-904a-9090b7590345"
+            },
+            {
+                "quantity": 2,
+                "productName": "E.T.",
+                "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d"
+            }
+        ],
+        "totalOrderCost": 48900
+    },
+    {
+        "_id": "4ea76a4e-3bb2-4ea3-a8e0-6af8b343a8d3",
+        "customerID": "207deac5-535b-4173-b1f5-2952277b18c4",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "Gnusmas XP12",
+                "productID": "0fce1bf3-7cd7-423c-89b9-96e44caee05a"
+            },
+            {
+                "quantity": 2,
+                "productName": "Limone Soda",
+                "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f"
+            },
+            {
+                "quantity": 3,
+                "productName": "Limone Soda",
+                "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589"
+            },
+            {
+                "quantity": 3,
+                "productName": "Smells Like Old Spirit",
+                "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f"
+            },
+            {
+                "quantity": 4,
+                "productName": "Identity",
+                "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885"
+            }
+        ],
+        "totalOrderCost": 702310
+    },
+    {
+        "_id": "4b23bccc-5749-4bb1-83a8-c8712bfc6916",
+        "customerID": "207deac5-535b-4173-b1f5-2952277b18c4",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "Dorime",
+                "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6"
+            },
+            {
+                "quantity": 3,
+                "productName": "Aurora Lite",
+                "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc"
+            },
+            {
+                "quantity": 2,
+                "productName": "Monsune Soda",
+                "productID": "274adfd0-71e5-4b53-9228-db0f12385fba"
+            },
+            {
+                "quantity": 3,
+                "productName": "BaaB",
+                "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30"
+            },
+            {
+                "quantity": 3,
+                "productName": "Heart of Iron",
+                "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173"
+            }
+        ],
+        "totalOrderCost": 38060
+    },
+    {
+        "_id": "250f7ab6-0def-4e7d-ace8-1c6ab73d3c30",
+        "customerID": "207deac5-535b-4173-b1f5-2952277b18c4",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "MagnaClean Vacuum",
+                "productID": "29525264-6e37-4443-9c49-d6cdf34f7161"
+            },
+            {
+                "quantity": 3,
+                "productName": "Passion of Dice",
+                "productID": "29525264-6e37-4443-9c49-d6cdf34f7161"
+            },
+            {
+                "quantity": 4,
+                "productName": "Serbian Rolls",
+                "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30"
+            },
+            {
+                "quantity": 3,
+                "productName": "Megumi Mushrooms",
+                "productID": "8af80953-cf99-4011-ae3c-75392390a04e"
+            }
+        ],
+        "totalOrderCost": 279600
+    },
+    {
+        "_id": "d60c39ac-2521-4dae-91fb-6faacc1cf90f",
+        "customerID": "207deac5-535b-4173-b1f5-2952277b18c4",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "EcoTalk R5",
+                "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f"
+            },
+            {
+                "quantity": 4,
+                "productName": "Ad Laborum",
+                "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc"
+            }
+        ],
+        "totalOrderCost": 3500
+    },
+    {
+        "_id": "e131542b-f308-4f98-a501-5dab17101fc5",
+        "customerID": "207deac5-535b-4173-b1f5-2952277b18c4",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "Volatarium",
+                "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0"
+            },
+            {
+                "quantity": 2,
+                "productName": "Passion of Dice",
+                "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885"
+            }
+        ],
+        "totalOrderCost": 14720
+    },
+    {
+        "_id": "740db374-fe18-4e40-b32b-5b61f3e1942a",
+        "customerID": "02344ef8-0221-4090-a294-ba5c0779fe20",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Limone Soda",
+                "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589"
+            },
+            {
+                "quantity": 4,
+                "productName": "Aurora Lite",
+                "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885"
+            }
+        ],
+        "totalOrderCost": 25870
+    },
+    {
+        "_id": "a6271d59-2a63-4353-be8b-b05e7b36ec29",
+        "customerID": "02344ef8-0221-4090-a294-ba5c0779fe20",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Sweat Weather",
+                "productID": "8af80953-cf99-4011-ae3c-75392390a04e"
+            },
+            {
+                "quantity": 4,
+                "productName": "BaaB",
+                "productID": "274adfd0-71e5-4b53-9228-db0f12385fba"
+            },
+            {
+                "quantity": 5,
+                "productName": "Serbian Rolls",
+                "productID": "2362dae9-b485-4423-b314-d43ef399b3df"
+            },
+            {
+                "quantity": 1,
+                "productName": "Gnusmas XP12",
+                "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d"
+            },
+            {
+                "quantity": 4,
+                "productName": "Dorime",
+                "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30"
+            }
+        ],
+        "totalOrderCost": 131760
+    },
+    {
+        "_id": "7e036a70-a3af-43bd-ba08-bd711b3d3658",
+        "customerID": "02344ef8-0221-4090-a294-ba5c0779fe20",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "QuickBrew Coffee Maker",
+                "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06"
+            },
+            {
+                "quantity": 1,
+                "productName": "Axiomi SLP",
+                "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe"
+            },
+            {
+                "quantity": 5,
+                "productName": "BlueSky Air Purifier",
+                "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30"
+            },
+            {
+                "quantity": 1,
+                "productName": "UltraFlex Z9",
+                "productID": "06df6730-5197-4815-8016-015f7abd7208"
+            },
+            {
+                "quantity": 2,
+                "productName": "EcoSteam Iron",
+                "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc"
+            }
+        ],
+        "totalOrderCost": 63170
+    },
+    {
+        "_id": "20144c57-5870-4dff-ad79-71987f0e20a7",
+        "customerID": "02344ef8-0221-4090-a294-ba5c0779fe20",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "Abbaria",
+                "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30"
+            },
+            {
+                "quantity": 2,
+                "productName": "I-Sint",
+                "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d"
+            }
+        ],
+        "totalOrderCost": 16460
+    },
+    {
+        "_id": "1f3c91da-f4ff-45d6-98ed-d3f246b5be1e",
+        "customerID": "02344ef8-0221-4090-a294-ba5c0779fe20",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Sweet Tomatoes",
+                "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc"
+            },
+            {
+                "quantity": 2,
+                "productName": "FrostFree Fridge",
+                "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173"
+            },
+            {
+                "quantity": 5,
+                "productName": "O, dio!",
+                "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30"
+            },
+            {
+                "quantity": 1,
+                "productName": "Aurora Lite",
+                "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5"
+            }
+        ],
+        "totalOrderCost": 45190
+    },
+    {
+        "_id": "5c90c125-17e8-4425-9841-5f6000a11185",
+        "customerID": "3771b274-e5e2-4b02-9406-01f1ae5b9090",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "Axiomi SLP",
+                "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6"
+            },
+            {
+                "quantity": 4,
+                "productName": "All Liquid",
+                "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f"
+            }
+        ],
+        "totalOrderCost": 15720
+    },
+    {
+        "_id": "a31ac1a4-2e73-46b8-8190-b6efe7f00d5e",
+        "customerID": "3771b274-e5e2-4b02-9406-01f1ae5b9090",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "BaaB",
+                "productID": "6661ede7-d350-4434-99d5-1573fabfcea0"
+            },
+            {
+                "quantity": 3,
+                "productName": "Oranges",
+                "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f"
+            },
+            {
+                "quantity": 3,
+                "productName": "Axiomi SLP",
+                "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc"
+            }
+        ],
+        "totalOrderCost": 60630
+    },
+    {
+        "_id": "0d846e13-d6f7-41fa-b308-0a35c4b9d093",
+        "customerID": "3771b274-e5e2-4b02-9406-01f1ae5b9090",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Axiomi SLP",
+                "productID": "d574f881-8a8c-4017-af36-0680efe3c55b"
+            },
+            {
+                "quantity": 5,
+                "productName": "Galaxy Explorer",
+                "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885"
+            },
+            {
+                "quantity": 4,
+                "productName": "Identity",
+                "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4"
+            },
+            {
+                "quantity": 5,
+                "productName": "Handschnitzel Crumbs",
+                "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d"
+            }
+        ],
+        "totalOrderCost": 273300
+    },
+    {
+        "_id": "87405dcf-3b96-47b9-b4ce-65723b2d9c57",
+        "customerID": "3771b274-e5e2-4b02-9406-01f1ae5b9090",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Heart of Iron",
+                "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842"
+            },
+            {
+                "quantity": 3,
+                "productName": "All Liquid",
+                "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5"
+            }
+        ],
+        "totalOrderCost": 21090
+    },
+    {
+        "_id": "5a335d34-0e19-4823-b4ba-8d8303cd777d",
+        "customerID": "3771b274-e5e2-4b02-9406-01f1ae5b9090",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Carrots",
+                "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f"
+            },
+            {
+                "quantity": 3,
+                "productName": "EcoSteam Iron",
+                "productID": "a81efa0d-4e8f-48cd-ab65-d3b42a3c4c32"
+            },
+            {
+                "quantity": 1,
+                "productName": "BreezeMax Air Cooler",
+                "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06"
+            },
+            {
+                "quantity": 3,
+                "productName": "MaxPower P7",
+                "productID": "a7bd0c8c-849e-4033-904a-9090b7590345"
+            },
+            {
+                "quantity": 5,
+                "productName": "Megumi Mushrooms",
+                "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc"
+            }
+        ],
+        "totalOrderCost": 235180
+    },
+    {
+        "_id": "d969f08c-551a-4d76-954b-9f9264b1c0c5",
+        "customerID": "4e192300-88e8-425a-bd6e-80d54a3b25cc",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Orangingo Juice",
+                "productID": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90"
+            },
+            {
+                "quantity": 3,
+                "productName": "MagnaClean Vacuum",
+                "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f"
+            },
+            {
+                "quantity": 2,
+                "productName": "Farmers Bread",
+                "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30"
+            },
+            {
+                "quantity": 5,
+                "productName": "Impeditium",
+                "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6"
+            }
+        ],
+        "totalOrderCost": 61990
+    },
+    {
+        "_id": "9cc7cdf6-7fab-4799-91c6-7ca555986e92",
+        "customerID": "4e192300-88e8-425a-bd6e-80d54a3b25cc",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "EcoTalk R5",
+                "productID": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90"
+            },
+            {
+                "quantity": 5,
+                "productName": "Gnusmas XP12",
+                "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e"
+            },
+            {
+                "quantity": 1,
+                "productName": "I-Sint",
+                "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5"
+            }
+        ],
+        "totalOrderCost": 30260
+    },
+    {
+        "_id": "b344ec02-fdd0-4d85-bd3f-bcfd5a7445b4",
+        "customerID": "4e192300-88e8-425a-bd6e-80d54a3b25cc",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "Orangingo Juice",
+                "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc"
+            }
+        ],
+        "totalOrderCost": 6400
+    },
+    {
+        "_id": "4f98ce35-7f31-4ab7-a20d-68e020da2985",
+        "customerID": "4e192300-88e8-425a-bd6e-80d54a3b25cc",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "EcoWash Deluxe",
+                "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc"
+            }
+        ],
+        "totalOrderCost": 650
+    },
+    {
+        "_id": "932bf39c-3b46-4e09-bf6c-6254a413c48d",
+        "customerID": "4e192300-88e8-425a-bd6e-80d54a3b25cc",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "RapidToast Toaster",
+                "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4"
+            },
+            {
+                "quantity": 5,
+                "productName": "Handschnitzel Crumbs",
+                "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9"
+            }
+        ],
+        "totalOrderCost": 390960
+    },
+    {
+        "_id": "300bd5e7-f925-40be-930d-67148db3a99e",
+        "customerID": "2284da68-2d43-46c4-824c-0a6e7c1a314f",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "Monsune Soda",
+                "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb"
+            }
+        ],
+        "totalOrderCost": 160000
+    },
+    {
+        "_id": "8cbac269-b33b-4b67-80f5-518c00ac6094",
+        "customerID": "2284da68-2d43-46c4-824c-0a6e7c1a314f",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Limone Soda",
+                "productID": "03f6fd23-79ab-47f7-adeb-10d593fbd1b7"
+            },
+            {
+                "quantity": 1,
+                "productName": "Pixel Pro Max",
+                "productID": "a7bd0c8c-849e-4033-904a-9090b7590345"
+            },
+            {
+                "quantity": 4,
+                "productName": "Handschnitzel Crumbs",
+                "productID": "a7bd0c8c-849e-4033-904a-9090b7590345"
+            },
+            {
+                "quantity": 2,
+                "productName": "Necessitatibus",
+                "productID": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53"
+            },
+            {
+                "quantity": 3,
+                "productName": "Pixel Pro Max",
+                "productID": "530dbf77-1720-45a0-b31b-f06b736115f5"
+            }
+        ],
+        "totalOrderCost": 317900
+    },
+    {
+        "_id": "5615eea7-1f43-4d49-bd89-d1a157280223",
+        "customerID": "2284da68-2d43-46c4-824c-0a6e7c1a314f",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "MagnaClean Vacuum",
+                "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5"
+            },
+            {
+                "quantity": 3,
+                "productName": "Impeditium",
+                "productID": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed"
+            }
+        ],
+        "totalOrderCost": 304720
+    },
+    {
+        "_id": "e2b26c9c-d344-4060-9204-bda851ce51fa",
+        "customerID": "2284da68-2d43-46c4-824c-0a6e7c1a314f",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Ad Laborum",
+                "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc"
+            },
+            {
+                "quantity": 2,
+                "productName": "African Bread",
+                "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885"
+            },
+            {
+                "quantity": 1,
+                "productName": "Coconut Water",
+                "productID": "6c498ff8-eae1-40de-b519-c4679d80259a"
+            }
+        ],
+        "totalOrderCost": 72400
+    },
+    {
+        "_id": "73ef9ef9-0bc6-4c18-a8f5-2e3eef079b7b",
+        "customerID": "2284da68-2d43-46c4-824c-0a6e7c1a314f",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "Aurora Lite",
+                "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc"
+            },
+            {
+                "quantity": 1,
+                "productName": "Chocolate Milk",
+                "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100"
+            },
+            {
+                "quantity": 5,
+                "productName": "EcoSteam Iron",
+                "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100"
+            },
+            {
+                "quantity": 4,
+                "productName": "Ad Laborum",
+                "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4"
+            }
+        ],
+        "totalOrderCost": 872300
+    },
+    {
+        "_id": "38c3b459-44e6-47b5-8bf6-d83a1a60c18f",
+        "customerID": "af55935a-dc9c-4adf-b370-7249845d61cf",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Passion of Dice",
+                "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173"
+            },
+            {
+                "quantity": 1,
+                "productName": "Chocolate Milk",
+                "productID": "274adfd0-71e5-4b53-9228-db0f12385fba"
+            },
+            {
+                "quantity": 3,
+                "productName": "Pixel Pro Max",
+                "productID": "32565dd1-c31a-4385-93f6-4ff523858e87"
+            }
+        ],
+        "totalOrderCost": 17130
+    },
+    {
+        "_id": "6aca85b7-4fe9-4119-8238-b34bf12a8d49",
+        "customerID": "af55935a-dc9c-4adf-b370-7249845d61cf",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "EfficientHeat Heater",
+                "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f"
+            },
+            {
+                "quantity": 3,
+                "productName": "EcoWash Deluxe",
+                "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8"
+            }
+        ],
+        "totalOrderCost": 5730
+    },
+    {
+        "_id": "88d6dcdf-8981-4e78-94be-7aba031415f1",
+        "customerID": "af55935a-dc9c-4adf-b370-7249845d61cf",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Carrots",
+                "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc"
+            }
+        ],
+        "totalOrderCost": 650
+    },
+    {
+        "_id": "c28fe8fd-1754-4e28-8862-579a8cb09684",
+        "customerID": "af55935a-dc9c-4adf-b370-7249845d61cf",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "EcoWash Deluxe",
+                "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d"
+            },
+            {
+                "quantity": 3,
+                "productName": "All Liquid",
+                "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b"
+            },
+            {
+                "quantity": 3,
+                "productName": "Galaxy Explorer",
+                "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb"
+            },
+            {
+                "quantity": 5,
+                "productName": "O, dio!",
+                "productID": "bbd1b566-d68c-40ae-b156-3824622cad4a"
+            },
+            {
+                "quantity": 1,
+                "productName": "Aurora Lite",
+                "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6"
+            }
+        ],
+        "totalOrderCost": 1064980
+    },
+    {
+        "_id": "a660e5d0-f121-4346-9023-251144423417",
+        "customerID": "af55935a-dc9c-4adf-b370-7249845d61cf",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "EcoWash Deluxe",
+                "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f"
+            },
+            {
+                "quantity": 1,
+                "productName": "RapidToast Toaster",
+                "productID": "a7bd0c8c-849e-4033-904a-9090b7590345"
+            },
+            {
+                "quantity": 5,
+                "productName": "MaxPower P7",
+                "productID": "d574f881-8a8c-4017-af36-0680efe3c55b"
+            },
+            {
+                "quantity": 5,
+                "productName": "Orangingo Juice",
+                "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc"
+            },
+            {
+                "quantity": 1,
+                "productName": "Carrots",
+                "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b"
+            }
+        ],
+        "totalOrderCost": 789300
+    },
+    {
+        "_id": "35328608-b748-4d82-aa71-0e7976a4129c",
+        "customerID": "5085c27c-2f18-4008-b343-d481a3b05a01",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "Gnusmas XP12",
+                "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc"
+            }
+        ],
+        "totalOrderCost": 17300
+    },
+    {
+        "_id": "49276f3d-05ce-4bc4-b6db-f6ec6e5416be",
+        "customerID": "5085c27c-2f18-4008-b343-d481a3b05a01",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "Ad Laborum",
+                "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589"
+            },
+            {
+                "quantity": 2,
+                "productName": "Orangingo Juice",
+                "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc"
+            },
+            {
+                "quantity": 2,
+                "productName": "BreezeMax Air Cooler",
+                "productID": "d574f881-8a8c-4017-af36-0680efe3c55b"
+            },
+            {
+                "quantity": 5,
+                "productName": "Mea Culpa",
+                "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f"
+            },
+            {
+                "quantity": 2,
+                "productName": "Chocolate Bread",
+                "productID": "d574f881-8a8c-4017-af36-0680efe3c55b"
+            }
+        ],
+        "totalOrderCost": 309710
+    },
+    {
+        "_id": "a2fa5a6f-a7e6-4434-9410-5bf261ef5944",
+        "customerID": "5085c27c-2f18-4008-b343-d481a3b05a01",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "BreezeMax Air Cooler",
+                "productID": "03f6fd23-79ab-47f7-adeb-10d593fbd1b7"
+            },
+            {
+                "quantity": 5,
+                "productName": "BaaB",
+                "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4"
+            },
+            {
+                "quantity": 3,
+                "productName": "Aurora Lite",
+                "productID": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed"
+            },
+            {
+                "quantity": 2,
+                "productName": "Copperlica",
+                "productID": "29525264-6e37-4443-9c49-d6cdf34f7161"
+            },
+            {
+                "quantity": 2,
+                "productName": "Identity",
+                "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08"
+            }
+        ],
+        "totalOrderCost": 512150
+    },
+    {
+        "_id": "de63a0c6-5ce6-4b25-af3f-2c9024146804",
+        "customerID": "5085c27c-2f18-4008-b343-d481a3b05a01",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "EcoSteam Iron",
+                "productID": "6661ede7-d350-4434-99d5-1573fabfcea0"
+            },
+            {
+                "quantity": 4,
+                "productName": "Coconut Water",
+                "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899"
+            }
+        ],
+        "totalOrderCost": 90420
+    },
+    {
+        "_id": "db483ed8-33ff-46d9-82cd-0e42f555ab90",
+        "customerID": "5085c27c-2f18-4008-b343-d481a3b05a01",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "World of Planes",
+                "productID": "6c498ff8-eae1-40de-b519-c4679d80259a"
+            }
+        ],
+        "totalOrderCost": 150000
+    },
+    {
+        "_id": "e423ba12-5e3b-4bc7-b8de-611e5d735c3e",
+        "customerID": "62485382-5586-4e45-bec1-932388808ae3",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "All Liquid",
+                "productID": "8af80953-cf99-4011-ae3c-75392390a04e"
+            },
+            {
+                "quantity": 1,
+                "productName": "Carrots",
+                "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc"
+            },
+            {
+                "quantity": 5,
+                "productName": "Sweet Tomatoes",
+                "productID": "d574f881-8a8c-4017-af36-0680efe3c55b"
+            }
+        ],
+        "totalOrderCost": 706460
+    },
+    {
+        "_id": "228606a9-f602-40a5-adbc-b4ea30c6ba3d",
+        "customerID": "62485382-5586-4e45-bec1-932388808ae3",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "BlueSky Air Purifier",
+                "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe"
+            },
+            {
+                "quantity": 4,
+                "productName": "RapidToast Toaster",
+                "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589"
+            },
+            {
+                "quantity": 1,
+                "productName": "UltraFlex Z9",
+                "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea"
+            },
+            {
+                "quantity": 4,
+                "productName": "Passion of Dice",
+                "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f"
+            }
+        ],
+        "totalOrderCost": 63330
+    },
+    {
+        "_id": "887c94fc-57ca-4b6f-93f0-07d39738e6ad",
+        "customerID": "62485382-5586-4e45-bec1-932388808ae3",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "BreezeMax Air Cooler",
+                "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b"
+            },
+            {
+                "quantity": 4,
+                "productName": "Monsune Soda",
+                "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899"
+            },
+            {
+                "quantity": 3,
+                "productName": "Farmers Bread",
+                "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb"
+            },
+            {
+                "quantity": 2,
+                "productName": "Gnusmas XP12",
+                "productID": "6c498ff8-eae1-40de-b519-c4679d80259a"
+            }
+        ],
+        "totalOrderCost": 490420
+    },
+    {
+        "_id": "e3b0d484-042f-45aa-aee1-84428dc5752a",
+        "customerID": "62485382-5586-4e45-bec1-932388808ae3",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "Sweat Weather",
+                "productID": "6661ede7-d350-4434-99d5-1573fabfcea0"
+            },
+            {
+                "quantity": 3,
+                "productName": "Heart of Iron",
+                "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173"
+            },
+            {
+                "quantity": 1,
+                "productName": "Passion of Dice",
+                "productID": "530dbf77-1720-45a0-b31b-f06b736115f5"
+            }
+        ],
+        "totalOrderCost": 61320
+    },
+    {
+        "_id": "9378feac-fd86-40bf-936a-2eeda70d77b9",
+        "customerID": "62485382-5586-4e45-bec1-932388808ae3",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "Copperlica",
+                "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d"
+            },
+            {
+                "quantity": 5,
+                "productName": "Heart of Iron",
+                "productID": "bbd9f607-fd5b-4780-bba3-9a263ee776f0"
+            }
+        ],
+        "totalOrderCost": 1715
+    },
+    {
+        "_id": "dff3ec11-a539-44b7-a7f4-24c9a4e8694d",
+        "customerID": "2b04e2bd-d6db-41c5-9577-e35bd822c2ee",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "Oranges",
+                "productID": "274adfd0-71e5-4b53-9228-db0f12385fba"
+            },
+            {
+                "quantity": 4,
+                "productName": "FrostFree Fridge",
+                "productID": "e3d8bb1c-7215-40c1-8766-2ca6238e9173"
+            },
+            {
+                "quantity": 4,
+                "productName": "Occams Razor",
+                "productID": "bbd1b566-d68c-40ae-b156-3824622cad4a"
+            }
+        ],
+        "totalOrderCost": 25280
+    },
+    {
+        "_id": "074b3984-8d5f-47e8-90c2-90313258fe90",
+        "customerID": "2b04e2bd-d6db-41c5-9577-e35bd822c2ee",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Farmers Bread",
+                "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06"
+            },
+            {
+                "quantity": 4,
+                "productName": "Chocolate Bread",
+                "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea"
+            },
+            {
+                "quantity": 5,
+                "productName": "Occams Razor",
+                "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885"
+            },
+            {
+                "quantity": 5,
+                "productName": "Farmers Bread",
+                "productID": "32565dd1-c31a-4385-93f6-4ff523858e87"
+            }
+        ],
+        "totalOrderCost": 60420
+    },
+    {
+        "_id": "7c7c1251-2116-49dd-8923-3a0198359939",
+        "customerID": "2b04e2bd-d6db-41c5-9577-e35bd822c2ee",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Bananas",
+                "productID": "29525264-6e37-4443-9c49-d6cdf34f7161"
+            },
+            {
+                "quantity": 3,
+                "productName": "Galaxy Explorer",
+                "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08"
+            }
+        ],
+        "totalOrderCost": 2550
+    },
+    {
+        "_id": "ba27f95b-1cbe-4eeb-a1cc-28af96ec3b5b",
+        "customerID": "2b04e2bd-d6db-41c5-9577-e35bd822c2ee",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Galaxy Explorer",
+                "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b"
+            },
+            {
+                "quantity": 5,
+                "productName": "World of Planes",
+                "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5"
+            },
+            {
+                "quantity": 3,
+                "productName": "Dorime",
+                "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885"
+            }
+        ],
+        "totalOrderCost": 151750
+    },
+    {
+        "_id": "803d7397-7a00-4fa2-b400-cdd7a1594c80",
+        "customerID": "2b04e2bd-d6db-41c5-9577-e35bd822c2ee",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "World of Planes",
+                "productID": "6c498ff8-eae1-40de-b519-c4679d80259a"
+            },
+            {
+                "quantity": 3,
+                "productName": "UltraFlex Z9",
+                "productID": "06df6730-5197-4815-8016-015f7abd7208"
+            },
+            {
+                "quantity": 3,
+                "productName": "O, dio!",
+                "productID": "a81efa0d-4e8f-48cd-ab65-d3b42a3c4c32"
+            },
+            {
+                "quantity": 1,
+                "productName": "BlueSky Air Purifier",
+                "productID": "0fce1bf3-7cd7-423c-89b9-96e44caee05a"
+            }
+        ],
+        "totalOrderCost": 603130
+    },
+    {
+        "_id": "0444d744-a5d8-47d8-ad72-c60c80829b2b",
+        "customerID": "a2a6a74e-c38c-4ef0-a841-6df802acee83",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "Copperlica",
+                "productID": "2362dae9-b485-4423-b314-d43ef399b3df"
+            },
+            {
+                "quantity": 3,
+                "productName": "Chocolate Milk",
+                "productID": "e3d8bb1c-7215-40c1-8766-2ca6238e9173"
+            }
+        ],
+        "totalOrderCost": 7410
+    },
+    {
+        "_id": "a98e5614-786f-4515-b9fe-b7889b98bf44",
+        "customerID": "a2a6a74e-c38c-4ef0-a841-6df802acee83",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Bananas",
+                "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30"
+            },
+            {
+                "quantity": 5,
+                "productName": "QuickBrew Coffee Maker",
+                "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8"
+            }
+        ],
+        "totalOrderCost": 15570
+    },
+    {
+        "_id": "c6c908b6-3c5a-4938-9c00-7c5ddd200189",
+        "customerID": "a2a6a74e-c38c-4ef0-a841-6df802acee83",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "Coconut Water",
+                "productID": "bbd9f607-fd5b-4780-bba3-9a263ee776f0"
+            },
+            {
+                "quantity": 2,
+                "productName": "Sweet Tomatoes",
+                "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f"
+            }
+        ],
+        "totalOrderCost": 50540
+    },
+    {
+        "_id": "c520c464-d627-4ef1-985d-114e6bd60df1",
+        "customerID": "a2a6a74e-c38c-4ef0-a841-6df802acee83",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "VisionPlus X2",
+                "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e"
+            },
+            {
+                "quantity": 5,
+                "productName": "Farmers Bread",
+                "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6"
+            }
+        ],
+        "totalOrderCost": 14550
+    },
+    {
+        "_id": "67cd6ad6-4483-4ffb-a593-fffa1bef5e54",
+        "customerID": "a2a6a74e-c38c-4ef0-a841-6df802acee83",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "EcoWash Deluxe",
+                "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4"
+            },
+            {
+                "quantity": 5,
+                "productName": "Dorime",
+                "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e"
+            },
+            {
+                "quantity": 4,
+                "productName": "Back in Blue",
+                "productID": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90"
+            },
+            {
+                "quantity": 3,
+                "productName": "QuickHeat Oven",
+                "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9"
+            }
+        ],
+        "totalOrderCost": 283500
+    },
+    {
+        "_id": "e1e7e70e-f150-45aa-a2cd-5c094179b692",
+        "customerID": "68d93e09-5112-4dd3-8b62-a317896bb0d7",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "FrostFree Fridge",
+                "productID": "0fce1bf3-7cd7-423c-89b9-96e44caee05a"
+            },
+            {
+                "quantity": 5,
+                "productName": "EcoSteam Iron",
+                "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842"
+            },
+            {
+                "quantity": 3,
+                "productName": "World of Planes",
+                "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b"
+            },
+            {
+                "quantity": 5,
+                "productName": "BaaB",
+                "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0"
+            }
+        ],
+        "totalOrderCost": 535000
+    },
+    {
+        "_id": "5bbd0c04-92f1-423a-b2f3-13da4d4c1c79",
+        "customerID": "68d93e09-5112-4dd3-8b62-a317896bb0d7",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "Sweet Tomatoes",
+                "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4"
+            },
+            {
+                "quantity": 2,
+                "productName": "All Liquid",
+                "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f"
+            },
+            {
+                "quantity": 1,
+                "productName": "Dorime",
+                "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f"
+            }
+        ],
+        "totalOrderCost": 57984
+    },
+    {
+        "_id": "aef42e99-81b8-4087-9fa6-d6ffbcc172ec",
+        "customerID": "68d93e09-5112-4dd3-8b62-a317896bb0d7",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Passion of Dice",
+                "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b"
+            },
+            {
+                "quantity": 4,
+                "productName": "EcoWash Deluxe",
+                "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc"
+            },
+            {
+                "quantity": 5,
+                "productName": "QuickBrew Coffee Maker",
+                "productID": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed"
+            }
+        ],
+        "totalOrderCost": 1323340
+    },
+    {
+        "_id": "abb5c8da-dd3c-47b5-a31b-c35768cf9c60",
+        "customerID": "68d93e09-5112-4dd3-8b62-a317896bb0d7",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Dorime",
+                "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea"
+            },
+            {
+                "quantity": 3,
+                "productName": "Gnusmas XP12",
+                "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc"
+            }
+        ],
+        "totalOrderCost": 2400
+    },
+    {
+        "_id": "c8a71413-f143-4ae6-97ea-f7c5f584826a",
+        "customerID": "68d93e09-5112-4dd3-8b62-a317896bb0d7",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "Orangingo Juice",
+                "productID": "29525264-6e37-4443-9c49-d6cdf34f7161"
+            },
+            {
+                "quantity": 5,
+                "productName": "Occams Razor",
+                "productID": "06df6730-5197-4815-8016-015f7abd7208"
+            }
+        ],
+        "totalOrderCost": 3200
+    },
+    {
+        "_id": "9c5dafd4-2483-4127-804d-1574416b3f0a",
+        "customerID": "bab9fc88-4eba-4240-821c-8e1448510635",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "RapidToast Toaster",
+                "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589"
+            },
+            {
+                "quantity": 4,
+                "productName": "Gnusmas XP12",
+                "productID": "8af80953-cf99-4011-ae3c-75392390a04e"
+            },
+            {
+                "quantity": 1,
+                "productName": "RapidToast Toaster",
+                "productID": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8"
+            },
+            {
+                "quantity": 5,
+                "productName": "EcoSteam Iron",
+                "productID": "29525264-6e37-4443-9c49-d6cdf34f7161"
+            }
+        ],
+        "totalOrderCost": 331988
+    },
+    {
+        "_id": "01bbd293-a975-422b-9bc3-10aa5a87e899",
+        "customerID": "bab9fc88-4eba-4240-821c-8e1448510635",
+        "orderItems": [
+            {
+                "quantity": 2,
+                "productName": "BreezeMax Air Cooler",
+                "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb"
+            },
+            {
+                "quantity": 2,
+                "productName": "MaxPower P7",
+                "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100"
+            },
+            {
+                "quantity": 3,
+                "productName": "BlueSky Air Purifier",
+                "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f"
+            },
+            {
+                "quantity": 2,
+                "productName": "EcoTalk R5",
+                "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b"
+            }
+        ],
+        "totalOrderCost": 1055000
+    },
+    {
+        "_id": "948f0d32-44ef-4cea-96d3-122044812d11",
+        "customerID": "bab9fc88-4eba-4240-821c-8e1448510635",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Gnusmas XP12",
+                "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f"
+            },
+            {
+                "quantity": 1,
+                "productName": "QuickHeat Oven",
+                "productID": "d574f881-8a8c-4017-af36-0680efe3c55b"
+            },
+            {
+                "quantity": 2,
+                "productName": "Volatarium",
+                "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4"
+            },
+            {
+                "quantity": 2,
+                "productName": "MaxPower P7",
+                "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8"
+            }
+        ],
+        "totalOrderCost": 103770
+    },
+    {
+        "_id": "acafac8a-38a2-43d7-97aa-57a29c7e20e2",
+        "customerID": "bab9fc88-4eba-4240-821c-8e1448510635",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "Axiomi SLP",
+                "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4"
+            },
+            {
+                "quantity": 2,
+                "productName": "Dorime",
+                "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe"
+            },
+            {
+                "quantity": 3,
+                "productName": "All Liquid",
+                "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589"
+            }
+        ],
+        "totalOrderCost": 43560
+    },
+    {
+        "_id": "7af62d69-720a-420d-ab1f-e72886e35e8d",
+        "customerID": "bab9fc88-4eba-4240-821c-8e1448510635",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "Handschnitzel Crumbs",
+                "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f"
+            },
+            {
+                "quantity": 2,
+                "productName": "Sweet Tomatoes",
+                "productID": "d574f881-8a8c-4017-af36-0680efe3c55b"
+            },
+            {
+                "quantity": 3,
+                "productName": "MagnaClean Vacuum",
+                "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4"
+            },
+            {
+                "quantity": 2,
+                "productName": "Megumi Mushrooms",
+                "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842"
+            },
+            {
+                "quantity": 1,
+                "productName": "Smells Like Old Spirit",
+                "productID": "d574f881-8a8c-4017-af36-0680efe3c55b"
+            }
+        ],
+        "totalOrderCost": 249970
+    },
+    {
+        "_id": "f91e8b1e-dbd4-424c-a8fe-b3dfa29cce99",
+        "customerID": "e06f4a28-ee48-4cbb-bc03-1ee491d00a25",
+        "orderItems": [
+            {
+                "quantity": 1,
+                "productName": "Bananas",
+                "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885"
+            },
+            {
+                "quantity": 3,
+                "productName": "Abbaria",
+                "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b"
+            },
+            {
+                "quantity": 3,
+                "productName": "Chocolate Bread",
+                "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4"
+            },
+            {
+                "quantity": 4,
+                "productName": "Serbian Rolls",
+                "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc"
+            }
+        ],
+        "totalOrderCost": 391490
+    },
+    {
+        "_id": "a7eff295-7d67-4052-ae75-25a7f292c413",
+        "customerID": "e06f4a28-ee48-4cbb-bc03-1ee491d00a25",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "EcoWash Deluxe",
+                "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe"
+            },
+            {
+                "quantity": 4,
+                "productName": "Galaxy Explorer",
+                "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08"
+            },
+            {
+                "quantity": 3,
+                "productName": "Ad Laborum",
+                "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe"
+            },
+            {
+                "quantity": 4,
+                "productName": "Chocolate Milk",
+                "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06"
+            }
+        ],
+        "totalOrderCost": 98760
+    },
+    {
+        "_id": "7b853e83-dd16-44c3-9a71-ddc921215086",
+        "customerID": "e06f4a28-ee48-4cbb-bc03-1ee491d00a25",
+        "orderItems": [
+            {
+                "quantity": 5,
+                "productName": "Gnusmas XP12",
+                "productID": "a7bd0c8c-849e-4033-904a-9090b7590345"
+            },
+            {
+                "quantity": 4,
+                "productName": "Mea Culpa",
+                "productID": "0fce1bf3-7cd7-423c-89b9-96e44caee05a"
+            },
+            {
+                "quantity": 5,
+                "productName": "Necessitatibus",
+                "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4"
+            },
+            {
+                "quantity": 5,
+                "productName": "Heart of Iron",
+                "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f"
+            }
+        ],
+        "totalOrderCost": 669000
+    },
+    {
+        "_id": "b73feac9-72b8-44c6-b350-7ac7675b829f",
+        "customerID": "e06f4a28-ee48-4cbb-bc03-1ee491d00a25",
+        "orderItems": [
+            {
+                "quantity": 3,
+                "productName": "Monsune Soda",
+                "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08"
+            }
+        ],
+        "totalOrderCost": 1260
+    },
+    {
+        "_id": "03b2472f-cf28-499f-affa-b263bf8a4112",
+        "customerID": "e06f4a28-ee48-4cbb-bc03-1ee491d00a25",
+        "orderItems": [
+            {
+                "quantity": 4,
+                "productName": "UltraFlex Z9",
+                "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb"
+            },
+            {
+                "quantity": 5,
+                "productName": "VisionPlus X2",
+                "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc"
+            },
+            {
+                "quantity": 3,
+                "productName": "EcoWash Deluxe",
+                "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899"
+            }
+        ],
+        "totalOrderCost": 358815
+    }
+]

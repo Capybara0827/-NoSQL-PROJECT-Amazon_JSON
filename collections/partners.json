@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Joseph Jones",
+        "gender": "Male",
+        "age": 57,
+        "baseFee": 201,
+        "feePerMile": 47,
+        "personalData": {
+            "imageURL": "https://placekitten.com/988/1020"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -90.258552,
+                78.204976
+            ]
+        },
+        "status": "Pickup",
+        "deliveryTasks": [
+            {
+                "_id": "fa1d7138-166a-48ad-a785-1b3856596de4",
+                "deliveryAddress": "43 Moore squares, Boothborough, L58XT",
+                "totalOrderCost": 3570,
+                "dateOfDelivery": "2023-12-14",
+                "deliveryStatus": "Canceled",
+                "store": {
+                    "_id": "cb49e560-e486-439c-9aef-0acfc91ab0de",
+                    "name": "Jones-Baxter",
+                    "address": "122 Brown springs\nGlennview\nDT2B 5DH"
+                },
+                "orderItems": [
+                    {
+                        "quantity": 5,
+                        "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f",
+                        "name": "Orangingo Juice",
+                        "shortDescription": "Squeezed everyday, sustainably produced.",
+                        "stdPrice": 450
+                    },
+                    {
+                        "quantity": 3,
+                        "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173",
+                        "name": "Serbian Rolls",
+                        "shortDescription": "Family owned recipe, baked fresh every day.",
+                        "stdPrice": 440
+                    }
+                ]
+            }
+        ],
+        "_id": "74426dcf-ce2a-4ff9-8482-c52314e09772"
+    },
+    {
+        "name": "Amanda Moore",
+        "gender": "Female",
+        "age": 47,
+        "baseFee": 334,
+        "feePerMile": 90,
+        "personalData": {
+            "imageURL": "https://placekitten.com/610/372"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -148.567224,
+                74.144498
+            ]
+        },
+        "status": "Idle",
+        "deliveryTasks": [
+            {
+                "_id": "c9352094-d5d5-4346-af6d-15c5f53511d9",
+                "deliveryAddress": "23 Howe trail, Lynnshire, W2A9E",
+                "totalOrderCost": 3804,
+                "dateOfDelivery": "2023-12-15",
+                "deliveryStatus": "Customer Canceled",
+                "store": {
+                    "_id": "85d22a15-96e8-45da-a548-32f17b0126d3",
+                    "name": "Brown-Bird",
+                    "address": "624 Davey shore\nJackshire\nM55 8PF"
+                },
+                "orderItems": [
+                    {
+                        "quantity": 3,
+                        "productID": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8",
+                        "name": "Chocolate Milk",
+                        "shortDescription": "Only best quality cocoa, ethically sourced milk.",
+                        "stdPrice": 488
+                    },
+                    {
+                        "quantity": 9,
+                        "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+                        "name": "Monsune Soda",
+                        "shortDescription": "Best soda from Japan, with a twist!",
+                        "stdPrice": 260
+                    }
+                ]
+            }
+        ],
+        "_id": "5e0dbf94-a848-4ba3-aa98-b86b639b512f"
+    },
+    {
+        "name": "Camille Burke-Ashton",
+        "gender": "Female",
+        "age": 54,
+        "baseFee": 268,
+        "feePerMile": 61,
+        "personalData": {
+            "imageURL": "https://placekitten.com/739/735"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -119.02763,
+                -56.4281105
+            ]
+        },
+        "status": "Idle",
+        "deliveryTasks": [
+            {
+                "_id": "a9b04b7f-a85d-4225-9003-2c6c30871995",
+                "deliveryAddress": "735 Little turnpike, Deanmouth, E426Y",
+                "totalOrderCost": 650,
+                "dateOfDelivery": "2023-12-14",
+                "deliveryStatus": "Rescheduled",
+                "store": {
+                    "_id": "1b596eec-7318-4259-b54c-d91dd4b27704",
+                    "name": "Brookes PLC",
+                    "address": "Studio 98\nRoberts plain\nNew Rita\nL3W 4HA"
+                },
+                "orderItems": [
+                    {
+                        "quantity": 1,
+                        "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc",
+                        "name": "Megumi Mushrooms",
+                        "shortDescription": "Indigenous Korean funghi.",
+                        "stdPrice": 650
+                    }
+                ]
+            }
+        ],
+        "_id": "a9d07bd8-e26b-4b07-8593-d4da14bc1838"
+    },
+    {
+        "name": "Harriet Clark",
+        "gender": "Other",
+        "age": 52,
+        "baseFee": 365,
+        "feePerMile": 74,
+        "personalData": {
+            "imageURL": "https://placekitten.com/244/722"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                13.170516,
+                20.956806
+            ]
+        },
+        "status": "Delivering",
+        "deliveryTasks": [
+            {
+                "_id": "0dd3f182-8416-4595-a4ae-1b896648416d",
+                "deliveryAddress": "7 Wilson garden, Malcolmville, SM69E",
+                "totalOrderCost": 520,
+                "dateOfDelivery": "2023-12-15",
+                "deliveryStatus": "Canceled",
+                "store": {
+                    "_id": "eaf5bf2c-804c-4e58-bc2d-1af12a674005",
+                    "name": "Tomlinson Inc",
+                    "address": "Flat 96\nAustin freeway\nEast Billy\nW0 0YZ"
+                },
+                "orderItems": [
+                    {
+                        "quantity": 2,
+                        "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+                        "name": "Monsune Soda",
+                        "shortDescription": "Best soda from Japan, with a twist!",
+                        "stdPrice": 260
+                    }
+                ]
+            }
+        ],
+        "_id": "ccdee64e-a461-4e7f-916e-bdb7a146ff55"
+    },
+    {
+        "name": "Amanda Walker",
+        "gender": "Female",
+        "age": 54,
+        "baseFee": 398,
+        "feePerMile": 26,
+        "personalData": {
+            "imageURL": "https://picsum.photos/69/629"
+        },
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                2.428183,
+                77.8389665
+            ]
+        },
+        "status": "Pickup",
+        "deliveryTasks": [
+            {
+                "_id": "5323d732-5329-48b2-b885-b18bf793caeb",
+                "deliveryAddress": "4 Wendy ranch, Lake Amanda, TQ08W",
+                "totalOrderCost": 3056,
+                "dateOfDelivery": "2023-12-16",
+                "deliveryStatus": "Rescheduled",
+                "store": {
+                    "_id": "85d22a15-96e8-45da-a548-32f17b0126d3",
+                    "name": "Brown-Bird",
+                    "address": "624 Davey shore\nJackshire\nM55 8PF"
+                },
+                "orderItems": [
+                    {
+                        "quantity": 8,
+                        "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+                        "name": "Monsune Soda",
+                        "shortDescription": "Best soda from Japan, with a twist!",
+                        "stdPrice": 260
+                    },
+                    {
+                        "quantity": 2,
+                        "productID": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8",
+                        "name": "Chocolate Milk",
+                        "shortDescription": "Only best quality cocoa, ethically sourced milk.",
+                        "stdPrice": 488
+                    }
+                ]
+            }
+        ],
+        "_id": "d43d792a-e1fa-497d-b187-ace87ac47308"
+    }
+]

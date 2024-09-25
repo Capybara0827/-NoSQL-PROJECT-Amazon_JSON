@@ -1,0 +1,144 @@
+[
+    {
+        "_id": "cb49e560-e486-439c-9aef-0acfc91ab0de",
+        "name": "Jones-Baxter",
+        "address": "122 Brown springs\nGlennview\nDT2B 5DH",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -75.598672,
+                26.9720805
+            ]
+        },
+        "inventory": [
+            {
+                "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173",
+                "availability": 95,
+                "name": "Serbian Rolls",
+                "supplierPrice": 270,
+                "stdPrice": 440,
+                "shortDescription": "Family owned recipe, baked fresh every day."
+            },
+            {
+                "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08",
+                "availability": 79,
+                "name": "Farmers Bread",
+                "supplierPrice": 250,
+                "stdPrice": 420,
+                "shortDescription": "Freshly baked, from the field to your home."
+            },
+            {
+                "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f",
+                "availability": 36,
+                "name": "Orangingo Juice",
+                "supplierPrice": 220,
+                "stdPrice": 450,
+                "shortDescription": "Squeezed everyday, sustainably produced."
+            }
+        ]
+    },
+    {
+        "_id": "1b596eec-7318-4259-b54c-d91dd4b27704",
+        "name": "Brookes PLC",
+        "address": "Studio 98\nRoberts plain\nNew Rita\nL3W 4HA",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                2.617389,
+                -62.821071
+            ]
+        },
+        "inventory": [
+            {
+                "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc",
+                "availability": 41,
+                "name": "Megumi Mushrooms",
+                "supplierPrice": 320,
+                "stdPrice": 650,
+                "shortDescription": "Indigenous Korean funghi."
+            }
+        ]
+    },
+    {
+        "_id": "cd89cb68-2e5e-45a5-b070-9b9a6662202b",
+        "name": "Powell, Metcalfe and Jones",
+        "address": "957 Rowley fort\nNorth Conor\nPL84 2LX",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -147.240026,
+                83.5615645
+            ]
+        },
+        "inventory": [
+            {
+                "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f",
+                "availability": 69,
+                "name": "Chocolate Bread",
+                "supplierPrice": 154,
+                "stdPrice": 484,
+                "shortDescription": "Soft bread with chocolate pieces inside."
+            },
+            {
+                "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+                "availability": 97,
+                "name": "Monsune Soda",
+                "supplierPrice": 140,
+                "stdPrice": 260,
+                "shortDescription": "Best soda from Japan, with a twist!"
+            }
+        ]
+    },
+    {
+        "_id": "eaf5bf2c-804c-4e58-bc2d-1af12a674005",
+        "name": "Tomlinson Inc",
+        "address": "Flat 96\nAustin freeway\nEast Billy\nW0 0YZ",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                106.338645,
+                -56.2408145
+            ]
+        },
+        "inventory": [
+            {
+                "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+                "availability": 23,
+                "name": "Monsune Soda",
+                "supplierPrice": 140,
+                "stdPrice": 260,
+                "shortDescription": "Best soda from Japan, with a twist!"
+            }
+        ]
+    },
+    {
+        "_id": "85d22a15-96e8-45da-a548-32f17b0126d3",
+        "name": "Brown-Bird",
+        "address": "624 Davey shore\nJackshire\nM55 8PF",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -34.787872,
+                58.012311
+            ]
+        },
+        "inventory": [
+            {
+                "productID": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8",
+                "availability": 43,
+                "name": "Chocolate Milk",
+                "supplierPrice": 168,
+                "stdPrice": 488,
+                "shortDescription": "Only best quality cocoa, ethically sourced milk."
+            },
+            {
+                "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+                "availability": 86,
+                "name": "Monsune Soda",
+                "supplierPrice": 140,
+                "stdPrice": 260,
+                "shortDescription": "Best soda from Japan, with a twist!"
+            }
+        ]
+    }
+]

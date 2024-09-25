@@ -1,0 +1,5007 @@
+[
+    {
+        "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4",
+        "date": "2023-12-11",
+        "inventoryQuantity": 185,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -155.120168,
+                31.087466
+            ]
+        },
+        "storageWarehouseName": "Dawson Ltd"
+    },
+    {
+        "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4",
+        "date": "2023-12-10",
+        "inventoryQuantity": 421,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -50.043581,
+                -49.2374115
+            ]
+        },
+        "storageWarehouseName": "Dawson Ltd"
+    },
+    {
+        "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4",
+        "date": "2023-12-09",
+        "inventoryQuantity": 325,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                9.616625,
+                -10.780242
+            ]
+        },
+        "storageWarehouseName": "Dawson Ltd"
+    },
+    {
+        "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4",
+        "date": "2023-12-08",
+        "inventoryQuantity": 53,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                108.659411,
+                -74.2542745
+            ]
+        },
+        "storageWarehouseName": "Dawson Ltd"
+    },
+    {
+        "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4",
+        "date": "2023-12-07",
+        "inventoryQuantity": 372,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                136.600481,
+                89.3143125
+            ]
+        },
+        "storageWarehouseName": "Dawson Ltd"
+    },
+    {
+        "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4",
+        "date": "2023-12-06",
+        "inventoryQuantity": 335,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                125.250852,
+                -85.0774075
+            ]
+        },
+        "storageWarehouseName": "Dawson Ltd"
+    },
+    {
+        "productID": "0b9923f0-6f51-4cfa-ac52-3367409a57a4",
+        "date": "2023-12-05",
+        "inventoryQuantity": 427,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                160.479897,
+                -9.8161685
+            ]
+        },
+        "storageWarehouseName": "Dawson Ltd"
+    },
+    {
+        "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5",
+        "date": "2023-12-11",
+        "inventoryQuantity": 615,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                93.099203,
+                41.2325425
+            ]
+        },
+        "storageWarehouseName": "Griffin, Morrison and Stewart"
+    },
+    {
+        "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5",
+        "date": "2023-12-10",
+        "inventoryQuantity": 935,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -31.718008,
+                2.6740485
+            ]
+        },
+        "storageWarehouseName": "Griffin, Morrison and Stewart"
+    },
+    {
+        "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5",
+        "date": "2023-12-09",
+        "inventoryQuantity": 390,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                156.467445,
+                6.3638055
+            ]
+        },
+        "storageWarehouseName": "Griffin, Morrison and Stewart"
+    },
+    {
+        "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5",
+        "date": "2023-12-08",
+        "inventoryQuantity": 409,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                70.697399,
+                -34.847008
+            ]
+        },
+        "storageWarehouseName": "Griffin, Morrison and Stewart"
+    },
+    {
+        "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5",
+        "date": "2023-12-07",
+        "inventoryQuantity": 465,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -13.074312,
+                -57.3437195
+            ]
+        },
+        "storageWarehouseName": "Griffin, Morrison and Stewart"
+    },
+    {
+        "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5",
+        "date": "2023-12-06",
+        "inventoryQuantity": 848,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -119.354761,
+                66.3590785
+            ]
+        },
+        "storageWarehouseName": "Griffin, Morrison and Stewart"
+    },
+    {
+        "productID": "71227cf8-5f05-45e8-b98d-8fdb3131e6e5",
+        "date": "2023-12-05",
+        "inventoryQuantity": 874,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -36.914619,
+                0.966242
+            ]
+        },
+        "storageWarehouseName": "Griffin, Morrison and Stewart"
+    },
+    {
+        "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f",
+        "date": "2023-12-11",
+        "inventoryQuantity": 887,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                110.251220,
+                85.477845
+            ]
+        },
+        "storageWarehouseName": "Gill, Marshall and Jones"
+    },
+    {
+        "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f",
+        "date": "2023-12-10",
+        "inventoryQuantity": 487,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                157.804362,
+                57.8036155
+            ]
+        },
+        "storageWarehouseName": "Gill, Marshall and Jones"
+    },
+    {
+        "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f",
+        "date": "2023-12-09",
+        "inventoryQuantity": 431,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -32.807745,
+                21.8182315
+            ]
+        },
+        "storageWarehouseName": "Gill, Marshall and Jones"
+    },
+    {
+        "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f",
+        "date": "2023-12-08",
+        "inventoryQuantity": 534,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                170.081779,
+                -82.092879
+            ]
+        },
+        "storageWarehouseName": "Gill, Marshall and Jones"
+    },
+    {
+        "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f",
+        "date": "2023-12-07",
+        "inventoryQuantity": 967,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                126.047213,
+                -16.8679865
+            ]
+        },
+        "storageWarehouseName": "Gill, Marshall and Jones"
+    },
+    {
+        "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f",
+        "date": "2023-12-06",
+        "inventoryQuantity": 712,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -127.637641,
+                -52.476464
+            ]
+        },
+        "storageWarehouseName": "Gill, Marshall and Jones"
+    },
+    {
+        "productID": "fbf553e8-2eaa-4e01-9d55-9da1a366cc5f",
+        "date": "2023-12-05",
+        "inventoryQuantity": 719,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                73.660301,
+                -8.7153965
+            ]
+        },
+        "storageWarehouseName": "Gill, Marshall and Jones"
+    },
+    {
+        "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885",
+        "date": "2023-12-11",
+        "inventoryQuantity": 529,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -20.404755,
+                -57.789695
+            ]
+        },
+        "storageWarehouseName": "Mitchell-Wallace"
+    },
+    {
+        "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885",
+        "date": "2023-12-10",
+        "inventoryQuantity": 967,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -74.156971,
+                12.765068
+            ]
+        },
+        "storageWarehouseName": "Mitchell-Wallace"
+    },
+    {
+        "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885",
+        "date": "2023-12-09",
+        "inventoryQuantity": 992,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -24.596626,
+                62.3435445
+            ]
+        },
+        "storageWarehouseName": "Mitchell-Wallace"
+    },
+    {
+        "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885",
+        "date": "2023-12-08",
+        "inventoryQuantity": 596,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -148.040738,
+                56.8242185
+            ]
+        },
+        "storageWarehouseName": "Mitchell-Wallace"
+    },
+    {
+        "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885",
+        "date": "2023-12-07",
+        "inventoryQuantity": 805,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -59.771209,
+                31.1004835
+            ]
+        },
+        "storageWarehouseName": "Mitchell-Wallace"
+    },
+    {
+        "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885",
+        "date": "2023-12-06",
+        "inventoryQuantity": 799,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -131.726772,
+                -54.400858
+            ]
+        },
+        "storageWarehouseName": "Mitchell-Wallace"
+    },
+    {
+        "productID": "58348a75-7f5d-48ef-aa72-f8d29d804885",
+        "date": "2023-12-05",
+        "inventoryQuantity": 286,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                24.621427,
+                59.5912745
+            ]
+        },
+        "storageWarehouseName": "Mitchell-Wallace"
+    },
+    {
+        "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30",
+        "date": "2023-12-11",
+        "inventoryQuantity": 144,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                89.043426,
+                62.228996
+            ]
+        },
+        "storageWarehouseName": "Gill, Nicholson and Smith"
+    },
+    {
+        "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30",
+        "date": "2023-12-10",
+        "inventoryQuantity": 695,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                60.451863,
+                85.1923915
+            ]
+        },
+        "storageWarehouseName": "Gill, Nicholson and Smith"
+    },
+    {
+        "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30",
+        "date": "2023-12-09",
+        "inventoryQuantity": 784,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -170.476233,
+                -57.043871
+            ]
+        },
+        "storageWarehouseName": "Gill, Nicholson and Smith"
+    },
+    {
+        "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30",
+        "date": "2023-12-08",
+        "inventoryQuantity": 601,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -139.744496,
+                -1.736257
+            ]
+        },
+        "storageWarehouseName": "Gill, Nicholson and Smith"
+    },
+    {
+        "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30",
+        "date": "2023-12-07",
+        "inventoryQuantity": 975,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                10.731646,
+                -17.261340
+            ]
+        },
+        "storageWarehouseName": "Gill, Nicholson and Smith"
+    },
+    {
+        "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30",
+        "date": "2023-12-06",
+        "inventoryQuantity": 196,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                97.414460,
+                2.9058965
+            ]
+        },
+        "storageWarehouseName": "Gill, Nicholson and Smith"
+    },
+    {
+        "productID": "b20fbf47-770e-49d2-bcdf-99af84bdfc30",
+        "date": "2023-12-05",
+        "inventoryQuantity": 778,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -140.661737,
+                72.0789495
+            ]
+        },
+        "storageWarehouseName": "Gill, Nicholson and Smith"
+    },
+    {
+        "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6",
+        "date": "2023-12-11",
+        "inventoryQuantity": 484,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                167.387103,
+                -71.410447
+            ]
+        },
+        "storageWarehouseName": "Hill, Allen and Randall"
+    },
+    {
+        "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6",
+        "date": "2023-12-10",
+        "inventoryQuantity": 564,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                165.735549,
+                49.4298435
+            ]
+        },
+        "storageWarehouseName": "Hill, Allen and Randall"
+    },
+    {
+        "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6",
+        "date": "2023-12-09",
+        "inventoryQuantity": 387,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -42.407332,
+                9.648840
+            ]
+        },
+        "storageWarehouseName": "Hill, Allen and Randall"
+    },
+    {
+        "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6",
+        "date": "2023-12-08",
+        "inventoryQuantity": 247,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                136.414079,
+                34.016295
+            ]
+        },
+        "storageWarehouseName": "Hill, Allen and Randall"
+    },
+    {
+        "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6",
+        "date": "2023-12-07",
+        "inventoryQuantity": 571,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -123.680306,
+                4.8752465
+            ]
+        },
+        "storageWarehouseName": "Hill, Allen and Randall"
+    },
+    {
+        "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6",
+        "date": "2023-12-06",
+        "inventoryQuantity": 560,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                176.384418,
+                5.7972275
+            ]
+        },
+        "storageWarehouseName": "Hill, Allen and Randall"
+    },
+    {
+        "productID": "3e4010ff-ce60-4642-9832-ade640f2bbb6",
+        "date": "2023-12-05",
+        "inventoryQuantity": 476,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                75.185078,
+                -52.860911
+            ]
+        },
+        "storageWarehouseName": "Hill, Allen and Randall"
+    },
+    {
+        "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8",
+        "date": "2023-12-11",
+        "inventoryQuantity": 445,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -56.320252,
+                -19.308350
+            ]
+        },
+        "storageWarehouseName": "Armstrong-Brooks"
+    },
+    {
+        "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8",
+        "date": "2023-12-10",
+        "inventoryQuantity": 592,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -87.334617,
+                47.640663
+            ]
+        },
+        "storageWarehouseName": "Armstrong-Brooks"
+    },
+    {
+        "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8",
+        "date": "2023-12-09",
+        "inventoryQuantity": 564,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                123.838643,
+                -25.867255
+            ]
+        },
+        "storageWarehouseName": "Armstrong-Brooks"
+    },
+    {
+        "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8",
+        "date": "2023-12-08",
+        "inventoryQuantity": 223,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -102.875936,
+                -73.685703
+            ]
+        },
+        "storageWarehouseName": "Armstrong-Brooks"
+    },
+    {
+        "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8",
+        "date": "2023-12-07",
+        "inventoryQuantity": 691,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -162.211376,
+                15.567785
+            ]
+        },
+        "storageWarehouseName": "Armstrong-Brooks"
+    },
+    {
+        "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8",
+        "date": "2023-12-06",
+        "inventoryQuantity": 853,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -171.233844,
+                -42.0001115
+            ]
+        },
+        "storageWarehouseName": "Armstrong-Brooks"
+    },
+    {
+        "productID": "9f4c1d85-2e0a-4b5c-86c8-c825e20591d8",
+        "date": "2023-12-05",
+        "inventoryQuantity": 1,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -164.595049,
+                -12.3064865
+            ]
+        },
+        "storageWarehouseName": "Armstrong-Brooks"
+    },
+    {
+        "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842",
+        "date": "2023-12-11",
+        "inventoryQuantity": 21,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                22.827844,
+                29.715329
+            ]
+        },
+        "storageWarehouseName": "White, Jones and Gardiner"
+    },
+    {
+        "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842",
+        "date": "2023-12-10",
+        "inventoryQuantity": 53,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                154.363046,
+                65.4248735
+            ]
+        },
+        "storageWarehouseName": "White, Jones and Gardiner"
+    },
+    {
+        "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842",
+        "date": "2023-12-09",
+        "inventoryQuantity": 577,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                1.420161,
+                -20.0181885
+            ]
+        },
+        "storageWarehouseName": "White, Jones and Gardiner"
+    },
+    {
+        "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842",
+        "date": "2023-12-08",
+        "inventoryQuantity": 221,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -148.195227,
+                -2.4648505
+            ]
+        },
+        "storageWarehouseName": "White, Jones and Gardiner"
+    },
+    {
+        "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842",
+        "date": "2023-12-07",
+        "inventoryQuantity": 582,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                37.131278,
+                -17.888981
+            ]
+        },
+        "storageWarehouseName": "White, Jones and Gardiner"
+    },
+    {
+        "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842",
+        "date": "2023-12-06",
+        "inventoryQuantity": 587,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                78.013938,
+                -55.182140
+            ]
+        },
+        "storageWarehouseName": "White, Jones and Gardiner"
+    },
+    {
+        "productID": "3db7c5b5-6005-43ec-83e4-8c27b5781842",
+        "date": "2023-12-05",
+        "inventoryQuantity": 379,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -34.047316,
+                -5.226257
+            ]
+        },
+        "storageWarehouseName": "White, Jones and Gardiner"
+    },
+    {
+        "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899",
+        "date": "2023-12-11",
+        "inventoryQuantity": 145,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                84.196902,
+                -76.9795365
+            ]
+        },
+        "storageWarehouseName": "Wilkinson, Duncan and Walker"
+    },
+    {
+        "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899",
+        "date": "2023-12-10",
+        "inventoryQuantity": 359,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                2.268832,
+                -13.5503195
+            ]
+        },
+        "storageWarehouseName": "Wilkinson, Duncan and Walker"
+    },
+    {
+        "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899",
+        "date": "2023-12-09",
+        "inventoryQuantity": 713,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                63.284846,
+                -64.632836
+            ]
+        },
+        "storageWarehouseName": "Wilkinson, Duncan and Walker"
+    },
+    {
+        "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899",
+        "date": "2023-12-08",
+        "inventoryQuantity": 788,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                170.396430,
+                -54.2703425
+            ]
+        },
+        "storageWarehouseName": "Wilkinson, Duncan and Walker"
+    },
+    {
+        "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899",
+        "date": "2023-12-07",
+        "inventoryQuantity": 382,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -40.620820,
+                10.664821
+            ]
+        },
+        "storageWarehouseName": "Wilkinson, Duncan and Walker"
+    },
+    {
+        "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899",
+        "date": "2023-12-06",
+        "inventoryQuantity": 607,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                96.385411,
+                18.1840975
+            ]
+        },
+        "storageWarehouseName": "Wilkinson, Duncan and Walker"
+    },
+    {
+        "productID": "90bae369-3a93-4c2f-85fc-58f46fda5899",
+        "date": "2023-12-05",
+        "inventoryQuantity": 447,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -140.089986,
+                -8.2119565
+            ]
+        },
+        "storageWarehouseName": "Wilkinson, Duncan and Walker"
+    },
+    {
+        "productID": "a7bd0c8c-849e-4033-904a-9090b7590345",
+        "date": "2023-12-11",
+        "inventoryQuantity": 837,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -26.421768,
+                -81.0418375
+            ]
+        },
+        "storageWarehouseName": "Ellis, Farrell and Smart"
+    },
+    {
+        "productID": "a7bd0c8c-849e-4033-904a-9090b7590345",
+        "date": "2023-12-10",
+        "inventoryQuantity": 817,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                137.104520,
+                -42.383141
+            ]
+        },
+        "storageWarehouseName": "Ellis, Farrell and Smart"
+    },
+    {
+        "productID": "a7bd0c8c-849e-4033-904a-9090b7590345",
+        "date": "2023-12-09",
+        "inventoryQuantity": 531,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                168.011739,
+                -7.3915465
+            ]
+        },
+        "storageWarehouseName": "Ellis, Farrell and Smart"
+    },
+    {
+        "productID": "a7bd0c8c-849e-4033-904a-9090b7590345",
+        "date": "2023-12-08",
+        "inventoryQuantity": 235,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -153.298177,
+                -66.0529775
+            ]
+        },
+        "storageWarehouseName": "Ellis, Farrell and Smart"
+    },
+    {
+        "productID": "a7bd0c8c-849e-4033-904a-9090b7590345",
+        "date": "2023-12-07",
+        "inventoryQuantity": 985,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -18.062653,
+                -75.921202
+            ]
+        },
+        "storageWarehouseName": "Ellis, Farrell and Smart"
+    },
+    {
+        "productID": "a7bd0c8c-849e-4033-904a-9090b7590345",
+        "date": "2023-12-06",
+        "inventoryQuantity": 690,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -20.633247,
+                24.095031
+            ]
+        },
+        "storageWarehouseName": "Ellis, Farrell and Smart"
+    },
+    {
+        "productID": "a7bd0c8c-849e-4033-904a-9090b7590345",
+        "date": "2023-12-05",
+        "inventoryQuantity": 820,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                74.194380,
+                -8.255254
+            ]
+        },
+        "storageWarehouseName": "Ellis, Farrell and Smart"
+    },
+    {
+        "productID": "bbd1b566-d68c-40ae-b156-3824622cad4a",
+        "date": "2023-12-11",
+        "inventoryQuantity": 552,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -37.678448,
+                74.2119745
+            ]
+        },
+        "storageWarehouseName": "Middleton, Baxter and Gray"
+    },
+    {
+        "productID": "bbd1b566-d68c-40ae-b156-3824622cad4a",
+        "date": "2023-12-10",
+        "inventoryQuantity": 275,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -10.761362,
+                86.114601
+            ]
+        },
+        "storageWarehouseName": "Middleton, Baxter and Gray"
+    },
+    {
+        "productID": "bbd1b566-d68c-40ae-b156-3824622cad4a",
+        "date": "2023-12-09",
+        "inventoryQuantity": 966,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                127.267296,
+                -51.6187485
+            ]
+        },
+        "storageWarehouseName": "Middleton, Baxter and Gray"
+    },
+    {
+        "productID": "bbd1b566-d68c-40ae-b156-3824622cad4a",
+        "date": "2023-12-08",
+        "inventoryQuantity": 352,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -18.295302,
+                -84.554284
+            ]
+        },
+        "storageWarehouseName": "Middleton, Baxter and Gray"
+    },
+    {
+        "productID": "bbd1b566-d68c-40ae-b156-3824622cad4a",
+        "date": "2023-12-07",
+        "inventoryQuantity": 177,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                124.365957,
+                44.5868505
+            ]
+        },
+        "storageWarehouseName": "Middleton, Baxter and Gray"
+    },
+    {
+        "productID": "bbd1b566-d68c-40ae-b156-3824622cad4a",
+        "date": "2023-12-06",
+        "inventoryQuantity": 979,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -3.092203,
+                -70.9386045
+            ]
+        },
+        "storageWarehouseName": "Middleton, Baxter and Gray"
+    },
+    {
+        "productID": "bbd1b566-d68c-40ae-b156-3824622cad4a",
+        "date": "2023-12-05",
+        "inventoryQuantity": 967,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                169.496841,
+                -32.3634785
+            ]
+        },
+        "storageWarehouseName": "Middleton, Baxter and Gray"
+    },
+    {
+        "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc",
+        "date": "2023-12-11",
+        "inventoryQuantity": 914,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                115.579851,
+                -61.5893545
+            ]
+        },
+        "storageWarehouseName": "Flynn Ltd"
+    },
+    {
+        "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc",
+        "date": "2023-12-10",
+        "inventoryQuantity": 678,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -47.832959,
+                -81.884945
+            ]
+        },
+        "storageWarehouseName": "Flynn Ltd"
+    },
+    {
+        "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc",
+        "date": "2023-12-09",
+        "inventoryQuantity": 63,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                126.818342,
+                -37.4954875
+            ]
+        },
+        "storageWarehouseName": "Flynn Ltd"
+    },
+    {
+        "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc",
+        "date": "2023-12-08",
+        "inventoryQuantity": 23,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                90.076472,
+                74.1398935
+            ]
+        },
+        "storageWarehouseName": "Flynn Ltd"
+    },
+    {
+        "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc",
+        "date": "2023-12-07",
+        "inventoryQuantity": 589,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -111.121420,
+                55.421419
+            ]
+        },
+        "storageWarehouseName": "Flynn Ltd"
+    },
+    {
+        "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc",
+        "date": "2023-12-06",
+        "inventoryQuantity": 504,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -115.365191,
+                -40.133782
+            ]
+        },
+        "storageWarehouseName": "Flynn Ltd"
+    },
+    {
+        "productID": "9b407c95-5760-4c15-a787-bbbf919ffacc",
+        "date": "2023-12-05",
+        "inventoryQuantity": 255,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -142.079700,
+                84.690873
+            ]
+        },
+        "storageWarehouseName": "Flynn Ltd"
+    },
+    {
+        "productID": "274adfd0-71e5-4b53-9228-db0f12385fba",
+        "date": "2023-12-11",
+        "inventoryQuantity": 336,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -92.217594,
+                -26.7547525
+            ]
+        },
+        "storageWarehouseName": "Faulkner Group"
+    },
+    {
+        "productID": "274adfd0-71e5-4b53-9228-db0f12385fba",
+        "date": "2023-12-10",
+        "inventoryQuantity": 29,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                154.469854,
+                -17.7360005
+            ]
+        },
+        "storageWarehouseName": "Faulkner Group"
+    },
+    {
+        "productID": "274adfd0-71e5-4b53-9228-db0f12385fba",
+        "date": "2023-12-09",
+        "inventoryQuantity": 319,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -17.063421,
+                21.606833
+            ]
+        },
+        "storageWarehouseName": "Faulkner Group"
+    },
+    {
+        "productID": "274adfd0-71e5-4b53-9228-db0f12385fba",
+        "date": "2023-12-08",
+        "inventoryQuantity": 290,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                53.062855,
+                -29.479442
+            ]
+        },
+        "storageWarehouseName": "Faulkner Group"
+    },
+    {
+        "productID": "274adfd0-71e5-4b53-9228-db0f12385fba",
+        "date": "2023-12-07",
+        "inventoryQuantity": 536,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -64.199313,
+                39.5251705
+            ]
+        },
+        "storageWarehouseName": "Faulkner Group"
+    },
+    {
+        "productID": "274adfd0-71e5-4b53-9228-db0f12385fba",
+        "date": "2023-12-06",
+        "inventoryQuantity": 334,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                154.876381,
+                -9.5926485
+            ]
+        },
+        "storageWarehouseName": "Faulkner Group"
+    },
+    {
+        "productID": "274adfd0-71e5-4b53-9228-db0f12385fba",
+        "date": "2023-12-05",
+        "inventoryQuantity": 727,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -179.723555,
+                76.154274
+            ]
+        },
+        "storageWarehouseName": "Faulkner Group"
+    },
+    {
+        "productID": "2362dae9-b485-4423-b314-d43ef399b3df",
+        "date": "2023-12-11",
+        "inventoryQuantity": 17,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                97.289206,
+                65.1885465
+            ]
+        },
+        "storageWarehouseName": "Ford Ltd"
+    },
+    {
+        "productID": "2362dae9-b485-4423-b314-d43ef399b3df",
+        "date": "2023-12-10",
+        "inventoryQuantity": 398,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                2.617937,
+                -88.1771715
+            ]
+        },
+        "storageWarehouseName": "Ford Ltd"
+    },
+    {
+        "productID": "2362dae9-b485-4423-b314-d43ef399b3df",
+        "date": "2023-12-09",
+        "inventoryQuantity": 101,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                78.423799,
+                64.877211
+            ]
+        },
+        "storageWarehouseName": "Ford Ltd"
+    },
+    {
+        "productID": "2362dae9-b485-4423-b314-d43ef399b3df",
+        "date": "2023-12-08",
+        "inventoryQuantity": 800,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -36.102310,
+                -16.791458
+            ]
+        },
+        "storageWarehouseName": "Ford Ltd"
+    },
+    {
+        "productID": "2362dae9-b485-4423-b314-d43ef399b3df",
+        "date": "2023-12-07",
+        "inventoryQuantity": 890,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                129.482360,
+                -31.1988635
+            ]
+        },
+        "storageWarehouseName": "Ford Ltd"
+    },
+    {
+        "productID": "2362dae9-b485-4423-b314-d43ef399b3df",
+        "date": "2023-12-06",
+        "inventoryQuantity": 160,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -27.426601,
+                -24.728452
+            ]
+        },
+        "storageWarehouseName": "Ford Ltd"
+    },
+    {
+        "productID": "2362dae9-b485-4423-b314-d43ef399b3df",
+        "date": "2023-12-05",
+        "inventoryQuantity": 428,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                102.910657,
+                84.1952445
+            ]
+        },
+        "storageWarehouseName": "Ford Ltd"
+    },
+    {
+        "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06",
+        "date": "2023-12-11",
+        "inventoryQuantity": 889,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -126.212582,
+                55.353334
+            ]
+        },
+        "storageWarehouseName": "Moore, Knight and Burton"
+    },
+    {
+        "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06",
+        "date": "2023-12-10",
+        "inventoryQuantity": 267,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -124.283744,
+                86.479581
+            ]
+        },
+        "storageWarehouseName": "Moore, Knight and Burton"
+    },
+    {
+        "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06",
+        "date": "2023-12-09",
+        "inventoryQuantity": 769,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -108.889861,
+                80.0009955
+            ]
+        },
+        "storageWarehouseName": "Moore, Knight and Burton"
+    },
+    {
+        "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06",
+        "date": "2023-12-08",
+        "inventoryQuantity": 545,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                43.301394,
+                62.258772
+            ]
+        },
+        "storageWarehouseName": "Moore, Knight and Burton"
+    },
+    {
+        "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06",
+        "date": "2023-12-07",
+        "inventoryQuantity": 480,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -104.682585,
+                -6.0645465
+            ]
+        },
+        "storageWarehouseName": "Moore, Knight and Burton"
+    },
+    {
+        "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06",
+        "date": "2023-12-06",
+        "inventoryQuantity": 872,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -160.935142,
+                60.5431425
+            ]
+        },
+        "storageWarehouseName": "Moore, Knight and Burton"
+    },
+    {
+        "productID": "3a43af35-59b6-4b58-93dc-1edcbcb9cf06",
+        "date": "2023-12-05",
+        "inventoryQuantity": 871,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                2.291839,
+                -30.405086
+            ]
+        },
+        "storageWarehouseName": "Moore, Knight and Burton"
+    },
+    {
+        "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4",
+        "date": "2023-12-11",
+        "inventoryQuantity": 431,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                71.038984,
+                25.8206765
+            ]
+        },
+        "storageWarehouseName": "Davis-Moore"
+    },
+    {
+        "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4",
+        "date": "2023-12-10",
+        "inventoryQuantity": 18,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -133.232609,
+                81.204917
+            ]
+        },
+        "storageWarehouseName": "Davis-Moore"
+    },
+    {
+        "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4",
+        "date": "2023-12-09",
+        "inventoryQuantity": 439,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                128.560396,
+                -30.6896565
+            ]
+        },
+        "storageWarehouseName": "Davis-Moore"
+    },
+    {
+        "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4",
+        "date": "2023-12-08",
+        "inventoryQuantity": 832,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -171.903233,
+                -52.8962615
+            ]
+        },
+        "storageWarehouseName": "Davis-Moore"
+    },
+    {
+        "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4",
+        "date": "2023-12-07",
+        "inventoryQuantity": 935,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -161.747723,
+                -56.031731
+            ]
+        },
+        "storageWarehouseName": "Davis-Moore"
+    },
+    {
+        "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4",
+        "date": "2023-12-06",
+        "inventoryQuantity": 955,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -98.681127,
+                7.1470865
+            ]
+        },
+        "storageWarehouseName": "Davis-Moore"
+    },
+    {
+        "productID": "4c14be17-f142-4d67-aa1f-46f780d46db4",
+        "date": "2023-12-05",
+        "inventoryQuantity": 385,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -134.928442,
+                -48.9342985
+            ]
+        },
+        "storageWarehouseName": "Davis-Moore"
+    },
+    {
+        "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f",
+        "date": "2023-12-11",
+        "inventoryQuantity": 590,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                165.185601,
+                65.9876735
+            ]
+        },
+        "storageWarehouseName": "Noble, Parkin and Taylor"
+    },
+    {
+        "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f",
+        "date": "2023-12-10",
+        "inventoryQuantity": 162,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                14.533281,
+                -4.2792385
+            ]
+        },
+        "storageWarehouseName": "Noble, Parkin and Taylor"
+    },
+    {
+        "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f",
+        "date": "2023-12-09",
+        "inventoryQuantity": 524,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                82.549775,
+                -72.6467105
+            ]
+        },
+        "storageWarehouseName": "Noble, Parkin and Taylor"
+    },
+    {
+        "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f",
+        "date": "2023-12-08",
+        "inventoryQuantity": 593,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -128.015162,
+                82.2324305
+            ]
+        },
+        "storageWarehouseName": "Noble, Parkin and Taylor"
+    },
+    {
+        "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f",
+        "date": "2023-12-07",
+        "inventoryQuantity": 441,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -119.649735,
+                86.684118
+            ]
+        },
+        "storageWarehouseName": "Noble, Parkin and Taylor"
+    },
+    {
+        "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f",
+        "date": "2023-12-06",
+        "inventoryQuantity": 179,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -108.882732,
+                48.4350455
+            ]
+        },
+        "storageWarehouseName": "Noble, Parkin and Taylor"
+    },
+    {
+        "productID": "b11bfc0a-fc3c-48b1-a609-33acc8710f1f",
+        "date": "2023-12-05",
+        "inventoryQuantity": 482,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                142.433076,
+                -85.5415645
+            ]
+        },
+        "storageWarehouseName": "Noble, Parkin and Taylor"
+    },
+    {
+        "productID": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53",
+        "date": "2023-12-11",
+        "inventoryQuantity": 905,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -9.871040,
+                44.844714
+            ]
+        },
+        "storageWarehouseName": "Bowen LLC"
+    },
+    {
+        "productID": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53",
+        "date": "2023-12-10",
+        "inventoryQuantity": 42,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -10.108862,
+                -55.3816065
+            ]
+        },
+        "storageWarehouseName": "Bowen LLC"
+    },
+    {
+        "productID": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53",
+        "date": "2023-12-09",
+        "inventoryQuantity": 234,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                22.861552,
+                22.2660845
+            ]
+        },
+        "storageWarehouseName": "Bowen LLC"
+    },
+    {
+        "productID": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53",
+        "date": "2023-12-08",
+        "inventoryQuantity": 745,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                85.214215,
+                80.965487
+            ]
+        },
+        "storageWarehouseName": "Bowen LLC"
+    },
+    {
+        "productID": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53",
+        "date": "2023-12-07",
+        "inventoryQuantity": 857,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                173.725922,
+                14.7894035
+            ]
+        },
+        "storageWarehouseName": "Bowen LLC"
+    },
+    {
+        "productID": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53",
+        "date": "2023-12-06",
+        "inventoryQuantity": 515,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                31.741301,
+                -75.9728815
+            ]
+        },
+        "storageWarehouseName": "Bowen LLC"
+    },
+    {
+        "productID": "0320cc12-122c-4f9e-9fda-fe7b74ab4d53",
+        "date": "2023-12-05",
+        "inventoryQuantity": 59,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -124.369107,
+                -73.2063705
+            ]
+        },
+        "storageWarehouseName": "Bowen LLC"
+    },
+    {
+        "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc",
+        "date": "2023-12-11",
+        "inventoryQuantity": 446,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                146.237459,
+                68.484436
+            ]
+        },
+        "storageWarehouseName": "Stevens Ltd"
+    },
+    {
+        "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc",
+        "date": "2023-12-10",
+        "inventoryQuantity": 677,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                58.675342,
+                68.2595775
+            ]
+        },
+        "storageWarehouseName": "Stevens Ltd"
+    },
+    {
+        "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc",
+        "date": "2023-12-09",
+        "inventoryQuantity": 4,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                25.977164,
+                57.2541965
+            ]
+        },
+        "storageWarehouseName": "Stevens Ltd"
+    },
+    {
+        "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc",
+        "date": "2023-12-08",
+        "inventoryQuantity": 555,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                8.126204,
+                -67.7724005
+            ]
+        },
+        "storageWarehouseName": "Stevens Ltd"
+    },
+    {
+        "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc",
+        "date": "2023-12-07",
+        "inventoryQuantity": 615,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -44.642412,
+                -2.836248
+            ]
+        },
+        "storageWarehouseName": "Stevens Ltd"
+    },
+    {
+        "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc",
+        "date": "2023-12-06",
+        "inventoryQuantity": 842,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                133.330595,
+                16.2759025
+            ]
+        },
+        "storageWarehouseName": "Stevens Ltd"
+    },
+    {
+        "productID": "c6107800-060f-4283-b5ce-38b9d2d01fbc",
+        "date": "2023-12-05",
+        "inventoryQuantity": 417,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -25.359806,
+                -54.365293
+            ]
+        },
+        "storageWarehouseName": "Stevens Ltd"
+    },
+    {
+        "productID": "32565dd1-c31a-4385-93f6-4ff523858e87",
+        "date": "2023-12-11",
+        "inventoryQuantity": 406,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                101.752220,
+                -22.074692
+            ]
+        },
+        "storageWarehouseName": "Smith-Cooper"
+    },
+    {
+        "productID": "32565dd1-c31a-4385-93f6-4ff523858e87",
+        "date": "2023-12-10",
+        "inventoryQuantity": 479,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -146.444770,
+                11.8008355
+            ]
+        },
+        "storageWarehouseName": "Smith-Cooper"
+    },
+    {
+        "productID": "32565dd1-c31a-4385-93f6-4ff523858e87",
+        "date": "2023-12-09",
+        "inventoryQuantity": 555,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                67.749560,
+                36.9867145
+            ]
+        },
+        "storageWarehouseName": "Smith-Cooper"
+    },
+    {
+        "productID": "32565dd1-c31a-4385-93f6-4ff523858e87",
+        "date": "2023-12-08",
+        "inventoryQuantity": 311,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -0.638037,
+                -87.9520355
+            ]
+        },
+        "storageWarehouseName": "Smith-Cooper"
+    },
+    {
+        "productID": "32565dd1-c31a-4385-93f6-4ff523858e87",
+        "date": "2023-12-07",
+        "inventoryQuantity": 762,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -117.924035,
+                72.3920845
+            ]
+        },
+        "storageWarehouseName": "Smith-Cooper"
+    },
+    {
+        "productID": "32565dd1-c31a-4385-93f6-4ff523858e87",
+        "date": "2023-12-06",
+        "inventoryQuantity": 679,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                108.565123,
+                33.790466
+            ]
+        },
+        "storageWarehouseName": "Smith-Cooper"
+    },
+    {
+        "productID": "32565dd1-c31a-4385-93f6-4ff523858e87",
+        "date": "2023-12-05",
+        "inventoryQuantity": 799,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                114.149939,
+                18.5741795
+            ]
+        },
+        "storageWarehouseName": "Smith-Cooper"
+    },
+    {
+        "productID": "a81efa0d-4e8f-48cd-ab65-d3b42a3c4c32",
+        "date": "2023-12-11",
+        "inventoryQuantity": 183,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -69.844685,
+                39.135889
+            ]
+        },
+        "storageWarehouseName": "Gregory PLC"
+    },
+    {
+        "productID": "a81efa0d-4e8f-48cd-ab65-d3b42a3c4c32",
+        "date": "2023-12-10",
+        "inventoryQuantity": 404,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                142.425499,
+                31.966099
+            ]
+        },
+        "storageWarehouseName": "Gregory PLC"
+    },
+    {
+        "productID": "a81efa0d-4e8f-48cd-ab65-d3b42a3c4c32",
+        "date": "2023-12-09",
+        "inventoryQuantity": 496,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -4.419970,
+                -85.2588785
+            ]
+        },
+        "storageWarehouseName": "Gregory PLC"
+    },
+    {
+        "productID": "a81efa0d-4e8f-48cd-ab65-d3b42a3c4c32",
+        "date": "2023-12-08",
+        "inventoryQuantity": 287,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                37.054372,
+                -0.5285825
+            ]
+        },
+        "storageWarehouseName": "Gregory PLC"
+    },
+    {
+        "productID": "a81efa0d-4e8f-48cd-ab65-d3b42a3c4c32",
+        "date": "2023-12-07",
+        "inventoryQuantity": 297,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                115.334208,
+                6.0358095
+            ]
+        },
+        "storageWarehouseName": "Gregory PLC"
+    },
+    {
+        "productID": "a81efa0d-4e8f-48cd-ab65-d3b42a3c4c32",
+        "date": "2023-12-06",
+        "inventoryQuantity": 988,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                95.262622,
+                -5.759399
+            ]
+        },
+        "storageWarehouseName": "Gregory PLC"
+    },
+    {
+        "productID": "a81efa0d-4e8f-48cd-ab65-d3b42a3c4c32",
+        "date": "2023-12-05",
+        "inventoryQuantity": 761,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -102.826480,
+                -5.381804
+            ]
+        },
+        "storageWarehouseName": "Gregory PLC"
+    },
+    {
+        "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b",
+        "date": "2023-12-11",
+        "inventoryQuantity": 630,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -0.447074,
+                72.304384
+            ]
+        },
+        "storageWarehouseName": "Stone-Carter"
+    },
+    {
+        "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b",
+        "date": "2023-12-10",
+        "inventoryQuantity": 414,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -117.824903,
+                80.5883305
+            ]
+        },
+        "storageWarehouseName": "Stone-Carter"
+    },
+    {
+        "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b",
+        "date": "2023-12-09",
+        "inventoryQuantity": 779,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                113.727071,
+                44.264968
+            ]
+        },
+        "storageWarehouseName": "Stone-Carter"
+    },
+    {
+        "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b",
+        "date": "2023-12-08",
+        "inventoryQuantity": 662,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                82.729606,
+                40.334364
+            ]
+        },
+        "storageWarehouseName": "Stone-Carter"
+    },
+    {
+        "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b",
+        "date": "2023-12-07",
+        "inventoryQuantity": 634,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -141.918805,
+                -47.215792
+            ]
+        },
+        "storageWarehouseName": "Stone-Carter"
+    },
+    {
+        "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b",
+        "date": "2023-12-06",
+        "inventoryQuantity": 861,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -38.996808,
+                -6.369722
+            ]
+        },
+        "storageWarehouseName": "Stone-Carter"
+    },
+    {
+        "productID": "7411fac5-ad51-4d89-8308-ad7e3af5d62b",
+        "date": "2023-12-05",
+        "inventoryQuantity": 501,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                131.041378,
+                57.067543
+            ]
+        },
+        "storageWarehouseName": "Stone-Carter"
+    },
+    {
+        "productID": "03f6fd23-79ab-47f7-adeb-10d593fbd1b7",
+        "date": "2023-12-11",
+        "inventoryQuantity": 280,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -47.717797,
+                -39.341496
+            ]
+        },
+        "storageWarehouseName": "Connolly LLC"
+    },
+    {
+        "productID": "03f6fd23-79ab-47f7-adeb-10d593fbd1b7",
+        "date": "2023-12-10",
+        "inventoryQuantity": 546,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                162.660340,
+                -21.0478575
+            ]
+        },
+        "storageWarehouseName": "Connolly LLC"
+    },
+    {
+        "productID": "03f6fd23-79ab-47f7-adeb-10d593fbd1b7",
+        "date": "2023-12-09",
+        "inventoryQuantity": 60,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                59.931148,
+                38.455403
+            ]
+        },
+        "storageWarehouseName": "Connolly LLC"
+    },
+    {
+        "productID": "03f6fd23-79ab-47f7-adeb-10d593fbd1b7",
+        "date": "2023-12-08",
+        "inventoryQuantity": 861,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -123.738592,
+                1.026415
+            ]
+        },
+        "storageWarehouseName": "Connolly LLC"
+    },
+    {
+        "productID": "03f6fd23-79ab-47f7-adeb-10d593fbd1b7",
+        "date": "2023-12-07",
+        "inventoryQuantity": 455,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                162.924598,
+                -45.612967
+            ]
+        },
+        "storageWarehouseName": "Connolly LLC"
+    },
+    {
+        "productID": "03f6fd23-79ab-47f7-adeb-10d593fbd1b7",
+        "date": "2023-12-06",
+        "inventoryQuantity": 926,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                134.142233,
+                61.9774725
+            ]
+        },
+        "storageWarehouseName": "Connolly LLC"
+    },
+    {
+        "productID": "03f6fd23-79ab-47f7-adeb-10d593fbd1b7",
+        "date": "2023-12-05",
+        "inventoryQuantity": 469,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -67.297894,
+                68.9620955
+            ]
+        },
+        "storageWarehouseName": "Connolly LLC"
+    },
+    {
+        "productID": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed",
+        "date": "2023-12-11",
+        "inventoryQuantity": 558,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -23.911564,
+                49.7255665
+            ]
+        },
+        "storageWarehouseName": "Saunders LLC"
+    },
+    {
+        "productID": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed",
+        "date": "2023-12-10",
+        "inventoryQuantity": 853,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                110.783496,
+                22.0191555
+            ]
+        },
+        "storageWarehouseName": "Saunders LLC"
+    },
+    {
+        "productID": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed",
+        "date": "2023-12-09",
+        "inventoryQuantity": 418,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                81.579555,
+                41.4873525
+            ]
+        },
+        "storageWarehouseName": "Saunders LLC"
+    },
+    {
+        "productID": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed",
+        "date": "2023-12-08",
+        "inventoryQuantity": 382,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -109.846474,
+                26.111754
+            ]
+        },
+        "storageWarehouseName": "Saunders LLC"
+    },
+    {
+        "productID": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed",
+        "date": "2023-12-07",
+        "inventoryQuantity": 623,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                93.415969,
+                -43.545258
+            ]
+        },
+        "storageWarehouseName": "Saunders LLC"
+    },
+    {
+        "productID": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed",
+        "date": "2023-12-06",
+        "inventoryQuantity": 731,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                115.348768,
+                45.9376025
+            ]
+        },
+        "storageWarehouseName": "Saunders LLC"
+    },
+    {
+        "productID": "2ab160a8-9678-4ab4-a0e5-70e61bfba3ed",
+        "date": "2023-12-05",
+        "inventoryQuantity": 404,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                177.814866,
+                24.123455
+            ]
+        },
+        "storageWarehouseName": "Saunders LLC"
+    },
+    {
+        "productID": "568809a9-da00-425a-811f-8248623f0909",
+        "date": "2023-12-11",
+        "inventoryQuantity": 33,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                39.836071,
+                10.8760605
+            ]
+        },
+        "storageWarehouseName": "Holmes-Macdonald"
+    },
+    {
+        "productID": "568809a9-da00-425a-811f-8248623f0909",
+        "date": "2023-12-10",
+        "inventoryQuantity": 883,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                169.455278,
+                60.321737
+            ]
+        },
+        "storageWarehouseName": "Holmes-Macdonald"
+    },
+    {
+        "productID": "568809a9-da00-425a-811f-8248623f0909",
+        "date": "2023-12-09",
+        "inventoryQuantity": 310,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -106.567432,
+                -61.693969
+            ]
+        },
+        "storageWarehouseName": "Holmes-Macdonald"
+    },
+    {
+        "productID": "568809a9-da00-425a-811f-8248623f0909",
+        "date": "2023-12-08",
+        "inventoryQuantity": 695,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -3.149894,
+                3.581517
+            ]
+        },
+        "storageWarehouseName": "Holmes-Macdonald"
+    },
+    {
+        "productID": "568809a9-da00-425a-811f-8248623f0909",
+        "date": "2023-12-07",
+        "inventoryQuantity": 369,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -69.716191,
+                -73.375684
+            ]
+        },
+        "storageWarehouseName": "Holmes-Macdonald"
+    },
+    {
+        "productID": "568809a9-da00-425a-811f-8248623f0909",
+        "date": "2023-12-06",
+        "inventoryQuantity": 339,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -100.359763,
+                18.659240
+            ]
+        },
+        "storageWarehouseName": "Holmes-Macdonald"
+    },
+    {
+        "productID": "568809a9-da00-425a-811f-8248623f0909",
+        "date": "2023-12-05",
+        "inventoryQuantity": 559,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                40.452631,
+                40.442456
+            ]
+        },
+        "storageWarehouseName": "Holmes-Macdonald"
+    },
+    {
+        "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9",
+        "date": "2023-12-11",
+        "inventoryQuantity": 226,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -135.150848,
+                -20.693345
+            ]
+        },
+        "storageWarehouseName": "Palmer-Walker"
+    },
+    {
+        "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9",
+        "date": "2023-12-10",
+        "inventoryQuantity": 637,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -108.607827,
+                60.0605225
+            ]
+        },
+        "storageWarehouseName": "Palmer-Walker"
+    },
+    {
+        "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9",
+        "date": "2023-12-09",
+        "inventoryQuantity": 429,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                136.472470,
+                -50.238624
+            ]
+        },
+        "storageWarehouseName": "Palmer-Walker"
+    },
+    {
+        "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9",
+        "date": "2023-12-08",
+        "inventoryQuantity": 505,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -29.902908,
+                -0.1357785
+            ]
+        },
+        "storageWarehouseName": "Palmer-Walker"
+    },
+    {
+        "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9",
+        "date": "2023-12-07",
+        "inventoryQuantity": 149,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -175.269520,
+                -19.875307
+            ]
+        },
+        "storageWarehouseName": "Palmer-Walker"
+    },
+    {
+        "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9",
+        "date": "2023-12-06",
+        "inventoryQuantity": 989,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -76.550231,
+                -71.0519375
+            ]
+        },
+        "storageWarehouseName": "Palmer-Walker"
+    },
+    {
+        "productID": "16ae5951-4f32-4417-9fd2-0ce4d3ade7d9",
+        "date": "2023-12-05",
+        "inventoryQuantity": 442,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                158.591649,
+                84.365944
+            ]
+        },
+        "storageWarehouseName": "Palmer-Walker"
+    },
+    {
+        "productID": "d574f881-8a8c-4017-af36-0680efe3c55b",
+        "date": "2023-12-11",
+        "inventoryQuantity": 29,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -121.985835,
+                5.3194005
+            ]
+        },
+        "storageWarehouseName": "Haynes and Sons"
+    },
+    {
+        "productID": "d574f881-8a8c-4017-af36-0680efe3c55b",
+        "date": "2023-12-10",
+        "inventoryQuantity": 343,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -175.616959,
+                36.5817865
+            ]
+        },
+        "storageWarehouseName": "Haynes and Sons"
+    },
+    {
+        "productID": "d574f881-8a8c-4017-af36-0680efe3c55b",
+        "date": "2023-12-09",
+        "inventoryQuantity": 621,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -130.962179,
+                -81.284302
+            ]
+        },
+        "storageWarehouseName": "Haynes and Sons"
+    },
+    {
+        "productID": "d574f881-8a8c-4017-af36-0680efe3c55b",
+        "date": "2023-12-08",
+        "inventoryQuantity": 104,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -146.688029,
+                -59.2233975
+            ]
+        },
+        "storageWarehouseName": "Haynes and Sons"
+    },
+    {
+        "productID": "d574f881-8a8c-4017-af36-0680efe3c55b",
+        "date": "2023-12-07",
+        "inventoryQuantity": 891,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                49.086749,
+                -48.638124
+            ]
+        },
+        "storageWarehouseName": "Haynes and Sons"
+    },
+    {
+        "productID": "d574f881-8a8c-4017-af36-0680efe3c55b",
+        "date": "2023-12-06",
+        "inventoryQuantity": 201,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -160.759255,
+                -14.6637315
+            ]
+        },
+        "storageWarehouseName": "Haynes and Sons"
+    },
+    {
+        "productID": "d574f881-8a8c-4017-af36-0680efe3c55b",
+        "date": "2023-12-05",
+        "inventoryQuantity": 702,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -131.905880,
+                4.962128
+            ]
+        },
+        "storageWarehouseName": "Haynes and Sons"
+    },
+    {
+        "productID": "8af80953-cf99-4011-ae3c-75392390a04e",
+        "date": "2023-12-11",
+        "inventoryQuantity": 333,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -87.523273,
+                81.0498145
+            ]
+        },
+        "storageWarehouseName": "Poole and Sons"
+    },
+    {
+        "productID": "8af80953-cf99-4011-ae3c-75392390a04e",
+        "date": "2023-12-10",
+        "inventoryQuantity": 935,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -49.581362,
+                -11.660762
+            ]
+        },
+        "storageWarehouseName": "Poole and Sons"
+    },
+    {
+        "productID": "8af80953-cf99-4011-ae3c-75392390a04e",
+        "date": "2023-12-09",
+        "inventoryQuantity": 541,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                169.464094,
+                85.116314
+            ]
+        },
+        "storageWarehouseName": "Poole and Sons"
+    },
+    {
+        "productID": "8af80953-cf99-4011-ae3c-75392390a04e",
+        "date": "2023-12-08",
+        "inventoryQuantity": 30,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -46.802354,
+                4.8905155
+            ]
+        },
+        "storageWarehouseName": "Poole and Sons"
+    },
+    {
+        "productID": "8af80953-cf99-4011-ae3c-75392390a04e",
+        "date": "2023-12-07",
+        "inventoryQuantity": 199,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                18.599074,
+                -31.083301
+            ]
+        },
+        "storageWarehouseName": "Poole and Sons"
+    },
+    {
+        "productID": "8af80953-cf99-4011-ae3c-75392390a04e",
+        "date": "2023-12-06",
+        "inventoryQuantity": 592,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                142.202101,
+                -66.1022585
+            ]
+        },
+        "storageWarehouseName": "Poole and Sons"
+    },
+    {
+        "productID": "8af80953-cf99-4011-ae3c-75392390a04e",
+        "date": "2023-12-05",
+        "inventoryQuantity": 179,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -167.921376,
+                76.7331115
+            ]
+        },
+        "storageWarehouseName": "Poole and Sons"
+    },
+    {
+        "productID": "aec0ad56-c5d0-4b86-ab49-e8507570b3d8",
+        "date": "2023-12-11",
+        "inventoryQuantity": 303,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -65.670993,
+                55.743864
+            ]
+        },
+        "storageWarehouseName": "Roberts, Anderson and Hart"
+    },
+    {
+        "productID": "aec0ad56-c5d0-4b86-ab49-e8507570b3d8",
+        "date": "2023-12-10",
+        "inventoryQuantity": 482,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -163.570600,
+                -55.8748985
+            ]
+        },
+        "storageWarehouseName": "Roberts, Anderson and Hart"
+    },
+    {
+        "productID": "aec0ad56-c5d0-4b86-ab49-e8507570b3d8",
+        "date": "2023-12-09",
+        "inventoryQuantity": 583,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -108.741396,
+                -70.7805685
+            ]
+        },
+        "storageWarehouseName": "Roberts, Anderson and Hart"
+    },
+    {
+        "productID": "aec0ad56-c5d0-4b86-ab49-e8507570b3d8",
+        "date": "2023-12-08",
+        "inventoryQuantity": 943,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                138.608573,
+                -27.719996
+            ]
+        },
+        "storageWarehouseName": "Roberts, Anderson and Hart"
+    },
+    {
+        "productID": "aec0ad56-c5d0-4b86-ab49-e8507570b3d8",
+        "date": "2023-12-07",
+        "inventoryQuantity": 440,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -42.995315,
+                -17.3299115
+            ]
+        },
+        "storageWarehouseName": "Roberts, Anderson and Hart"
+    },
+    {
+        "productID": "aec0ad56-c5d0-4b86-ab49-e8507570b3d8",
+        "date": "2023-12-06",
+        "inventoryQuantity": 641,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                157.077864,
+                53.6963155
+            ]
+        },
+        "storageWarehouseName": "Roberts, Anderson and Hart"
+    },
+    {
+        "productID": "aec0ad56-c5d0-4b86-ab49-e8507570b3d8",
+        "date": "2023-12-05",
+        "inventoryQuantity": 276,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                12.655060,
+                -8.221262
+            ]
+        },
+        "storageWarehouseName": "Roberts, Anderson and Hart"
+    },
+    {
+        "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100",
+        "date": "2023-12-11",
+        "inventoryQuantity": 939,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                19.237833,
+                29.568805
+            ]
+        },
+        "storageWarehouseName": "Williams, Sykes and Winter"
+    },
+    {
+        "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100",
+        "date": "2023-12-10",
+        "inventoryQuantity": 732,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                127.799876,
+                29.484353
+            ]
+        },
+        "storageWarehouseName": "Williams, Sykes and Winter"
+    },
+    {
+        "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100",
+        "date": "2023-12-09",
+        "inventoryQuantity": 973,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -144.632245,
+                34.1473275
+            ]
+        },
+        "storageWarehouseName": "Williams, Sykes and Winter"
+    },
+    {
+        "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100",
+        "date": "2023-12-08",
+        "inventoryQuantity": 7,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                4.628512,
+                25.674360
+            ]
+        },
+        "storageWarehouseName": "Williams, Sykes and Winter"
+    },
+    {
+        "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100",
+        "date": "2023-12-07",
+        "inventoryQuantity": 751,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -79.833391,
+                60.874655
+            ]
+        },
+        "storageWarehouseName": "Williams, Sykes and Winter"
+    },
+    {
+        "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100",
+        "date": "2023-12-06",
+        "inventoryQuantity": 574,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -122.286396,
+                -54.4329265
+            ]
+        },
+        "storageWarehouseName": "Williams, Sykes and Winter"
+    },
+    {
+        "productID": "8bd5743f-9c3e-47eb-aa50-dd37860e1100",
+        "date": "2023-12-05",
+        "inventoryQuantity": 478,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                102.608853,
+                -14.9958265
+            ]
+        },
+        "storageWarehouseName": "Williams, Sykes and Winter"
+    },
+    {
+        "productID": "0fce1bf3-7cd7-423c-89b9-96e44caee05a",
+        "date": "2023-12-11",
+        "inventoryQuantity": 764,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -151.372203,
+                -40.9683085
+            ]
+        },
+        "storageWarehouseName": "Allen-Woods"
+    },
+    {
+        "productID": "0fce1bf3-7cd7-423c-89b9-96e44caee05a",
+        "date": "2023-12-10",
+        "inventoryQuantity": 430,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -123.048211,
+                -53.4021405
+            ]
+        },
+        "storageWarehouseName": "Allen-Woods"
+    },
+    {
+        "productID": "0fce1bf3-7cd7-423c-89b9-96e44caee05a",
+        "date": "2023-12-09",
+        "inventoryQuantity": 952,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -179.731220,
+                -84.543795
+            ]
+        },
+        "storageWarehouseName": "Allen-Woods"
+    },
+    {
+        "productID": "0fce1bf3-7cd7-423c-89b9-96e44caee05a",
+        "date": "2023-12-08",
+        "inventoryQuantity": 721,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                107.963395,
+                80.6249405
+            ]
+        },
+        "storageWarehouseName": "Allen-Woods"
+    },
+    {
+        "productID": "0fce1bf3-7cd7-423c-89b9-96e44caee05a",
+        "date": "2023-12-07",
+        "inventoryQuantity": 559,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                35.211137,
+                -52.828043
+            ]
+        },
+        "storageWarehouseName": "Allen-Woods"
+    },
+    {
+        "productID": "0fce1bf3-7cd7-423c-89b9-96e44caee05a",
+        "date": "2023-12-06",
+        "inventoryQuantity": 755,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                132.102790,
+                6.488843
+            ]
+        },
+        "storageWarehouseName": "Allen-Woods"
+    },
+    {
+        "productID": "0fce1bf3-7cd7-423c-89b9-96e44caee05a",
+        "date": "2023-12-05",
+        "inventoryQuantity": 910,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                136.585948,
+                51.640487
+            ]
+        },
+        "storageWarehouseName": "Allen-Woods"
+    },
+    {
+        "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb",
+        "date": "2023-12-11",
+        "inventoryQuantity": 172,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                177.210111,
+                88.972658
+            ]
+        },
+        "storageWarehouseName": "Smith PLC"
+    },
+    {
+        "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb",
+        "date": "2023-12-10",
+        "inventoryQuantity": 373,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                58.349920,
+                -52.997029
+            ]
+        },
+        "storageWarehouseName": "Smith PLC"
+    },
+    {
+        "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb",
+        "date": "2023-12-09",
+        "inventoryQuantity": 671,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                20.677241,
+                -26.455957
+            ]
+        },
+        "storageWarehouseName": "Smith PLC"
+    },
+    {
+        "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb",
+        "date": "2023-12-08",
+        "inventoryQuantity": 926,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -31.018908,
+                -68.2063935
+            ]
+        },
+        "storageWarehouseName": "Smith PLC"
+    },
+    {
+        "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb",
+        "date": "2023-12-07",
+        "inventoryQuantity": 550,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -37.942256,
+                -27.578823
+            ]
+        },
+        "storageWarehouseName": "Smith PLC"
+    },
+    {
+        "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb",
+        "date": "2023-12-06",
+        "inventoryQuantity": 239,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                51.616956,
+                16.9919245
+            ]
+        },
+        "storageWarehouseName": "Smith PLC"
+    },
+    {
+        "productID": "fc22f993-7fa2-4c00-b043-f9621715b0fb",
+        "date": "2023-12-05",
+        "inventoryQuantity": 192,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                165.255698,
+                65.1452005
+            ]
+        },
+        "storageWarehouseName": "Smith PLC"
+    },
+    {
+        "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b",
+        "date": "2023-12-11",
+        "inventoryQuantity": 542,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -121.375652,
+                77.8967095
+            ]
+        },
+        "storageWarehouseName": "Clarke Inc"
+    },
+    {
+        "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b",
+        "date": "2023-12-10",
+        "inventoryQuantity": 51,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -78.654301,
+                -33.935460
+            ]
+        },
+        "storageWarehouseName": "Clarke Inc"
+    },
+    {
+        "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b",
+        "date": "2023-12-09",
+        "inventoryQuantity": 93,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -160.768496,
+                48.3091275
+            ]
+        },
+        "storageWarehouseName": "Clarke Inc"
+    },
+    {
+        "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b",
+        "date": "2023-12-08",
+        "inventoryQuantity": 564,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                112.368093,
+                47.7909415
+            ]
+        },
+        "storageWarehouseName": "Clarke Inc"
+    },
+    {
+        "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b",
+        "date": "2023-12-07",
+        "inventoryQuantity": 289,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                92.534489,
+                88.886374
+            ]
+        },
+        "storageWarehouseName": "Clarke Inc"
+    },
+    {
+        "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b",
+        "date": "2023-12-06",
+        "inventoryQuantity": 334,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                47.358294,
+                53.881237
+            ]
+        },
+        "storageWarehouseName": "Clarke Inc"
+    },
+    {
+        "productID": "40654271-59d1-41e8-acfe-b5e7c4dd671b",
+        "date": "2023-12-05",
+        "inventoryQuantity": 966,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                36.851158,
+                89.178091
+            ]
+        },
+        "storageWarehouseName": "Clarke Inc"
+    },
+    {
+        "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f",
+        "date": "2023-12-11",
+        "inventoryQuantity": 662,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                102.596136,
+                -23.361784
+            ]
+        },
+        "storageWarehouseName": "Pollard, Taylor and Manning"
+    },
+    {
+        "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f",
+        "date": "2023-12-10",
+        "inventoryQuantity": 956,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -164.150258,
+                -77.7986765
+            ]
+        },
+        "storageWarehouseName": "Pollard, Taylor and Manning"
+    },
+    {
+        "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f",
+        "date": "2023-12-09",
+        "inventoryQuantity": 251,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -51.686003,
+                -17.8205535
+            ]
+        },
+        "storageWarehouseName": "Pollard, Taylor and Manning"
+    },
+    {
+        "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f",
+        "date": "2023-12-08",
+        "inventoryQuantity": 44,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -148.470011,
+                -84.2868145
+            ]
+        },
+        "storageWarehouseName": "Pollard, Taylor and Manning"
+    },
+    {
+        "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f",
+        "date": "2023-12-07",
+        "inventoryQuantity": 187,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                20.200245,
+                79.7919565
+            ]
+        },
+        "storageWarehouseName": "Pollard, Taylor and Manning"
+    },
+    {
+        "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f",
+        "date": "2023-12-06",
+        "inventoryQuantity": 706,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -65.426377,
+                68.701264
+            ]
+        },
+        "storageWarehouseName": "Pollard, Taylor and Manning"
+    },
+    {
+        "productID": "91c26081-d2b4-4d49-91d2-0d07e55b0b2f",
+        "date": "2023-12-05",
+        "inventoryQuantity": 11,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -159.083403,
+                -3.843307
+            ]
+        },
+        "storageWarehouseName": "Pollard, Taylor and Manning"
+    },
+    {
+        "productID": "6c498ff8-eae1-40de-b519-c4679d80259a",
+        "date": "2023-12-11",
+        "inventoryQuantity": 392,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -142.503108,
+                -43.436238
+            ]
+        },
+        "storageWarehouseName": "Stone-Davies"
+    },
+    {
+        "productID": "6c498ff8-eae1-40de-b519-c4679d80259a",
+        "date": "2023-12-10",
+        "inventoryQuantity": 898,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                127.701493,
+                -13.711208
+            ]
+        },
+        "storageWarehouseName": "Stone-Davies"
+    },
+    {
+        "productID": "6c498ff8-eae1-40de-b519-c4679d80259a",
+        "date": "2023-12-09",
+        "inventoryQuantity": 678,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                97.286208,
+                -8.3821205
+            ]
+        },
+        "storageWarehouseName": "Stone-Davies"
+    },
+    {
+        "productID": "6c498ff8-eae1-40de-b519-c4679d80259a",
+        "date": "2023-12-08",
+        "inventoryQuantity": 134,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                125.770556,
+                -7.6383525
+            ]
+        },
+        "storageWarehouseName": "Stone-Davies"
+    },
+    {
+        "productID": "6c498ff8-eae1-40de-b519-c4679d80259a",
+        "date": "2023-12-07",
+        "inventoryQuantity": 386,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                75.143989,
+                87.4781995
+            ]
+        },
+        "storageWarehouseName": "Stone-Davies"
+    },
+    {
+        "productID": "6c498ff8-eae1-40de-b519-c4679d80259a",
+        "date": "2023-12-06",
+        "inventoryQuantity": 927,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                11.993943,
+                28.5224895
+            ]
+        },
+        "storageWarehouseName": "Stone-Davies"
+    },
+    {
+        "productID": "6c498ff8-eae1-40de-b519-c4679d80259a",
+        "date": "2023-12-05",
+        "inventoryQuantity": 983,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -93.529058,
+                -37.3438025
+            ]
+        },
+        "storageWarehouseName": "Stone-Davies"
+    },
+    {
+        "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe",
+        "date": "2023-12-11",
+        "inventoryQuantity": 799,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                86.978983,
+                -78.580128
+            ]
+        },
+        "storageWarehouseName": "Martin, McLean and Evans"
+    },
+    {
+        "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe",
+        "date": "2023-12-10",
+        "inventoryQuantity": 342,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -131.125999,
+                -21.3828975
+            ]
+        },
+        "storageWarehouseName": "Martin, McLean and Evans"
+    },
+    {
+        "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe",
+        "date": "2023-12-09",
+        "inventoryQuantity": 372,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -104.498288,
+                -5.246128
+            ]
+        },
+        "storageWarehouseName": "Martin, McLean and Evans"
+    },
+    {
+        "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe",
+        "date": "2023-12-08",
+        "inventoryQuantity": 930,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -58.864441,
+                25.447666
+            ]
+        },
+        "storageWarehouseName": "Martin, McLean and Evans"
+    },
+    {
+        "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe",
+        "date": "2023-12-07",
+        "inventoryQuantity": 516,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -39.774980,
+                23.6330755
+            ]
+        },
+        "storageWarehouseName": "Martin, McLean and Evans"
+    },
+    {
+        "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe",
+        "date": "2023-12-06",
+        "inventoryQuantity": 985,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                179.618223,
+                71.2256745
+            ]
+        },
+        "storageWarehouseName": "Martin, McLean and Evans"
+    },
+    {
+        "productID": "29859217-aac2-4bf6-9fb1-33e7484e40fe",
+        "date": "2023-12-05",
+        "inventoryQuantity": 693,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                34.995907,
+                64.308119
+            ]
+        },
+        "storageWarehouseName": "Martin, McLean and Evans"
+    },
+    {
+        "productID": "6661ede7-d350-4434-99d5-1573fabfcea0",
+        "date": "2023-12-11",
+        "inventoryQuantity": 378,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -44.051696,
+                39.7552025
+            ]
+        },
+        "storageWarehouseName": "Slater, Morris and Cox"
+    },
+    {
+        "productID": "6661ede7-d350-4434-99d5-1573fabfcea0",
+        "date": "2023-12-10",
+        "inventoryQuantity": 448,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                86.606083,
+                -9.937749
+            ]
+        },
+        "storageWarehouseName": "Slater, Morris and Cox"
+    },
+    {
+        "productID": "6661ede7-d350-4434-99d5-1573fabfcea0",
+        "date": "2023-12-09",
+        "inventoryQuantity": 275,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -129.657961,
+                -9.394995
+            ]
+        },
+        "storageWarehouseName": "Slater, Morris and Cox"
+    },
+    {
+        "productID": "6661ede7-d350-4434-99d5-1573fabfcea0",
+        "date": "2023-12-08",
+        "inventoryQuantity": 678,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -35.837748,
+                -3.843059
+            ]
+        },
+        "storageWarehouseName": "Slater, Morris and Cox"
+    },
+    {
+        "productID": "6661ede7-d350-4434-99d5-1573fabfcea0",
+        "date": "2023-12-07",
+        "inventoryQuantity": 225,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                92.414439,
+                -13.733443
+            ]
+        },
+        "storageWarehouseName": "Slater, Morris and Cox"
+    },
+    {
+        "productID": "6661ede7-d350-4434-99d5-1573fabfcea0",
+        "date": "2023-12-06",
+        "inventoryQuantity": 546,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                146.258713,
+                -11.403574
+            ]
+        },
+        "storageWarehouseName": "Slater, Morris and Cox"
+    },
+    {
+        "productID": "6661ede7-d350-4434-99d5-1573fabfcea0",
+        "date": "2023-12-05",
+        "inventoryQuantity": 809,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -139.672297,
+                14.010730
+            ]
+        },
+        "storageWarehouseName": "Slater, Morris and Cox"
+    },
+    {
+        "productID": "530dbf77-1720-45a0-b31b-f06b736115f5",
+        "date": "2023-12-11",
+        "inventoryQuantity": 593,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                43.490878,
+                17.892895
+            ]
+        },
+        "storageWarehouseName": "Jones-Russell"
+    },
+    {
+        "productID": "530dbf77-1720-45a0-b31b-f06b736115f5",
+        "date": "2023-12-10",
+        "inventoryQuantity": 288,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                176.509492,
+                -38.809814
+            ]
+        },
+        "storageWarehouseName": "Jones-Russell"
+    },
+    {
+        "productID": "530dbf77-1720-45a0-b31b-f06b736115f5",
+        "date": "2023-12-09",
+        "inventoryQuantity": 761,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -14.681195,
+                -22.619417
+            ]
+        },
+        "storageWarehouseName": "Jones-Russell"
+    },
+    {
+        "productID": "530dbf77-1720-45a0-b31b-f06b736115f5",
+        "date": "2023-12-08",
+        "inventoryQuantity": 819,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -125.263368,
+                79.751710
+            ]
+        },
+        "storageWarehouseName": "Jones-Russell"
+    },
+    {
+        "productID": "530dbf77-1720-45a0-b31b-f06b736115f5",
+        "date": "2023-12-07",
+        "inventoryQuantity": 735,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -56.231284,
+                -70.730963
+            ]
+        },
+        "storageWarehouseName": "Jones-Russell"
+    },
+    {
+        "productID": "530dbf77-1720-45a0-b31b-f06b736115f5",
+        "date": "2023-12-06",
+        "inventoryQuantity": 932,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                136.889170,
+                48.8188695
+            ]
+        },
+        "storageWarehouseName": "Jones-Russell"
+    },
+    {
+        "productID": "530dbf77-1720-45a0-b31b-f06b736115f5",
+        "date": "2023-12-05",
+        "inventoryQuantity": 485,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -47.359406,
+                -66.4491905
+            ]
+        },
+        "storageWarehouseName": "Jones-Russell"
+    },
+    {
+        "productID": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90",
+        "date": "2023-12-11",
+        "inventoryQuantity": 234,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -105.736341,
+                -39.965230
+            ]
+        },
+        "storageWarehouseName": "Harvey, Smith and Williams"
+    },
+    {
+        "productID": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90",
+        "date": "2023-12-10",
+        "inventoryQuantity": 461,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                34.799191,
+                -52.068384
+            ]
+        },
+        "storageWarehouseName": "Harvey, Smith and Williams"
+    },
+    {
+        "productID": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90",
+        "date": "2023-12-09",
+        "inventoryQuantity": 586,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                177.562340,
+                40.3062105
+            ]
+        },
+        "storageWarehouseName": "Harvey, Smith and Williams"
+    },
+    {
+        "productID": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90",
+        "date": "2023-12-08",
+        "inventoryQuantity": 558,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -131.981386,
+                -86.8434865
+            ]
+        },
+        "storageWarehouseName": "Harvey, Smith and Williams"
+    },
+    {
+        "productID": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90",
+        "date": "2023-12-07",
+        "inventoryQuantity": 601,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -62.347288,
+                -30.991475
+            ]
+        },
+        "storageWarehouseName": "Harvey, Smith and Williams"
+    },
+    {
+        "productID": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90",
+        "date": "2023-12-06",
+        "inventoryQuantity": 797,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                102.628801,
+                -36.442684
+            ]
+        },
+        "storageWarehouseName": "Harvey, Smith and Williams"
+    },
+    {
+        "productID": "c91b6a6e-857a-46a5-8c11-dc83bec4fc90",
+        "date": "2023-12-05",
+        "inventoryQuantity": 705,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -148.259184,
+                10.371158
+            ]
+        },
+        "storageWarehouseName": "Harvey, Smith and Williams"
+    },
+    {
+        "productID": "6f3468c4-6b9d-48ba-9f25-63ea82079014",
+        "date": "2023-12-11",
+        "inventoryQuantity": 800,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -68.332598,
+                16.425691
+            ]
+        },
+        "storageWarehouseName": "Garner Inc"
+    },
+    {
+        "productID": "6f3468c4-6b9d-48ba-9f25-63ea82079014",
+        "date": "2023-12-10",
+        "inventoryQuantity": 656,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                69.524286,
+                -59.172634
+            ]
+        },
+        "storageWarehouseName": "Garner Inc"
+    },
+    {
+        "productID": "6f3468c4-6b9d-48ba-9f25-63ea82079014",
+        "date": "2023-12-09",
+        "inventoryQuantity": 584,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -150.380718,
+                42.046003
+            ]
+        },
+        "storageWarehouseName": "Garner Inc"
+    },
+    {
+        "productID": "6f3468c4-6b9d-48ba-9f25-63ea82079014",
+        "date": "2023-12-08",
+        "inventoryQuantity": 710,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                93.794319,
+                -32.6068155
+            ]
+        },
+        "storageWarehouseName": "Garner Inc"
+    },
+    {
+        "productID": "6f3468c4-6b9d-48ba-9f25-63ea82079014",
+        "date": "2023-12-07",
+        "inventoryQuantity": 321,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                50.144902,
+                -2.5213765
+            ]
+        },
+        "storageWarehouseName": "Garner Inc"
+    },
+    {
+        "productID": "6f3468c4-6b9d-48ba-9f25-63ea82079014",
+        "date": "2023-12-06",
+        "inventoryQuantity": 543,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                92.974530,
+                -14.3572645
+            ]
+        },
+        "storageWarehouseName": "Garner Inc"
+    },
+    {
+        "productID": "6f3468c4-6b9d-48ba-9f25-63ea82079014",
+        "date": "2023-12-05",
+        "inventoryQuantity": 748,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                99.371706,
+                -58.7060665
+            ]
+        },
+        "storageWarehouseName": "Garner Inc"
+    },
+    {
+        "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08",
+        "date": "2023-12-11",
+        "inventoryQuantity": 503,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                154.594813,
+                -35.742257
+            ]
+        },
+        "storageWarehouseName": "Sharp, Taylor and Martin"
+    },
+    {
+        "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08",
+        "date": "2023-12-10",
+        "inventoryQuantity": 497,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                0.032801,
+                79.933020
+            ]
+        },
+        "storageWarehouseName": "Sharp, Taylor and Martin"
+    },
+    {
+        "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08",
+        "date": "2023-12-09",
+        "inventoryQuantity": 86,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -64.216946,
+                -31.1685355
+            ]
+        },
+        "storageWarehouseName": "Sharp, Taylor and Martin"
+    },
+    {
+        "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08",
+        "date": "2023-12-08",
+        "inventoryQuantity": 759,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                162.311451,
+                -12.3446095
+            ]
+        },
+        "storageWarehouseName": "Sharp, Taylor and Martin"
+    },
+    {
+        "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08",
+        "date": "2023-12-07",
+        "inventoryQuantity": 683,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -56.937814,
+                43.8845825
+            ]
+        },
+        "storageWarehouseName": "Sharp, Taylor and Martin"
+    },
+    {
+        "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08",
+        "date": "2023-12-06",
+        "inventoryQuantity": 236,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -25.416883,
+                -67.425589
+            ]
+        },
+        "storageWarehouseName": "Sharp, Taylor and Martin"
+    },
+    {
+        "productID": "173c12ff-75e0-44be-8c9a-d6136a67bd08",
+        "date": "2023-12-05",
+        "inventoryQuantity": 436,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                159.095618,
+                -9.415787
+            ]
+        },
+        "storageWarehouseName": "Sharp, Taylor and Martin"
+    },
+    {
+        "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f",
+        "date": "2023-12-11",
+        "inventoryQuantity": 335,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                87.179415,
+                64.5751145
+            ]
+        },
+        "storageWarehouseName": "Higgins, Smith and Jenkins"
+    },
+    {
+        "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f",
+        "date": "2023-12-10",
+        "inventoryQuantity": 689,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -56.378250,
+                -55.4028025
+            ]
+        },
+        "storageWarehouseName": "Higgins, Smith and Jenkins"
+    },
+    {
+        "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f",
+        "date": "2023-12-09",
+        "inventoryQuantity": 856,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -6.298505,
+                82.348667
+            ]
+        },
+        "storageWarehouseName": "Higgins, Smith and Jenkins"
+    },
+    {
+        "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f",
+        "date": "2023-12-08",
+        "inventoryQuantity": 619,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -144.478398,
+                62.565941
+            ]
+        },
+        "storageWarehouseName": "Higgins, Smith and Jenkins"
+    },
+    {
+        "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f",
+        "date": "2023-12-07",
+        "inventoryQuantity": 634,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -27.637912,
+                -40.3729375
+            ]
+        },
+        "storageWarehouseName": "Higgins, Smith and Jenkins"
+    },
+    {
+        "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f",
+        "date": "2023-12-06",
+        "inventoryQuantity": 386,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -112.425695,
+                72.4755445
+            ]
+        },
+        "storageWarehouseName": "Higgins, Smith and Jenkins"
+    },
+    {
+        "productID": "68f5aeb0-ef7f-4ad0-a64a-c5d0df54858f",
+        "date": "2023-12-05",
+        "inventoryQuantity": 296,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -163.998924,
+                39.143882
+            ]
+        },
+        "storageWarehouseName": "Higgins, Smith and Jenkins"
+    },
+    {
+        "productID": "e3d8bb1c-7215-40c1-8766-2ca6238e9173",
+        "date": "2023-12-11",
+        "inventoryQuantity": 403,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                152.578007,
+                16.068629
+            ]
+        },
+        "storageWarehouseName": "Wright-Hunt"
+    },
+    {
+        "productID": "e3d8bb1c-7215-40c1-8766-2ca6238e9173",
+        "date": "2023-12-10",
+        "inventoryQuantity": 869,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                0.363811,
+                -20.606888
+            ]
+        },
+        "storageWarehouseName": "Wright-Hunt"
+    },
+    {
+        "productID": "e3d8bb1c-7215-40c1-8766-2ca6238e9173",
+        "date": "2023-12-09",
+        "inventoryQuantity": 139,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -66.461647,
+                76.232004
+            ]
+        },
+        "storageWarehouseName": "Wright-Hunt"
+    },
+    {
+        "productID": "e3d8bb1c-7215-40c1-8766-2ca6238e9173",
+        "date": "2023-12-08",
+        "inventoryQuantity": 108,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                144.227628,
+                -50.244871
+            ]
+        },
+        "storageWarehouseName": "Wright-Hunt"
+    },
+    {
+        "productID": "e3d8bb1c-7215-40c1-8766-2ca6238e9173",
+        "date": "2023-12-07",
+        "inventoryQuantity": 344,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -141.509466,
+                -21.908247
+            ]
+        },
+        "storageWarehouseName": "Wright-Hunt"
+    },
+    {
+        "productID": "e3d8bb1c-7215-40c1-8766-2ca6238e9173",
+        "date": "2023-12-06",
+        "inventoryQuantity": 261,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                168.466418,
+                85.2574035
+            ]
+        },
+        "storageWarehouseName": "Wright-Hunt"
+    },
+    {
+        "productID": "e3d8bb1c-7215-40c1-8766-2ca6238e9173",
+        "date": "2023-12-05",
+        "inventoryQuantity": 397,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                76.024396,
+                -75.223999
+            ]
+        },
+        "storageWarehouseName": "Wright-Hunt"
+    },
+    {
+        "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173",
+        "date": "2023-12-11",
+        "inventoryQuantity": 135,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                64.995854,
+                -85.184830
+            ]
+        },
+        "storageWarehouseName": "Moore Group"
+    },
+    {
+        "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173",
+        "date": "2023-12-10",
+        "inventoryQuantity": 972,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -169.537302,
+                -14.3180905
+            ]
+        },
+        "storageWarehouseName": "Moore Group"
+    },
+    {
+        "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173",
+        "date": "2023-12-09",
+        "inventoryQuantity": 410,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -145.600539,
+                -52.8671025
+            ]
+        },
+        "storageWarehouseName": "Moore Group"
+    },
+    {
+        "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173",
+        "date": "2023-12-08",
+        "inventoryQuantity": 452,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -155.554356,
+                15.0727715
+            ]
+        },
+        "storageWarehouseName": "Moore Group"
+    },
+    {
+        "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173",
+        "date": "2023-12-07",
+        "inventoryQuantity": 48,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                47.293067,
+                -73.169692
+            ]
+        },
+        "storageWarehouseName": "Moore Group"
+    },
+    {
+        "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173",
+        "date": "2023-12-06",
+        "inventoryQuantity": 39,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                169.828334,
+                -9.509898
+            ]
+        },
+        "storageWarehouseName": "Moore Group"
+    },
+    {
+        "productID": "975c40d3-8c4a-46c7-9bc7-d7e826f7d173",
+        "date": "2023-12-05",
+        "inventoryQuantity": 31,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                97.191316,
+                70.090349
+            ]
+        },
+        "storageWarehouseName": "Moore Group"
+    },
+    {
+        "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589",
+        "date": "2023-12-11",
+        "inventoryQuantity": 658,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -32.671749,
+                71.0590445
+            ]
+        },
+        "storageWarehouseName": "Bruce-Francis"
+    },
+    {
+        "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589",
+        "date": "2023-12-10",
+        "inventoryQuantity": 79,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -28.214729,
+                87.907259
+            ]
+        },
+        "storageWarehouseName": "Bruce-Francis"
+    },
+    {
+        "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589",
+        "date": "2023-12-09",
+        "inventoryQuantity": 678,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -72.164939,
+                56.5385555
+            ]
+        },
+        "storageWarehouseName": "Bruce-Francis"
+    },
+    {
+        "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589",
+        "date": "2023-12-08",
+        "inventoryQuantity": 907,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                68.596638,
+                80.633642
+            ]
+        },
+        "storageWarehouseName": "Bruce-Francis"
+    },
+    {
+        "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589",
+        "date": "2023-12-07",
+        "inventoryQuantity": 944,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                140.883702,
+                -80.938323
+            ]
+        },
+        "storageWarehouseName": "Bruce-Francis"
+    },
+    {
+        "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589",
+        "date": "2023-12-06",
+        "inventoryQuantity": 235,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                4.714360,
+                74.9233645
+            ]
+        },
+        "storageWarehouseName": "Bruce-Francis"
+    },
+    {
+        "productID": "e1331193-0a94-4c93-bdb2-f6eb22b86589",
+        "date": "2023-12-05",
+        "inventoryQuantity": 286,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -61.409991,
+                -86.401732
+            ]
+        },
+        "storageWarehouseName": "Bruce-Francis"
+    },
+    {
+        "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f",
+        "date": "2023-12-11",
+        "inventoryQuantity": 343,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                123.708439,
+                53.564657
+            ]
+        },
+        "storageWarehouseName": "Banks-Kennedy"
+    },
+    {
+        "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f",
+        "date": "2023-12-10",
+        "inventoryQuantity": 899,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -13.945657,
+                34.4806855
+            ]
+        },
+        "storageWarehouseName": "Banks-Kennedy"
+    },
+    {
+        "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f",
+        "date": "2023-12-09",
+        "inventoryQuantity": 99,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -60.594510,
+                2.198371
+            ]
+        },
+        "storageWarehouseName": "Banks-Kennedy"
+    },
+    {
+        "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f",
+        "date": "2023-12-08",
+        "inventoryQuantity": 118,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                153.066847,
+                57.727026
+            ]
+        },
+        "storageWarehouseName": "Banks-Kennedy"
+    },
+    {
+        "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f",
+        "date": "2023-12-07",
+        "inventoryQuantity": 388,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                63.915652,
+                6.150846
+            ]
+        },
+        "storageWarehouseName": "Banks-Kennedy"
+    },
+    {
+        "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f",
+        "date": "2023-12-06",
+        "inventoryQuantity": 373,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -18.587081,
+                -11.243445
+            ]
+        },
+        "storageWarehouseName": "Banks-Kennedy"
+    },
+    {
+        "productID": "0f8ca27a-3c13-4a75-85db-0abaedf2fa5f",
+        "date": "2023-12-05",
+        "inventoryQuantity": 561,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -156.100500,
+                13.133500
+            ]
+        },
+        "storageWarehouseName": "Banks-Kennedy"
+    },
+    {
+        "productID": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8",
+        "date": "2023-12-11",
+        "inventoryQuantity": 614,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                147.128353,
+                -68.442922
+            ]
+        },
+        "storageWarehouseName": "White PLC"
+    },
+    {
+        "productID": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8",
+        "date": "2023-12-10",
+        "inventoryQuantity": 196,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -121.335765,
+                30.1273275
+            ]
+        },
+        "storageWarehouseName": "White PLC"
+    },
+    {
+        "productID": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8",
+        "date": "2023-12-09",
+        "inventoryQuantity": 856,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                166.475058,
+                -67.548849
+            ]
+        },
+        "storageWarehouseName": "White PLC"
+    },
+    {
+        "productID": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8",
+        "date": "2023-12-08",
+        "inventoryQuantity": 160,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -22.587909,
+                54.4056035
+            ]
+        },
+        "storageWarehouseName": "White PLC"
+    },
+    {
+        "productID": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8",
+        "date": "2023-12-07",
+        "inventoryQuantity": 728,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -155.986349,
+                39.8924475
+            ]
+        },
+        "storageWarehouseName": "White PLC"
+    },
+    {
+        "productID": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8",
+        "date": "2023-12-06",
+        "inventoryQuantity": 641,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                2.924695,
+                59.866281
+            ]
+        },
+        "storageWarehouseName": "White PLC"
+    },
+    {
+        "productID": "a00825f6-eb59-4279-9dbf-c397e7e6c3d8",
+        "date": "2023-12-05",
+        "inventoryQuantity": 19,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                37.974095,
+                -9.812861
+            ]
+        },
+        "storageWarehouseName": "White PLC"
+    },
+    {
+        "productID": "bbd9f607-fd5b-4780-bba3-9a263ee776f0",
+        "date": "2023-12-11",
+        "inventoryQuantity": 831,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                61.246390,
+                -77.9003205
+            ]
+        },
+        "storageWarehouseName": "Jennings-Reeves"
+    },
+    {
+        "productID": "bbd9f607-fd5b-4780-bba3-9a263ee776f0",
+        "date": "2023-12-10",
+        "inventoryQuantity": 963,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -72.806050,
+                76.081736
+            ]
+        },
+        "storageWarehouseName": "Jennings-Reeves"
+    },
+    {
+        "productID": "bbd9f607-fd5b-4780-bba3-9a263ee776f0",
+        "date": "2023-12-09",
+        "inventoryQuantity": 658,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                91.651658,
+                49.4275685
+            ]
+        },
+        "storageWarehouseName": "Jennings-Reeves"
+    },
+    {
+        "productID": "bbd9f607-fd5b-4780-bba3-9a263ee776f0",
+        "date": "2023-12-08",
+        "inventoryQuantity": 556,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                102.247501,
+                36.9724245
+            ]
+        },
+        "storageWarehouseName": "Jennings-Reeves"
+    },
+    {
+        "productID": "bbd9f607-fd5b-4780-bba3-9a263ee776f0",
+        "date": "2023-12-07",
+        "inventoryQuantity": 191,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                124.403619,
+                6.281490
+            ]
+        },
+        "storageWarehouseName": "Jennings-Reeves"
+    },
+    {
+        "productID": "bbd9f607-fd5b-4780-bba3-9a263ee776f0",
+        "date": "2023-12-06",
+        "inventoryQuantity": 839,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                163.889035,
+                -74.005039
+            ]
+        },
+        "storageWarehouseName": "Jennings-Reeves"
+    },
+    {
+        "productID": "bbd9f607-fd5b-4780-bba3-9a263ee776f0",
+        "date": "2023-12-05",
+        "inventoryQuantity": 794,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -113.575302,
+                52.4446395
+            ]
+        },
+        "storageWarehouseName": "Jennings-Reeves"
+    },
+    {
+        "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0",
+        "date": "2023-12-11",
+        "inventoryQuantity": 104,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                54.622607,
+                -19.5567455
+            ]
+        },
+        "storageWarehouseName": "Rees Ltd"
+    },
+    {
+        "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0",
+        "date": "2023-12-10",
+        "inventoryQuantity": 688,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                166.519471,
+                -33.6412365
+            ]
+        },
+        "storageWarehouseName": "Rees Ltd"
+    },
+    {
+        "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0",
+        "date": "2023-12-09",
+        "inventoryQuantity": 313,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -97.838749,
+                -33.8032815
+            ]
+        },
+        "storageWarehouseName": "Rees Ltd"
+    },
+    {
+        "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0",
+        "date": "2023-12-08",
+        "inventoryQuantity": 60,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -142.063424,
+                -55.929905
+            ]
+        },
+        "storageWarehouseName": "Rees Ltd"
+    },
+    {
+        "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0",
+        "date": "2023-12-07",
+        "inventoryQuantity": 267,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -110.659941,
+                11.0393095
+            ]
+        },
+        "storageWarehouseName": "Rees Ltd"
+    },
+    {
+        "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0",
+        "date": "2023-12-06",
+        "inventoryQuantity": 30,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                38.200409,
+                21.7271445
+            ]
+        },
+        "storageWarehouseName": "Rees Ltd"
+    },
+    {
+        "productID": "63ab5f43-1d30-4f71-9570-7474a4dfacf0",
+        "date": "2023-12-05",
+        "inventoryQuantity": 2,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                94.775119,
+                49.0470035
+            ]
+        },
+        "storageWarehouseName": "Rees Ltd"
+    },
+    {
+        "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+        "date": "2023-12-11",
+        "inventoryQuantity": 184,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                169.777428,
+                -77.143918
+            ]
+        },
+        "storageWarehouseName": "Carroll, Gregory and Barnes"
+    },
+    {
+        "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+        "date": "2023-12-10",
+        "inventoryQuantity": 378,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                37.530620,
+                2.569524
+            ]
+        },
+        "storageWarehouseName": "Carroll, Gregory and Barnes"
+    },
+    {
+        "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+        "date": "2023-12-09",
+        "inventoryQuantity": 720,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -28.186364,
+                61.3614745
+            ]
+        },
+        "storageWarehouseName": "Carroll, Gregory and Barnes"
+    },
+    {
+        "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+        "date": "2023-12-08",
+        "inventoryQuantity": 821,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                39.319613,
+                -51.4349815
+            ]
+        },
+        "storageWarehouseName": "Carroll, Gregory and Barnes"
+    },
+    {
+        "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+        "date": "2023-12-07",
+        "inventoryQuantity": 436,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -141.796780,
+                -71.736144
+            ]
+        },
+        "storageWarehouseName": "Carroll, Gregory and Barnes"
+    },
+    {
+        "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+        "date": "2023-12-06",
+        "inventoryQuantity": 95,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -151.727445,
+                -5.064757
+            ]
+        },
+        "storageWarehouseName": "Carroll, Gregory and Barnes"
+    },
+    {
+        "productID": "b0ad5640-75df-4612-82b3-6edd9d1a873d",
+        "date": "2023-12-05",
+        "inventoryQuantity": 400,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -102.190353,
+                39.6450845
+            ]
+        },
+        "storageWarehouseName": "Carroll, Gregory and Barnes"
+    },
+    {
+        "productID": "06df6730-5197-4815-8016-015f7abd7208",
+        "date": "2023-12-11",
+        "inventoryQuantity": 765,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -55.684805,
+                -54.6440595
+            ]
+        },
+        "storageWarehouseName": "Kennedy, Barlow and Coleman"
+    },
+    {
+        "productID": "06df6730-5197-4815-8016-015f7abd7208",
+        "date": "2023-12-10",
+        "inventoryQuantity": 71,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                106.198455,
+                -7.861304
+            ]
+        },
+        "storageWarehouseName": "Kennedy, Barlow and Coleman"
+    },
+    {
+        "productID": "06df6730-5197-4815-8016-015f7abd7208",
+        "date": "2023-12-09",
+        "inventoryQuantity": 146,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -48.431531,
+                1.6588895
+            ]
+        },
+        "storageWarehouseName": "Kennedy, Barlow and Coleman"
+    },
+    {
+        "productID": "06df6730-5197-4815-8016-015f7abd7208",
+        "date": "2023-12-08",
+        "inventoryQuantity": 290,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                7.769306,
+                31.771700
+            ]
+        },
+        "storageWarehouseName": "Kennedy, Barlow and Coleman"
+    },
+    {
+        "productID": "06df6730-5197-4815-8016-015f7abd7208",
+        "date": "2023-12-07",
+        "inventoryQuantity": 963,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                22.664983,
+                -34.382249
+            ]
+        },
+        "storageWarehouseName": "Kennedy, Barlow and Coleman"
+    },
+    {
+        "productID": "06df6730-5197-4815-8016-015f7abd7208",
+        "date": "2023-12-06",
+        "inventoryQuantity": 58,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                35.335123,
+                37.2363925
+            ]
+        },
+        "storageWarehouseName": "Kennedy, Barlow and Coleman"
+    },
+    {
+        "productID": "06df6730-5197-4815-8016-015f7abd7208",
+        "date": "2023-12-05",
+        "inventoryQuantity": 197,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                121.155811,
+                -59.444400
+            ]
+        },
+        "storageWarehouseName": "Kennedy, Barlow and Coleman"
+    },
+    {
+        "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc",
+        "date": "2023-12-11",
+        "inventoryQuantity": 516,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                63.857147,
+                27.6538665
+            ]
+        },
+        "storageWarehouseName": "Scott, Sinclair and Baker"
+    },
+    {
+        "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc",
+        "date": "2023-12-10",
+        "inventoryQuantity": 334,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                9.689308,
+                -88.7940955
+            ]
+        },
+        "storageWarehouseName": "Scott, Sinclair and Baker"
+    },
+    {
+        "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc",
+        "date": "2023-12-09",
+        "inventoryQuantity": 361,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                59.102840,
+                -20.660456
+            ]
+        },
+        "storageWarehouseName": "Scott, Sinclair and Baker"
+    },
+    {
+        "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc",
+        "date": "2023-12-08",
+        "inventoryQuantity": 658,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -59.545523,
+                54.9491245
+            ]
+        },
+        "storageWarehouseName": "Scott, Sinclair and Baker"
+    },
+    {
+        "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc",
+        "date": "2023-12-07",
+        "inventoryQuantity": 647,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -36.568511,
+                24.4365705
+            ]
+        },
+        "storageWarehouseName": "Scott, Sinclair and Baker"
+    },
+    {
+        "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc",
+        "date": "2023-12-06",
+        "inventoryQuantity": 792,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -136.692800,
+                54.982797
+            ]
+        },
+        "storageWarehouseName": "Scott, Sinclair and Baker"
+    },
+    {
+        "productID": "345d1a0e-a274-44fe-875c-901a5d01bedc",
+        "date": "2023-12-05",
+        "inventoryQuantity": 853,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                54.372539,
+                78.166794
+            ]
+        },
+        "storageWarehouseName": "Scott, Sinclair and Baker"
+    },
+    {
+        "productID": "29525264-6e37-4443-9c49-d6cdf34f7161",
+        "date": "2023-12-11",
+        "inventoryQuantity": 625,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                159.370634,
+                -66.0161615
+            ]
+        },
+        "storageWarehouseName": "Chapman-Edwards"
+    },
+    {
+        "productID": "29525264-6e37-4443-9c49-d6cdf34f7161",
+        "date": "2023-12-10",
+        "inventoryQuantity": 552,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                23.020042,
+                29.3869665
+            ]
+        },
+        "storageWarehouseName": "Chapman-Edwards"
+    },
+    {
+        "productID": "29525264-6e37-4443-9c49-d6cdf34f7161",
+        "date": "2023-12-09",
+        "inventoryQuantity": 816,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -23.246055,
+                -28.2577035
+            ]
+        },
+        "storageWarehouseName": "Chapman-Edwards"
+    },
+    {
+        "productID": "29525264-6e37-4443-9c49-d6cdf34f7161",
+        "date": "2023-12-08",
+        "inventoryQuantity": 742,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                100.785756,
+                -33.9675575
+            ]
+        },
+        "storageWarehouseName": "Chapman-Edwards"
+    },
+    {
+        "productID": "29525264-6e37-4443-9c49-d6cdf34f7161",
+        "date": "2023-12-07",
+        "inventoryQuantity": 52,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -122.605820,
+                59.959615
+            ]
+        },
+        "storageWarehouseName": "Chapman-Edwards"
+    },
+    {
+        "productID": "29525264-6e37-4443-9c49-d6cdf34f7161",
+        "date": "2023-12-06",
+        "inventoryQuantity": 893,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                167.293230,
+                -20.3609895
+            ]
+        },
+        "storageWarehouseName": "Chapman-Edwards"
+    },
+    {
+        "productID": "29525264-6e37-4443-9c49-d6cdf34f7161",
+        "date": "2023-12-05",
+        "inventoryQuantity": 61,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                78.593389,
+                -58.3836955
+            ]
+        },
+        "storageWarehouseName": "Chapman-Edwards"
+    },
+    {
+        "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea",
+        "date": "2023-12-11",
+        "inventoryQuantity": 967,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                25.609957,
+                -23.388538
+            ]
+        },
+        "storageWarehouseName": "McCarthy-Carter"
+    },
+    {
+        "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea",
+        "date": "2023-12-10",
+        "inventoryQuantity": 939,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                145.959458,
+                -44.058410
+            ]
+        },
+        "storageWarehouseName": "McCarthy-Carter"
+    },
+    {
+        "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea",
+        "date": "2023-12-09",
+        "inventoryQuantity": 719,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                138.210273,
+                -9.582544
+            ]
+        },
+        "storageWarehouseName": "McCarthy-Carter"
+    },
+    {
+        "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea",
+        "date": "2023-12-08",
+        "inventoryQuantity": 904,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                47.586498,
+                57.3069325
+            ]
+        },
+        "storageWarehouseName": "McCarthy-Carter"
+    },
+    {
+        "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea",
+        "date": "2023-12-07",
+        "inventoryQuantity": 915,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                104.039189,
+                80.0644875
+            ]
+        },
+        "storageWarehouseName": "McCarthy-Carter"
+    },
+    {
+        "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea",
+        "date": "2023-12-06",
+        "inventoryQuantity": 663,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -177.138505,
+                36.0433095
+            ]
+        },
+        "storageWarehouseName": "McCarthy-Carter"
+    },
+    {
+        "productID": "72000139-bd3b-4824-92ce-145a1ab6b7ea",
+        "date": "2023-12-05",
+        "inventoryQuantity": 591,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -163.740316,
+                64.2419445
+            ]
+        },
+        "storageWarehouseName": "McCarthy-Carter"
+    },
+    {
+        "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e",
+        "date": "2023-12-11",
+        "inventoryQuantity": 989,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                83.827722,
+                66.5325175
+            ]
+        },
+        "storageWarehouseName": "Jones, Johnston and Barnes"
+    },
+    {
+        "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e",
+        "date": "2023-12-10",
+        "inventoryQuantity": 612,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -127.417797,
+                -40.765719
+            ]
+        },
+        "storageWarehouseName": "Jones, Johnston and Barnes"
+    },
+    {
+        "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e",
+        "date": "2023-12-09",
+        "inventoryQuantity": 248,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                92.492618,
+                -10.357351
+            ]
+        },
+        "storageWarehouseName": "Jones, Johnston and Barnes"
+    },
+    {
+        "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e",
+        "date": "2023-12-08",
+        "inventoryQuantity": 766,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -102.849008,
+                85.1843735
+            ]
+        },
+        "storageWarehouseName": "Jones, Johnston and Barnes"
+    },
+    {
+        "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e",
+        "date": "2023-12-07",
+        "inventoryQuantity": 477,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -141.919729,
+                -17.8126865
+            ]
+        },
+        "storageWarehouseName": "Jones, Johnston and Barnes"
+    },
+    {
+        "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e",
+        "date": "2023-12-06",
+        "inventoryQuantity": 534,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                -165.190859,
+                65.008015
+            ]
+        },
+        "storageWarehouseName": "Jones, Johnston and Barnes"
+    },
+    {
+        "productID": "8d68eb6f-4f87-4db7-8904-7bea8fd41d9e",
+        "date": "2023-12-05",
+        "inventoryQuantity": 591,
+        "storageWarehouseLocation": {
+            "type": "Point",
+            "coordinates": [
+                89.844213,
+                24.9587585
+            ]
+        },
+        "storageWarehouseName": "Jones, Johnston and Barnes"
+    }
+]
