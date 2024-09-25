@@ -1,0 +1,301 @@
+{
+  //--------------------------------------------
+  // Customers Collection Schema  --------------
+  //--------------------------------------------
+  "Customers": {
+    "_id": {"type": "ObjectID()"},
+    "name":{ "type": "string", "maxLength": 90 },
+    "gender": { "type": "string", "enum": ["Male", "Female", "Other"] },
+    "age": { "type": "int", "minimum": 18, "maximum": 120},
+    "location": {
+      "type": "Point" ,
+      "coordinates": ["lon Number", "lat Number"]
+    },
+    "defaultAddresses": {
+      // Embedded since it will be frequently accessed for purchases
+      // When the user orders his first order, these addresses
+      // can be saved here. Other addresses used after this will be saved
+      // but not defaulted unless the user defaults another address
+      // This can be changed within the app front-end
+      "default": {
+        "houseNumber": { "type": "string" },
+        "street": { "type": "string" },
+        "city": { "type": "string" },
+        "postcode": { "type": "string", "maxLength": 6 }
+      },
+      "shipping": {
+        "houseNumber": { "type": "string" },
+        "street": { "type": "string" },
+        "city": { "type": "string" },
+        "postcode": { "type": "string", "maxLength": 6 }
+      },
+      "billing": {
+        "houseNumber": { "type": "string" },
+        "street": { "type": "string" },
+        "city": { "type": "string" },
+        "postcode": { "type": "string", "maxLength": 6 }
+      }
+      // If any other default address is needed, this can be extended
+      // later on without issues.
+    },
+    "currentOrders": [
+      // Embedded since it will be frequently accessed
+      // When order is completed, it can be removed and added to pastOrders
+      {
+        "_id": { "type": "string" },
+        // 100 = $1.00 | 1 = $0.01
+        "totalOrderCost": { "type": "int" },
+        "status": { "type": "string", "enum": ["Pending", "On Delivery", "Closed"] },
+        "orderItems": [
+          {
+            "quantity": { "type": "int" },
+            "productID": "ref<Products._id>"
+          }
+        ]
+      }
+    ],
+    // Not defaulted addresses can still be accessed, but by reference.
+    "addresses": ["ref<Addresses._id>"],
+    // Ref since it is rearly accessed
+    "pastOrders": ["ref<PastOrders._id>"],
+    "recommendedProducts": [
+      {
+        // To be able to display as preview before actually fetching the data,
+        // Embed useful data for the preview (Depends on the app's FE)
+        "productName": { "type": "string" },
+        "productID": "ref<Products._id>"
+      }
+    ]
+  },
+
+  //--------------------------------------------
+  // Addresses Collection Schema
+  //--------------------------------------------
+  "Addresses": {
+    "_id": "ObjectID()",
+    "customerID": { "type": "ref<Customers._id>" },
+    "houseNumber": { "type": "string" },
+    "street": { "type": "string" },
+    "city": { "type": "string" },
+    "postcode": { "type": "string", "maxLength": 6 }
+  },
+
+  //--------------------------------------------
+  // Past Orders Collection Schema
+  //--------------------------------------------
+  "PastOrders": {
+    "_id": { "type": "string" },
+    "customerID": {"type": "ref<Customers._id>"},
+    // 100 = $1.00 | 1 = $0.01
+    "totalOrderCost": { "type": "int" },
+    "orderItems": [
+      {
+        // To be able to display as preview before actually fetching the data,
+        // Embed useful data for the preview (Depends on the app's FE)
+        "quantity": { "type": "int" },
+        "productName": { "type": "string" },
+        "productID": "ref<Products._id>"
+      }
+    ]
+  },
+
+  //--------------------------------------------
+  // Products Collection Schema
+  //--------------------------------------------
+  "Products": {
+    "_id": { "type": "ObjectID()" },
+    "productSegment": { "type": "string", "enum": ["Fresh", "Other"] },
+    // List of all the stores that have this item
+    // This relationship can be empty for 'Other' productSegment
+    // Cross-relation with Stores
+    "storesAvailable": ["ref<Stores._id>"],
+    "productType": { "conditional": {"productSegment": "Other"}, "type": "string", 
+        "enum": ["CD", "Book", "Phone", "Appliance", "Other"] },
+    // Even though the attributes change depending on the product,
+    // there are some attrs that are shared. These are the following:
+    "name": { "type": "string" },
+    "shortDescription": { "type": "string" },
+    "dimensions": { "type": "string" },
+    "avgRatingScore": { "type": "float"},
+    "stdPrice": { "type": "int"},
+    "supplierPrice": { "type": "int"},
+    "attributes": {
+      "weightOrQuantity": { "type": "int"}, // Covers for weights in both Fresh/Other, g for mass, ml for liquids
+        // Fresh-specific attributes here
+        "freshAttributes": {
+          "conditional": {"productSegment": "Fresh"},
+          "category": { "type": "string", "enum": ["Bakery", "Drinks", "Fruits and Vegetables", "Other"]},
+          "expiryDate": { "type": "date" },
+          "countryOfOrigin": { "type": "string"}
+        },
+        // Specific for 'Other' segment based on productType
+        "otherAttributes": {
+          "conditional": {"productSegment": "Other"},
+          "typeBasedAttributes": {
+            // Book-specific Attributes
+            "bookAttributes": {
+              "conditional": {"productType": "Book"},
+              "authorName": {"type": "string"},
+              "publisher": {"type": "string"},
+              "yearOfPublication": {"type": "int"},
+              "ISBN": {"type": "string"}
+            },
+            // CD-specific attributes
+            "cdAttributes": {
+              "conditional": {"productType": "CD"},
+              "artistName": {"type": "string"},
+              "noOfTracks": {"type": "int"},
+              "totalPlayingTime": {"type": "int"},
+              "publisher": {"type": "string"}
+            },
+            // Phone-specific attributes
+            "phoneAttributes": {
+              "conditional": {"productType": "Phone"},
+              "brand": { "type": "string" },
+              "model": { "type": "string" },
+              "colour": { "type": "string" },
+              "features": { "type": ["string"] } // List of strings
+            },
+            // Appliance-specific attributes
+            "applianceAttributes": {
+              "conditional": {"productType": "Appliance"},
+              "colour": { "type": "string" },
+              "voltage": { "type": "int" },
+              "style": { "type": "string" }
+            },
+            "otherAttributes": {
+              "conditional": {"productType": "Other"}
+              // All the other attributes not covered by current schema
+            }
+              // Additional conditional attributes for Phone and Appliance
+          }
+        }
+    }
+  },
+
+  //--------------------------------------------
+  // Products Ratings Collection Schema
+  //--------------------------------------------
+  // Removed embedding in products, will be replaced with indexing
+  // Reasons: bloating each product document, resultant performance drop, complex updates and writes
+  "Ratings": {
+    "_id": {"type": "ObjectID()"},
+    "productID": {"type": "ref<Products._id>"},
+    "userID": {"type": "ref<Customers._id>"},
+    "score": {"type": "int"},
+    "comment": {"type": "string"},
+    "dateTime": {"type": "date"}
+  },
+
+  //--------------------------------------------
+  // Products Inventories Log Collection Schema
+  //--------------------------------------------
+  // Moved due to large quantity and rare queries
+  "ProductsInventoriesLog": {
+    "productID" : {"type" : "ref<Products._id>"},
+    "date": {"type": "date"},
+    "inventoryQuantity": { "type": "int"},
+    "storageWarehouseLocation": {
+      "type": "Point" ,
+      "coordinates": ["lon Number", "lat Number"]
+    },
+    "storageWarehouseName": { "type": "string" }
+  },
+
+  //--------------------------------------------
+  // Stores Collection Schema
+  //--------------------------------------------
+  "Stores": {
+    "_id": "ObjectID()",
+    "name": { "type": "string" },
+    "address": { "type": "string" },
+    "location": {
+      "type": "Point" ,
+      "coordinates": ["lon Number", "lat Number"]
+    },
+    "inventory": [
+      // List all the items available
+      {
+        "productID": "ref<Products._id>",
+        "availability": { "type": "int"},
+        // Embeded attributes needed for previewing purposes
+        "name": { "type": "string" },
+        "supplierPrice": { "type": "int"},
+        "stdPrice": { "type": "int"},
+        "shortDescription": { "type": "string" }
+      }
+    ]
+  },
+
+  //--------------------------------------------
+  // Partners Collection Schema
+  //--------------------------------------------
+  "Partners": {
+    "_id": { "type": "string" },
+    "name": { "type": "string" },
+    "gender": { "type": "string" },
+    "age": { "type": "int"},
+    // 100 = $1.00 | 1 = $0.01
+    "baseFee": { "type": "int"},
+    // 100 = $1.00 | 1 = $0.01
+    "feePerMile": { "type": "int"},
+    "personalData": {}, // Object to track other personal data needed (image URL?)
+    "location": {
+      "type": "Point" ,
+      "coordinates": ["lon Number", "lat Number"]
+    },
+    "status": { "type": "string", "enum": ["Idle", "Delivering", "Pickup"]},
+    "deliveryTasks": [
+      // Once Completed, these tasks are removed from here and are
+      // kept in DeliveryTasks collection for later use (pay-outs and historical data)
+      {
+        "_id": { "type": "string" },
+        // 100 = $1.00 | 1 = $0.01
+        "deliveryAddress": {"type": "string"},
+        "totalOrderCost": { "type": "int"},
+        "dateOfDelivery": { "type": "date"},
+        "deliveryStatus": { "type": "string", "enum": ["Pending", "Pickup", "Delivering", "Complete", "Canceled", "Customer Canceled", "Rescheduled"]}, 
+        "store": {
+          "_id": "ref<Stores._id>",
+          // Embeded attrs for quick preview for the partner
+          "name": { "type": "string" },
+          "address": { "type": "string" }
+        },
+        "orderItems": [
+          {
+            "quantity": { "type": "int"},
+            "productID": "ref<Products._id>",
+            // Embeded attrs for quick preview for the partner
+            "name": { "type": "string" },
+            "shortDescription": { "type": "string" }
+          }
+        ]
+      }
+    ]
+  },
+
+  //--------------------------------------------
+  // Delivery Tasks Collection Schema
+  //--------------------------------------------
+  "DeliveryTasks": {
+    "_id": "ObjectID()",
+    "partner": "ref<Partners._id>",
+    "deliveryAddress": {"type": "string"},
+    "totalDistance": { "type": "int"},
+    "totalOrderCost": { "type": "int"},
+    "dateOfDelivery": { "type": "date"},
+    "deliveryStatus": { "type": "string", "enum": [ "Complete", "Canceled", "Customer Canceled", "Rescheduled"] },
+    "store": {
+      "_id": "ref<Stores._id>",
+      // Embeded attrs for quick preview for the partner
+      "name": { "type": "string" },
+      "address": { "type": "string" }
+    },
+    "orderItems": [
+      {
+        "quantity": { "type": "int"},
+        "productID": "ref<Products._id>"
+      }
+    ]
+  }
+}
